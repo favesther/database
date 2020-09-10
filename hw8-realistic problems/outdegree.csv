@@ -1,0 +1,328 @@
+city,num
+Aberdeen SD,62
+Abilene TX,423
+Adak Island AK,18
+Aguadilla PR,265
+Akron OH,1458
+Albany GA,192
+Albany NY,2431
+Albuquerque NM,5326
+Alexandria LA,459
+Allentown/Bethlehem/Easton PA,593
+Alpena MI,54
+Amarillo TX,1164
+Anchorage AK,4492
+Appleton WI,485
+Arcata/Eureka CA,468
+Asheville NC,736
+Ashland WV,124
+Aspen CO,261
+Atlanta GA,71955
+Atlantic City NJ,434
+Augusta GA,456
+Austin TX,7921
+Bakersfield CA,652
+Baltimore MD,17946
+Bangor ME,601
+Barrow AK,141
+Baton Rouge LA,1548
+Beaumont/Port Arthur TX,123
+Bemidji MN,62
+Bend/Redmond OR,545
+Bethel AK,181
+Billings MT,850
+Binghamton NY,154
+Birmingham AL,3102
+Bismarck/Mandan ND,573
+Bloomington/Normal IL,461
+Boise ID,2727
+Boston MA,21742
+Bozeman MT,1043
+Brainerd MN,62
+Bristol/Johnson City/Kingsport TN,520
+Brownsville TX,397
+Brunswick GA,167
+Buffalo NY,4039
+Burbank CA,4336
+Burlington VT,1153
+Butte MT,179
+Carlsbad CA,182
+Casper WY,540
+Cedar City UT,147
+Cedar Rapids/Iowa City IA,1399
+Champaign/Urbana IL,510
+Charleston SC,2470
+Charleston/Dunbar WV,620
+Charlotte Amalie VI,685
+Charlotte NC,19595
+Charlottesville VA,380
+Chattanooga TN,814
+Chicago IL,73317
+Chico CA,93
+Christiansted VI,150
+Cincinnati OH,20520
+Cleveland OH,11254
+Cody WY,222
+College Station/Bryan TX,450
+Colorado Springs CO,1973
+Columbia MO,121
+Columbia SC,1404
+Columbus GA,251
+Columbus MS,181
+Columbus OH,5614
+Cordova AK,124
+Corpus Christi TX,1209
+Crescent City CA,81
+Dallas TX,9097
+Dallas/Fort Worth TX,50288
+Dayton OH,2101
+Daytona Beach FL,489
+Deadhorse AK,110
+Denver CO,37073
+Des Moines IA,1750
+Detroit MI,22727
+Devils Lake ND,50
+Dickinson ND,64
+Dillingham AK,67
+Dothan AL,268
+Dubuque IA,211
+Duluth MN,241
+Durango CO,299
+Eagle CO,137
+Eau Claire WI,62
+El Centro CA,62
+El Paso TX,3085
+Elko NV,227
+Elmira/Corning NY,201
+Erie PA,154
+Escanaba MI,54
+Eugene OR,880
+Evansville IN,943
+Fairbanks AK,868
+Fargo ND,985
+Fayetteville AR,2113
+Fayetteville NC,273
+Flagstaff AZ,182
+Flint MI,1074
+Florence SC,88
+Fort Lauderdale FL,12228
+Fort Myers FL,3539
+Fort Smith AR,352
+Fort Wayne IN,1049
+Fresno CA,1879
+Gainesville FL,435
+Garden City KS,62
+Gillette WY,89
+Grand Forks ND,114
+Grand Island NE,58
+Grand Junction CO,645
+Grand Rapids MI,2287
+Great Falls MT,573
+Green Bay WI,1139
+Greensboro/High Point NC,2123
+Greer SC,1708
+Guam TT,31
+Gulfport/Biloxi MS,892
+Gunnison CO,50
+Gustavus AK,62
+Hancock/Houghton MI,63
+Harlingen/San Benito TX,796
+Harrisburg PA,969
+Hartford CT,5059
+Hattiesburg/Laurel MS,54
+Hayden CO,62
+Hays KS,54
+Helena MT,362
+Hibbing MN,85
+Hickory NC,93
+Hilo HI,807
+Hobbs NM,58
+Honolulu HI,7731
+Houston TX,42634
+Huntsville AL,1463
+Hyannis MA,31
+Idaho Falls ID,538
+Indianapolis IN,6382
+International Falls MN,53
+Inyokern CA,93
+Iron Mountain/Kingsfd MI,58
+Islip NY,1487
+Jackson WY,888
+Jackson/Vicksburg MS,1684
+Jacksonville FL,4352
+Jacksonville/Camp Lejeune NC,105
+Jamestown ND,77
+Joplin MO,62
+Juneau AK,1086
+Kahului HI,3397
+Kalamazoo MI,407
+Kalispell MT,650
+Kansas City MO,8704
+Ketchikan AK,558
+Key West FL,226
+Killeen TX,819
+King Salmon AK,95
+Kinston NC,89
+Knoxville TN,1872
+Kodiak AK,120
+Kona HI,1822
+Kotzebue AK,155
+La Crosse WI,278
+Lafayette LA,814
+Lake Charles LA,274
+Lansing MI,457
+Laramie WY,54
+Laredo TX,455
+Las Vegas NV,27023
+Latrobe PA,146
+Lawton/Fort Sill OK,309
+Lewisburg WV,19
+Lewiston ID,124
+Lexington KY,1580
+Lihue HI,1786
+Lincoln NE,354
+Little Rock AR,2759
+Long Beach CA,1907
+Longview TX,154
+Los Angeles CA,39536
+Louisville KY,3034
+Lubbock TX,1267
+Lynchburg VA,88
+Macon GA,88
+Madison WI,1759
+Manchester NH,2766
+Manhattan/Ft. Riley KS,153
+Marquette MI,114
+Marthas Vineyard MA,62
+Medford OR,755
+Melbourne FL,468
+Memphis TN,5518
+Meridian MS,203
+Miami FL,12094
+Midland/Odessa TX,1340
+Milwaukee WI,4763
+Minneapolis MN,24707
+Minot ND,311
+Mission/McAllen/Edinburg TX,605
+Missoula MT,730
+Mobile AL,901
+Modesto CA,121
+Moline IL,734
+Monroe LA,439
+Monterey CA,892
+Montgomery AL,601
+Montrose/Delta CO,369
+Mosinee WI,118
+Muskegon MI,62
+Myrtle Beach SC,1341
+Nantucket MA,226
+Naples FL,93
+Nashville TN,9838
+New Bern/Morehead/Beaufort NC,57
+New Haven CT,88
+New Orleans LA,8032
+New York NY,38690
+Newark NJ,23370
+Newburgh/Poughkeepsie NY,340
+Newport News/Williamsburg VA,705
+Niagara Falls NY,27
+Nome AK,155
+Norfolk VA,2755
+North Bend/Coos Bay OR,40
+Oakland CA,10317
+Oklahoma City OK,3332
+Omaha NE,3575
+Ontario CA,4793
+Orlando FL,20716
+Oxnard/Ventura CA,144
+Paducah KY,62
+Pago Pago TT,14
+Palm Springs CA,1076
+Panama City FL,763
+Pasco/Kennewick/Richland WA,604
+Pellston MI,120
+Pensacola FL,1809
+Peoria IL,749
+Petersburg AK,124
+Philadelphia PA,17380
+Phoenix AZ,29134
+Pittsburgh PA,6988
+Plattsburgh NY,25
+Pocatello ID,244
+Ponce PR,124
+Portland ME,1562
+Portland OR,10083
+Providence RI,3677
+Raleigh/Durham NC,8456
+Rapid City SD,952
+Redding CA,211
+Reno NV,3856
+Rhinelander WI,89
+Richmond VA,3418
+Roanoke VA,503
+Rochester MN,471
+Rochester NY,2336
+Rock Springs WY,58
+Roswell NM,91
+Sacramento CA,8075
+Saginaw/Bay City/Midland MI,367
+Salt Lake City UT,23951
+San Angelo TX,306
+San Antonio TX,6497
+San Diego CA,14897
+San Francisco CA,26016
+San Jose CA,9161
+San Juan PR,4907
+San Luis Obispo CA,707
+Santa Ana CA,7789
+Santa Barbara CA,1693
+Santa Fe NM,156
+Santa Maria CA,242
+Sarasota/Bradenton FL,803
+Sault Ste. Marie MI,61
+Savannah GA,2109
+Scranton/Wilkes-Barre PA,336
+Seattle WA,22062
+Shreveport LA,1245
+Sioux City IA,58
+Sioux Falls SD,829
+Sitka AK,341
+South Bend IN,709
+Spokane WA,2137
+Springfield IL,154
+Springfield MO,1214
+St. Augustine FL,13
+St. George UT,384
+St. Louis MO,10335
+State College PA,241
+Sun Valley/Hailey/Ketchum ID,472
+Syracuse NY,1863
+Tallahassee FL,779
+Tampa FL,12559
+Texarkana AR,185
+Toledo OH,605
+Traverse City MI,800
+Trenton NJ,279
+Tucson AZ,2856
+Tulsa OK,3156
+Tupelo MS,93
+Twin Falls ID,275
+Tyler TX,474
+Valdosta GA,205
+Valparaiso FL,1195
+Victoria TX,1
+Visalia CA,60
+Waco TX,359
+Washington DC,30399
+Waterloo IA,58
+West Palm Beach/Palm Beach FL,3763
+West Yellowstone MT,126
+White Plains NY,1230
+Wichita Falls TX,356
+Wichita KS,1611
+Williston ND,249
+Wilmington NC,565
+Worcester MA,62
+Wrangell AK,124
+Yakutat AK,124
+Yuma AZ,268

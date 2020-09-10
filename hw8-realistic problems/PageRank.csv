@@ -1,0 +1,328 @@
+,city,PageRank value
+139,Houston TX,0.00062
+18,Atlanta GA,0.0004
+58,Chicago IL,0.00039
+202,Minneapolis MN,0.00037
+75,Dallas/Fort Worth TX,0.00037
+79,Denver CO,0.00037
+12,Anchorage AK,0.00035
+138,Honolulu HI,0.00034
+106,Fort Lauderdale FL,0.00034
+61,Cincinnati OH,0.00034
+81,Detroit MI,0.00034
+234,Orlando FL,0.00033
+303,Trenton NJ,0.00033
+222,New York NY,0.00033
+185,Los Angeles CA,0.00033
+267,Salt Lake City UT,0.00033
+271,San Francisco CA,0.00033
+215,Myrtle Beach SC,0.00033
+154,Juneau AK,0.00032
+162,King Salmon AK,0.00032
+37,Boston MA,0.00032
+246,Phoenix AZ,0.00032
+223,Newark NJ,0.00032
+224,Newburgh/Poughkeepsie NY,0.00031
+220,New Haven CT,0.00031
+219,New Bern/Morehead/Beaufort NC,0.00031
+221,New Orleans LA,0.00031
+218,Nashville TN,0.00031
+217,Naples FL,0.00031
+216,Nantucket MA,0.00031
+0,Aberdeen SD,0.00031
+229,North Bend/Coos Bay OR,0.00031
+225,Newport News/Williamsburg VA,0.00031
+226,Niagara Falls NY,0.00031
+242,Pensacola FL,0.00031
+241,Pellston MI,0.00031
+240,Pasco/Kennewick/Richland WA,0.00031
+239,Panama City FL,0.00031
+238,Palm Springs CA,0.00031
+237,Pago Pago TT,0.00031
+236,Paducah KY,0.00031
+235,Oxnard/Ventura CA,0.00031
+233,Ontario CA,0.00031
+232,Omaha NE,0.00031
+231,Oklahoma City OK,0.00031
+230,Oakland CA,0.00031
+213,Mosinee WI,0.00031
+228,Norfolk VA,0.00031
+227,Nome AK,0.00031
+214,Muskegon MI,0.00031
+207,Modesto CA,0.00031
+212,Montrose/Delta CO,0.00031
+211,Montgomery AL,0.00031
+189,Macon GA,0.00031
+188,Lynchburg VA,0.00031
+187,Lubbock TX,0.00031
+186,Louisville KY,0.00031
+184,Longview TX,0.00031
+183,Long Beach CA,0.00031
+182,Little Rock AR,0.00031
+181,Lincoln NE,0.00031
+180,Lihue HI,0.00031
+179,Lexington KY,0.00031
+178,Lewiston ID,0.00031
+177,Lewisburg WV,0.00031
+176,Lawton/Fort Sill OK,0.00031
+175,Latrobe PA,0.00031
+174,Las Vegas NV,0.00031
+173,Laredo TX,0.00031
+172,Laramie WY,0.00031
+190,Madison WI,0.00031
+191,Manchester NH,0.00031
+192,Manhattan/Ft. Riley KS,0.00031
+203,Minot ND,0.00031
+210,Monterey CA,0.00031
+209,Monroe LA,0.00031
+208,Moline IL,0.00031
+244,Petersburg AK,0.00031
+206,Mobile AL,0.00031
+205,Missoula MT,0.00031
+204,Mission/McAllen/Edinburg TX,0.00031
+201,Milwaukee WI,0.00031
+193,Marquette MI,0.00031
+200,Midland/Odessa TX,0.00031
+199,Miami FL,0.00031
+198,Meridian MS,0.00031
+197,Memphis TN,0.00031
+196,Melbourne FL,0.00031
+195,Medford OR,0.00031
+194,Marthas Vineyard MA,0.00031
+243,Peoria IL,0.00031
+250,Ponce PR,0.00031
+245,Philadelphia PA,0.00031
+297,Syracuse NY,0.00031
+305,Tulsa OK,0.00031
+304,Tucson AZ,0.00031
+302,Traverse City MI,0.00031
+301,Toledo OH,0.00031
+300,Texarkana AR,0.00031
+299,Tampa FL,0.00031
+298,Tallahassee FL,0.00031
+296,Sun Valley/Hailey/Ketchum ID,0.00031
+307,Twin Falls ID,0.00031
+295,State College PA,0.00031
+294,St. Louis MO,0.00031
+293,St. George UT,0.00031
+292,St. Augustine FL,0.00031
+291,Springfield MO,0.00031
+290,Springfield IL,0.00031
+289,Spokane WA,0.00031
+306,Tupelo MS,0.00031
+308,Tyler TX,0.00031
+247,Pittsburgh PA,0.00031
+318,White Plains NY,0.00031
+325,Yakutat AK,0.00031
+324,Wrangell AK,0.00031
+323,Worcester MA,0.00031
+322,Wilmington NC,0.00031
+321,Williston ND,0.00031
+320,Wichita KS,0.00031
+319,Wichita Falls TX,0.00031
+317,West Yellowstone MT,0.00031
+309,Valdosta GA,0.00031
+316,West Palm Beach/Palm Beach FL,0.00031
+315,Waterloo IA,0.00031
+314,Washington DC,0.00031
+313,Waco TX,0.00031
+312,Visalia CA,0.00031
+311,Victoria TX,0.00031
+310,Valparaiso FL,0.00031
+288,South Bend IN,0.00031
+287,Sitka AK,0.00031
+286,Sioux Falls SD,0.00031
+256,Redding CA,0.00031
+263,Rock Springs WY,0.00031
+262,Rochester NY,0.00031
+261,Rochester MN,0.00031
+260,Roanoke VA,0.00031
+259,Richmond VA,0.00031
+258,Rhinelander WI,0.00031
+257,Reno NV,0.00031
+255,Rapid City SD,0.00031
+285,Sioux City IA,0.00031
+254,Raleigh/Durham NC,0.00031
+253,Providence RI,0.00031
+252,Portland OR,0.00031
+251,Portland ME,0.00031
+170,Lake Charles LA,0.00031
+249,Pocatello ID,0.00031
+248,Plattsburgh NY,0.00031
+264,Roswell NM,0.00031
+265,Sacramento CA,0.00031
+266,Saginaw/Bay City/Midland MI,0.00031
+268,San Angelo TX,0.00031
+284,Shreveport LA,0.00031
+283,Seattle WA,0.00031
+282,Scranton/Wilkes-Barre PA,0.00031
+281,Savannah GA,0.00031
+280,Sault Ste. Marie MI,0.00031
+279,Sarasota/Bradenton FL,0.00031
+278,Santa Maria CA,0.00031
+277,Santa Fe NM,0.00031
+276,Santa Barbara CA,0.00031
+275,Santa Ana CA,0.00031
+274,San Luis Obispo CA,0.00031
+273,San Juan PR,0.00031
+272,San Jose CA,0.00031
+270,San Diego CA,0.00031
+269,San Antonio TX,0.00031
+171,Lansing MI,0.00031
+163,Kinston NC,0.00031
+169,Lafayette LA,0.00031
+52,Charleston SC,0.00031
+60,Christiansted VI,0.00031
+59,Chico CA,0.00031
+57,Chattanooga TN,0.00031
+56,Charlottesville VA,0.00031
+55,Charlotte NC,0.00031
+54,Charlotte Amalie VI,0.00031
+53,Charleston/Dunbar WV,0.00031
+51,Champaign/Urbana IL,0.00031
+63,Cody WY,0.00031
+50,Cedar Rapids/Iowa City IA,0.00031
+49,Cedar City UT,0.00031
+48,Casper WY,0.00031
+47,Carlsbad CA,0.00031
+46,Butte MT,0.00031
+45,Burlington VT,0.00031
+44,Burbank CA,0.00031
+62,Cleveland OH,0.00031
+64,College Station/Bryan TX,0.00031
+168,La Crosse WI,0.00031
+74,Dallas TX,0.00031
+84,Dillingham AK,0.00031
+83,Dickinson ND,0.00031
+82,Devils Lake ND,0.00031
+80,Des Moines IA,0.00031
+78,Deadhorse AK,0.00031
+77,Daytona Beach FL,0.00031
+76,Dayton OH,0.00031
+73,Crescent City CA,0.00031
+65,Colorado Springs CO,0.00031
+72,Corpus Christi TX,0.00031
+71,Cordova AK,0.00031
+70,Columbus OH,0.00031
+69,Columbus MS,0.00031
+68,Columbus GA,0.00031
+67,Columbia SC,0.00031
+66,Columbia MO,0.00031
+43,Buffalo NY,0.00031
+42,Brunswick GA,0.00031
+41,Brownsville TX,0.00031
+10,Alpena MI,0.00031
+19,Atlantic City NJ,0.00031
+17,Aspen CO,0.00031
+16,Ashland WV,0.00031
+15,Asheville NC,0.00031
+14,Arcata/Eureka CA,0.00031
+13,Appleton WI,0.00031
+11,Amarillo TX,0.00031
+9,Allentown/Bethlehem/Easton PA,0.00031
+40,Bristol/Johnson City/Kingsport TN,0.00031
+8,Alexandria LA,0.00031
+7,Albuquerque NM,0.00031
+6,Albany NY,0.00031
+5,Albany GA,0.00031
+4,Akron OH,0.00031
+3,Aguadilla PR,0.00031
+2,Adak Island AK,0.00031
+20,Augusta GA,0.00031
+21,Austin TX,0.00031
+22,Bakersfield CA,0.00031
+23,Baltimore MD,0.00031
+39,Brainerd MN,0.00031
+38,Bozeman MT,0.00031
+36,Boise ID,0.00031
+35,Bloomington/Normal IL,0.00031
+34,Bismarck/Mandan ND,0.00031
+33,Birmingham AL,0.00031
+32,Binghamton NY,0.00031
+31,Billings MT,0.00031
+30,Bethel AK,0.00031
+29,Bend/Redmond OR,0.00031
+28,Bemidji MN,0.00031
+27,Beaumont/Port Arthur TX,0.00031
+26,Baton Rouge LA,0.00031
+25,Barrow AK,0.00031
+24,Bangor ME,0.00031
+85,Dothan AL,0.00031
+86,Dubuque IA,0.00031
+87,Duluth MN,0.00031
+137,Hobbs NM,0.00031
+146,Iron Mountain/Kingsfd MI,0.00031
+145,Inyokern CA,0.00031
+144,International Falls MN,0.00031
+143,Indianapolis IN,0.00031
+142,Idaho Falls ID,0.00031
+141,Hyannis MA,0.00031
+140,Huntsville AL,0.00031
+136,Hilo HI,0.00031
+127,Harlingen/San Benito TX,0.00031
+135,Hickory NC,0.00031
+134,Hibbing MN,0.00031
+133,Helena MT,0.00031
+132,Hays KS,0.00031
+131,Hayden CO,0.00031
+130,Hattiesburg/Laurel MS,0.00031
+129,Hartford CT,0.00031
+147,Islip NY,0.00031
+148,Jackson WY,0.00031
+149,Jackson/Vicksburg MS,0.00031
+150,Jacksonville FL,0.00031
+167,Kotzebue AK,0.00031
+166,Kona HI,0.00031
+165,Kodiak AK,0.00031
+164,Knoxville TN,0.00031
+1,Abilene TX,0.00031
+161,Killeen TX,0.00031
+160,Key West FL,0.00031
+159,Ketchikan AK,0.00031
+158,Kansas City MO,0.00031
+157,Kalispell MT,0.00031
+156,Kalamazoo MI,0.00031
+155,Kahului HI,0.00031
+153,Joplin MO,0.00031
+152,Jamestown ND,0.00031
+151,Jacksonville/Camp Lejeune NC,0.00031
+128,Harrisburg PA,0.00031
+126,Hancock/Houghton MI,0.00031
+88,Durango CO,0.00031
+97,Eugene OR,0.00031
+104,Flint MI,0.00031
+103,Flagstaff AZ,0.00031
+102,Fayetteville NC,0.00031
+101,Fayetteville AR,0.00031
+100,Fargo ND,0.00031
+99,Fairbanks AK,0.00031
+98,Evansville IN,0.00031
+96,Escanaba MI,0.00031
+125,Gustavus AK,0.00031
+95,Erie PA,0.00031
+94,Elmira/Corning NY,0.00031
+93,Elko NV,0.00031
+92,El Paso TX,0.00031
+91,El Centro CA,0.00031
+90,Eau Claire WI,0.00031
+89,Eagle CO,0.00031
+105,Florence SC,0.00031
+107,Fort Myers FL,0.00031
+108,Fort Smith AR,0.00031
+109,Fort Wayne IN,0.00031
+124,Gunnison CO,0.00031
+123,Gulfport/Biloxi MS,0.00031
+122,Guam TT,0.00031
+121,Greer SC,0.00031
+120,Greensboro/High Point NC,0.00031
+119,Green Bay WI,0.00031
+118,Great Falls MT,0.00031
+117,Grand Rapids MI,0.00031
+116,Grand Junction CO,0.00031
+115,Grand Island NE,0.00031
+114,Grand Forks ND,0.00031
+113,Gillette WY,0.00031
+112,Garden City KS,0.00031
+111,Gainesville FL,0.00031
+110,Fresno CA,0.00031
+326,Yuma AZ,0.00031

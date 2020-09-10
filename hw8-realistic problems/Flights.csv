@@ -1,0 +1,4663 @@
+origin_city,dest_city
+Boston MA,Austin TX
+Cincinnati OH,Salt Lake City UT
+Minneapolis MN,Hartford CT
+Portland ME,Atlanta GA
+Phoenix AZ,Miami FL
+Reno NV,Denver CO
+Atlanta GA,St. Louis MO
+Chicago IL,Sarasota/Bradenton FL
+Chicago IL,Anchorage AK
+Greensboro/High Point NC,Boston MA
+Houston TX,Newark NJ
+Oklahoma City OK,Cincinnati OH
+El Centro CA,Los Angeles CA
+St. Louis MO,Houston TX
+Atlanta GA,Milwaukee WI
+Phoenix AZ,Milwaukee WI
+Cincinnati OH,Allentown/Bethlehem/Easton PA
+Portland OR,Baltimore MD
+Las Vegas NV,Raleigh/Durham NC
+Des Moines IA,Las Vegas NV
+Los Angeles CA,Anchorage AK
+New York NY,Washington DC
+Norfolk VA,Charlotte NC
+Casper WY,Denver CO
+Las Vegas NV,Indianapolis IN
+Madison WI,Atlanta GA
+Omaha NE,Salt Lake City UT
+Chicago IL,Muskegon MI
+Anchorage AK,Kahului HI
+Atlanta GA,Panama City FL
+Detroit MI,Atlanta GA
+Atlanta GA,Raleigh/Durham NC
+Dallas/Fort Worth TX,Brownsville TX
+Myrtle Beach SC,New York NY
+Spokane WA,Los Angeles CA
+Richmond VA,Newark NJ
+Rochester NY,Chicago IL
+Phoenix AZ,Louisville KY
+Denver CO,Lincoln NE
+Las Vegas NV,St. Louis MO
+Atlanta GA,Greensboro/High Point NC
+Phoenix AZ,St. Louis MO
+New Orleans LA,Pittsburgh PA
+Las Vegas NV,Miami FL
+Seattle WA,Cincinnati OH
+San Diego CA,New Orleans LA
+Atlanta GA,Charlottesville VA
+Denver CO,Palm Springs CA
+Los Angeles CA,Newark NJ
+Lihue HI,Oakland CA
+Atlanta GA,Fort Smith AR
+Santa Ana CA,Seattle WA
+Buffalo NY,New York NY
+Washington DC,Newark NJ
+Cincinnati OH,Toledo OH
+Charlotte NC,Richmond VA
+Santa Ana CA,Salt Lake City UT
+Aspen CO,Los Angeles CA
+Chicago IL,Greer SC
+Chicago IL,Springfield MO
+Tulsa OK,Miami FL
+Fargo ND,Minneapolis MN
+Philadelphia PA,Hartford CT
+Atlanta GA,Louisville KY
+Birmingham AL,New York NY
+Minneapolis MN,Wichita KS
+New Orleans LA,Milwaukee WI
+San Diego CA,Boston MA
+Traverse City MI,Cincinnati OH
+Houston TX,Mobile AL
+Dallas/Fort Worth TX,Amarillo TX
+Fort Myers FL,Cincinnati OH
+Albuquerque NM,Minneapolis MN
+Phoenix AZ,Raleigh/Durham NC
+Denver CO,Dallas TX
+Atlanta GA,New York NY
+Denver CO,Hartford CT
+Colorado Springs CO,Houston TX
+Atlanta GA,Miami FL
+Scranton/Wilkes-Barre PA,Cincinnati OH
+Dickinson ND,Minneapolis MN
+Newark NJ,Raleigh/Durham NC
+Chicago IL,Peoria IL
+Denver CO,Kansas City MO
+Kona HI,Phoenix AZ
+Dallas/Fort Worth TX,Lubbock TX
+Baltimore MD,Flint MI
+Atlanta GA,Moline IL
+San Antonio TX,Orlando FL
+Newark NJ,Columbia SC
+Newark NJ,Greensboro/High Point NC
+Charlotte NC,Providence RI
+Dallas/Fort Worth TX,Austin TX
+Albuquerque NM,Portland OR
+Midland/Odessa TX,Dallas/Fort Worth TX
+Tampa FL,Kansas City MO
+San Juan PR,Newark NJ
+Boston MA,Cincinnati OH
+Milwaukee WI,Memphis TN
+Salt Lake City UT,Detroit MI
+New York NY,Portland ME
+San Jose CA,Ontario CA
+Nashville TN,New Orleans LA
+Cedar Rapids/Iowa City IA,Chicago IL
+Rochester NY,Washington DC
+Las Vegas NV,Santa Ana CA
+Newark NJ,Milwaukee WI
+Kansas City MO,San Francisco CA
+Baltimore MD,Kansas City MO
+Phoenix AZ,Washington DC
+Joplin MO,Dallas/Fort Worth TX
+Killeen TX,Dallas/Fort Worth TX
+Chicago IL,Houston TX
+Tampa FL,Cleveland OH
+Dallas/Fort Worth TX,Durango CO
+Monterey CA,Phoenix AZ
+Denver CO,Helena MT
+New York NY,St. Louis MO
+Atlanta GA,Columbus OH
+San Diego CA,Philadelphia PA
+Islip NY,Cleveland OH
+Houston TX,Albuquerque NM
+Tampa FL,West Palm Beach/Palm Beach FL
+Juneau AK,Gustavus AK
+Minneapolis MN,Portland OR
+Denver CO,Memphis TN
+New York NY,Louisville KY
+New York NY,Greensboro/High Point NC
+Newark NJ,Syracuse NY
+Anchorage AK,Newark NJ
+Baltimore MD,Hartford CT
+Charleston/Dunbar WV,Atlanta GA
+Moline IL,Denver CO
+Raleigh/Durham NC,Las Vegas NV
+Bangor ME,Boston MA
+Atlanta GA,Naples FL
+Trenton NJ,Tampa FL
+Baltimore MD,Little Rock AR
+North Bend/Coos Bay OR,San Francisco CA
+Syracuse NY,Detroit MI
+Kansas City MO,Boston MA
+Birmingham AL,Orlando FL
+Pasco/Kennewick/Richland WA,San Francisco CA
+Portland OR,Denver CO
+El Paso TX,San Antonio TX
+Kansas City MO,Memphis TN
+Phoenix AZ,Birmingham AL
+Newark NJ,Louisville KY
+Santa Barbara CA,Portland OR
+Houston TX,Norfolk VA
+San Francisco CA,Boise ID
+Houston TX,Peoria IL
+Indianapolis IN,Jacksonville FL
+Dallas/Fort Worth TX,Corpus Christi TX
+Bozeman MT,Los Angeles CA
+Atlanta GA,Melbourne FL
+San Francisco CA,Fresno CA
+San Jose CA,Reno NV
+Mobile AL,Dallas/Fort Worth TX
+Houston TX,Denver CO
+Newark NJ,Washington DC
+Denver CO,Ontario CA
+Birmingham AL,St. Louis MO
+New York NY,Milwaukee WI
+Pittsburgh PA,Dallas/Fort Worth TX
+San Francisco CA,Modesto CA
+Dallas/Fort Worth TX,Columbia MO
+New Orleans LA,Washington DC
+Atlanta GA,Appleton WI
+Oakland CA,Honolulu HI
+Milwaukee WI,Dallas TX
+Aguadilla PR,Newark NJ
+Indianapolis IN,Houston TX
+Cincinnati OH,Chattanooga TN
+North Bend/Coos Bay OR,Denver CO
+Houston TX,Charleston/Dunbar WV
+Houston TX,Baltimore MD
+Cleveland OH,Albany NY
+Spokane WA,Oakland CA
+Washington DC,Myrtle Beach SC
+Milwaukee WI,Kansas City MO
+Marquette MI,Green Bay WI
+Orlando FL,Grand Rapids MI
+Dallas/Fort Worth TX,Boston MA
+San Antonio TX,New York NY
+Tallahassee FL,Atlanta GA
+St. Louis MO,Phoenix AZ
+Worcester MA,Orlando FL
+Dallas/Fort Worth TX,Knoxville TN
+Sacramento CA,Honolulu HI
+Minneapolis MN,Bozeman MT
+Los Angeles CA,St. George UT
+Atlanta GA,Roanoke VA
+Boise ID,Las Vegas NV
+Charlotte Amalie VI,Atlanta GA
+Pensacola FL,Chicago IL
+Orlando FL,San Diego CA
+Phoenix AZ,Fresno CA
+Tampa FL,Baltimore MD
+Denver CO,Eagle CO
+Newark NJ,Manchester NH
+Atlanta GA,San Antonio TX
+Charlotte NC,Rochester NY
+Indianapolis IN,Phoenix AZ
+Las Vegas NV,Orlando FL
+Kansas City MO,Denver CO
+Kalispell MT,Atlanta GA
+Atlanta GA,Columbia SC
+Buffalo NY,Orlando FL
+Birmingham AL,Washington DC
+Montgomery AL,Houston TX
+Washington DC,Denver CO
+San Juan PR,Chicago IL
+Birmingham AL,Louisville KY
+Dallas/Fort Worth TX,Miami FL
+Minot ND,Minneapolis MN
+Detroit MI,Richmond VA
+Oakland CA,Los Angeles CA
+Cincinnati OH,Miami FL
+Detroit MI,Traverse City MI
+Evansville IN,Atlanta GA
+Austin TX,Cincinnati OH
+Little Rock AR,Dallas TX
+Phoenix AZ,San Luis Obispo CA
+Los Angeles CA,Denver CO
+Orlando FL,Jackson/Vicksburg MS
+Cincinnati OH,Buffalo NY
+Ponce PR,Orlando FL
+Orlando FL,Los Angeles CA
+Phoenix AZ,Santa Ana CA
+Houston TX,Hobbs NM
+Oakland CA,Nashville TN
+Detroit MI,Bangor ME
+Atlanta GA,Manchester NH
+Cincinnati OH,Phoenix AZ
+Nashville TN,Austin TX
+Tampa FL,Jacksonville FL
+Seattle WA,Houston TX
+Denver CO,Little Rock AR
+Minneapolis MN,Williston ND
+San Antonio TX,St. Louis MO
+Crescent City CA,San Francisco CA
+Anchorage AK,Chicago IL
+Arcata/Eureka CA,Crescent City CA
+Dallas TX,Austin TX
+Newark NJ,Chicago IL
+Atlanta GA,Santa Ana CA
+Niagara Falls NY,Fort Lauderdale FL
+Ontario CA,Salt Lake City UT
+Newark NJ,St. Louis MO
+Dallas/Fort Worth TX,Lafayette LA
+Richmond VA,Cleveland OH
+Fresno CA,Seattle WA
+San Francisco CA,Kahului HI
+Burbank CA,Salt Lake City UT
+Rapid City SD,Atlanta GA
+Cleveland OH,New Orleans LA
+Honolulu HI,Cincinnati OH
+Kansas City MO,Fort Lauderdale FL
+Washington DC,Greer SC
+Atlanta GA,Bloomington/Normal IL
+Grand Rapids MI,Denver CO
+Tulsa OK,St. Louis MO
+Salt Lake City UT,Reno NV
+Charlotte Amalie VI,San Juan PR
+Hartford CT,Orlando FL
+Chattanooga TN,Dallas/Fort Worth TX
+Minneapolis MN,Green Bay WI
+Orlando FL,Albany NY
+Colorado Springs CO,Chicago IL
+Fargo ND,Salt Lake City UT
+Denver CO,Laramie WY
+Nashville TN,Cincinnati OH
+Minneapolis MN,Fargo ND
+Chicago IL,Paducah KY
+Tampa FL,Denver CO
+Los Angeles CA,Lihue HI
+Miami FL,San Diego CA
+Albany NY,Philadelphia PA
+Phoenix AZ,Orlando FL
+Washington DC,West Palm Beach/Palm Beach FL
+Appleton WI,Chicago IL
+St. George UT,Los Angeles CA
+Cleveland OH,Los Angeles CA
+Sarasota/Bradenton FL,Charlotte NC
+Atlanta GA,Orlando FL
+San Francisco CA,Long Beach CA
+Philadelphia PA,West Palm Beach/Palm Beach FL
+Atlanta GA,Fort Wayne IN
+Seattle WA,Sitka AK
+Worcester MA,Fort Lauderdale FL
+Washington DC,Houston TX
+New York NY,Raleigh/Durham NC
+Detroit MI,Rochester NY
+Albany NY,Fort Lauderdale FL
+Detroit MI,Fort Myers FL
+Reno NV,San Francisco CA
+Pittsburgh PA,Charlotte NC
+Nantucket MA,New York NY
+San Francisco CA,Sacramento CA
+Pittsburgh PA,Fort Myers FL
+Newark NJ,Albuquerque NM
+San Francisco CA,Chicago IL
+New York NY,Manchester NH
+Cleveland OH,Grand Rapids MI
+Houston TX,San Francisco CA
+Houston TX,Cleveland OH
+Austin TX,Houston TX
+Chicago IL,Myrtle Beach SC
+Rochester MN,Minneapolis MN
+Miami FL,Tallahassee FL
+Houston TX,Anchorage AK
+New Orleans LA,Charlotte NC
+Chicago IL,Phoenix AZ
+Tampa FL,Dallas TX
+Atlanta GA,Fort Lauderdale FL
+Raleigh/Durham NC,Orlando FL
+Myrtle Beach SC,Boston MA
+Brownsville TX,Dallas/Fort Worth TX
+Rochester NY,Atlanta GA
+Lincoln NE,Minneapolis MN
+Cleveland OH,Atlanta GA
+Detroit MI,Dallas/Fort Worth TX
+New Orleans LA,Indianapolis IN
+Allentown/Bethlehem/Easton PA,Philadelphia PA
+New York NY,Syracuse NY
+Madison WI,Dallas/Fort Worth TX
+Phoenix AZ,Pittsburgh PA
+Cincinnati OH,Austin TX
+Minneapolis MN,Las Vegas NV
+Charleston SC,Dallas TX
+Providence RI,Baltimore MD
+Seattle WA,Tucson AZ
+Ontario CA,Houston TX
+San Francisco CA,Pasco/Kennewick/Richland WA
+Los Angeles CA,Dallas TX
+Detroit MI,Pittsburgh PA
+Denver CO,Rapid City SD
+Norfolk VA,Tampa FL
+Atlanta GA,Knoxville TN
+Dallas TX,Indianapolis IN
+Newport News/Williamsburg VA,Atlanta GA
+Jacksonville FL,Minneapolis MN
+Dallas/Fort Worth TX,San Diego CA
+Detroit MI,Greensboro/High Point NC
+Gunnison CO,Houston TX
+Dallas/Fort Worth TX,San Antonio TX
+Minneapolis MN,Lexington KY
+San Francisco CA,Newark NJ
+Pasco/Kennewick/Richland WA,Denver CO
+Long Beach CA,Washington DC
+Manchester NH,Cincinnati OH
+New York NY,Fort Myers FL
+Buffalo NY,Boston MA
+Santa Ana CA,Minneapolis MN
+Dallas TX,St. Louis MO
+Flint MI,Tampa FL
+Atlanta GA,New Orleans LA
+San Francisco CA,Dallas/Fort Worth TX
+Cleveland OH,Miami FL
+Anchorage AK,Barrow AK
+Santa Ana CA,Sacramento CA
+Newark NJ,Philadelphia PA
+Milwaukee WI,Baltimore MD
+Newark NJ,West Palm Beach/Palm Beach FL
+Lexington KY,Minneapolis MN
+Islip NY,Tampa FL
+Detroit MI,Fort Wayne IN
+Akron OH,Tampa FL
+Colorado Springs CO,Denver CO
+Austin TX,Cleveland OH
+New Orleans LA,St. Louis MO
+Charlotte NC,Allentown/Bethlehem/Easton PA
+Omaha NE,Houston TX
+Phoenix AZ,Indianapolis IN
+State College PA,Cincinnati OH
+Honolulu HI,Hilo HI
+Kansas City MO,Albuquerque NM
+White Plains NY,Fort Lauderdale FL
+Cleveland OH,San Diego CA
+Minneapolis MN,Salt Lake City UT
+Houston TX,Ontario CA
+Albuquerque NM,Salt Lake City UT
+Seattle WA,Detroit MI
+Juneau AK,Petersburg AK
+South Bend IN,Minneapolis MN
+Chicago IL,Evansville IN
+Fort Lauderdale FL,Islip NY
+Honolulu HI,Oakland CA
+Valparaiso FL,Memphis TN
+Orlando FL,Providence RI
+Chicago IL,Erie PA
+New York NY,Dayton OH
+Minneapolis MN,Iron Mountain/Kingsfd MI
+Lewiston ID,Salt Lake City UT
+Austin TX,Oakland CA
+Fayetteville AR,Atlanta GA
+Charlotte NC,Los Angeles CA
+Washington DC,Kansas City MO
+Anchorage AK,Bethel AK
+Cincinnati OH,Lansing MI
+Philadelphia PA,Denver CO
+Washington DC,Long Beach CA
+Long Beach CA,Seattle WA
+New York NY,Richmond VA
+Philadelphia PA,Myrtle Beach SC
+Chicago IL,Mobile AL
+Los Angeles CA,Fresno CA
+Pittsburgh PA,San Diego CA
+San Antonio TX,Miami FL
+Binghamton NY,Detroit MI
+Detroit MI,Grand Rapids MI
+Colorado Springs CO,San Francisco CA
+Washington DC,San Francisco CA
+Birmingham AL,Charlotte NC
+New York NY,Dallas/Fort Worth TX
+Newark NJ,San Francisco CA
+Anchorage AK,Long Beach CA
+Fairbanks AK,Minneapolis MN
+Columbus OH,Phoenix AZ
+Cleveland OH,Knoxville TN
+Sacramento CA,Boston MA
+Santa Ana CA,Chicago IL
+New York NY,Norfolk VA
+Baltimore MD,Minneapolis MN
+Albuquerque NM,Kansas City MO
+Minneapolis MN,Rochester MN
+Minneapolis MN,Baltimore MD
+Indianapolis IN,Baltimore MD
+Boston MA,Orlando FL
+San Jose CA,Portland OR
+San Diego CA,Honolulu HI
+Fresno CA,Phoenix AZ
+Salt Lake City UT,Billings MT
+Minneapolis MN,New York NY
+Charlotte NC,Orlando FL
+Los Angeles CA,Palm Springs CA
+Las Vegas NV,Lubbock TX
+Baltimore MD,San Francisco CA
+Oklahoma City OK,Los Angeles CA
+Fort Myers FL,Boston MA
+Newark NJ,Pittsburgh PA
+Atlantic City NJ,Chicago IL
+New York NY,Akron OH
+Dallas/Fort Worth TX,Buffalo NY
+Memphis TN,Dallas TX
+Chicago IL,Jacksonville FL
+Miami FL,Charlotte NC
+New York NY,Wilmington NC
+Nashville TN,Los Angeles CA
+Orlando FL,Newburgh/Poughkeepsie NY
+Fresno CA,Visalia CA
+Salt Lake City UT,Phoenix AZ
+Portland OR,Kahului HI
+Trenton NJ,Charlotte NC
+Miami FL,Tampa FL
+Charlotte NC,Portland ME
+Hibbing MN,International Falls MN
+Atlanta GA,Boston MA
+Columbus OH,Minneapolis MN
+Portland OR,Newark NJ
+Tampa FL,Pensacola FL
+Atlantic City NJ,Fort Lauderdale FL
+San Antonio TX,Washington DC
+Raleigh/Durham NC,Charlotte NC
+Oakland CA,Philadelphia PA
+Seattle WA,Oakland CA
+Portland OR,Bend/Redmond OR
+Houston TX,Greer SC
+Santa Ana CA,Phoenix AZ
+Pensacola FL,Dallas/Fort Worth TX
+New York NY,Fort Lauderdale FL
+Atlanta GA,Birmingham AL
+Austin TX,Detroit MI
+Kahului HI,Kona HI
+Norfolk VA,Cleveland OH
+Milwaukee WI,San Francisco CA
+Los Angeles CA,Memphis TN
+Dallas/Fort Worth TX,New Orleans LA
+Hartford CT,Miami FL
+Detroit MI,Oklahoma City OK
+Denver CO,Baltimore MD
+Greensboro/High Point NC,Orlando FL
+Philadelphia PA,San Francisco CA
+Charlotte NC,Milwaukee WI
+Mobile AL,Atlanta GA
+Chicago IL,Tampa FL
+Philadelphia PA,Cleveland OH
+Cleveland OH,Austin TX
+Chicago IL,Kahului HI
+Boston MA,Detroit MI
+Indianapolis IN,Detroit MI
+Charlotte NC,St. Louis MO
+Yuma AZ,Los Angeles CA
+Cleveland OH,Nashville TN
+Los Angeles CA,Boise ID
+Detroit MI,Dayton OH
+Denver CO,Kona HI
+Norfolk VA,Las Vegas NV
+Colorado Springs CO,Seattle WA
+Binghamton NY,Cincinnati OH
+Grand Junction CO,Salt Lake City UT
+Salt Lake City UT,Cincinnati OH
+Medford OR,Denver CO
+Sacramento CA,Atlanta GA
+New Orleans LA,Orlando FL
+Atlanta GA,Richmond VA
+Newark NJ,Seattle WA
+Philadelphia PA,Kansas City MO
+El Paso TX,Salt Lake City UT
+Dallas TX,Amarillo TX
+Atlanta GA,Dayton OH
+New York NY,Boston MA
+Baton Rouge LA,Atlanta GA
+Salt Lake City UT,Burbank CA
+Reno NV,Chicago IL
+Bristol/Johnson City/Kingsport TN,Atlanta GA
+Baltimore MD,Myrtle Beach SC
+Indianapolis IN,Cleveland OH
+Kansas City MO,Philadelphia PA
+Dallas TX,Orlando FL
+West Palm Beach/Palm Beach FL,Baltimore MD
+St. Louis MO,Detroit MI
+Boston MA,Miami FL
+Florence SC,Atlanta GA
+Chicago IL,Chattanooga TN
+New Haven CT,Cincinnati OH
+Dallas/Fort Worth TX,Lake Charles LA
+Phoenix AZ,Flagstaff AZ
+Providence RI,Kansas City MO
+New Orleans LA,San Diego CA
+Mobile AL,Chicago IL
+Detroit MI,Syracuse NY
+Little Rock AR,Salt Lake City UT
+Richmond VA,Houston TX
+Tallahassee FL,Dallas/Fort Worth TX
+Jackson/Vicksburg MS,Chicago IL
+Birmingham AL,Miami FL
+Manchester NH,Charlotte NC
+Lafayette LA,Houston TX
+Boise ID,Minneapolis MN
+Los Angeles CA,El Centro CA
+San Francisco CA,Houston TX
+Little Rock AR,Denver CO
+Orlando FL,Detroit MI
+Charlotte NC,Tampa FL
+Phoenix AZ,Philadelphia PA
+Detroit MI,Albany NY
+Jackson/Vicksburg MS,Baltimore MD
+Atlanta GA,Austin TX
+Eugene OR,Denver CO
+Washington DC,Cleveland OH
+Las Vegas NV,Philadelphia PA
+Las Vegas NV,Cincinnati OH
+Los Angeles CA,Kahului HI
+Atlanta GA,Fort Myers FL
+Dallas/Fort Worth TX,Santa Barbara CA
+Fort Lauderdale FL,Dallas TX
+Los Angeles CA,Chicago IL
+Shreveport LA,Atlanta GA
+Atlanta GA,Wilmington NC
+Denver CO,Bozeman MT
+Charlotte NC,San Diego CA
+Williston ND,Houston TX
+Seattle WA,Juneau AK
+Huntsville AL,Dallas/Fort Worth TX
+Boston MA,Indianapolis IN
+Minneapolis MN,Providence RI
+Little Rock AR,Baltimore MD
+Detroit MI,Manchester NH
+Minneapolis MN,Bismarck/Mandan ND
+Boston MA,Nantucket MA
+Cleveland OH,Boston MA
+San Jose CA,Phoenix AZ
+Latrobe PA,Chicago IL
+Harlingen/San Benito TX,Houston TX
+Hancock/Houghton MI,Chicago IL
+Anchorage AK,San Francisco CA
+New York NY,Birmingham AL
+Columbus OH,Chicago IL
+San Juan PR,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Santa Ana CA
+Grand Rapids MI,Newark NJ
+Los Angeles CA,Sacramento CA
+Raleigh/Durham NC,Miami FL
+Victoria TX,Houston TX
+Helena MT,Minneapolis MN
+Houston TX,Tyler TX
+Cincinnati OH,New York NY
+Dallas/Fort Worth TX,Nashville TN
+Seattle WA,Cleveland OH
+Cordova AK,Yakutat AK
+Killeen TX,Atlanta GA
+Atlanta GA,Portland ME
+Orlando FL,Rochester NY
+Lincoln NE,Chicago IL
+Newark NJ,Atlanta GA
+Minneapolis MN,Columbus OH
+Rapid City SD,Sioux Falls SD
+New York NY,Knoxville TN
+Pittsburgh PA,Atlanta GA
+Chicago IL,Charleston/Dunbar WV
+Pasco/Kennewick/Richland WA,Seattle WA
+Houston TX,Asheville NC
+New Orleans LA,Nashville TN
+Louisville KY,Tampa FL
+San Antonio TX,Charlotte NC
+El Paso TX,Las Vegas NV
+Detroit MI,Cedar Rapids/Iowa City IA
+Portland OR,Palm Springs CA
+Bozeman MT,Atlanta GA
+Bend/Redmond OR,Denver CO
+New York NY,New Orleans LA
+Kahului HI,Salt Lake City UT
+Tyler TX,Houston TX
+Salt Lake City UT,Tucson AZ
+Harrisburg PA,Chicago IL
+Guam TT,Honolulu HI
+Salt Lake City UT,Jackson WY
+Milwaukee WI,Denver CO
+Pittsburgh PA,Nashville TN
+New Orleans LA,Atlanta GA
+Portland OR,Dallas TX
+Las Vegas NV,Columbus OH
+Houston TX,Hartford CT
+Philadelphia PA,Baltimore MD
+Houston TX,Baton Rouge LA
+Tucson AZ,Las Vegas NV
+Burbank CA,Phoenix AZ
+South Bend IN,Chicago IL
+Tampa FL,Chicago IL
+Dallas TX,Tulsa OK
+Newark NJ,Denver CO
+Seattle WA,Reno NV
+Bloomington/Normal IL,Dallas/Fort Worth TX
+Midland/Odessa TX,Albuquerque NM
+Philadelphia PA,Minneapolis MN
+San Antonio TX,San Diego CA
+Nashville TN,Atlanta GA
+Charlotte Amalie VI,Philadelphia PA
+Orlando FL,New York NY
+Dallas/Fort Worth TX,Wichita KS
+Honolulu HI,Atlanta GA
+Houston TX,Seattle WA
+Hattiesburg/Laurel MS,Meridian MS
+Petersburg AK,Wrangell AK
+Dallas/Fort Worth TX,Tucson AZ
+New Orleans LA,Boston MA
+Minneapolis MN,San Antonio TX
+Manchester NH,Washington DC
+Madison WI,Chicago IL
+Atlanta GA,Charlotte NC
+West Palm Beach/Palm Beach FL,Newark NJ
+Dayton OH,Orlando FL
+Dallas/Fort Worth TX,Las Vegas NV
+Oakland CA,Seattle WA
+Madison WI,Newark NJ
+Monterey CA,Los Angeles CA
+Albuquerque NM,Cincinnati OH
+Houston TX,Rapid City SD
+Chicago IL,Asheville NC
+Tallahassee FL,Houston TX
+Harrisburg PA,Atlanta GA
+Denver CO,Newark NJ
+Pittsburgh PA,San Francisco CA
+San Francisco CA,Honolulu HI
+Syracuse NY,Washington DC
+Grand Rapids MI,Minneapolis MN
+Sacramento CA,Long Beach CA
+Charlotte NC,Birmingham AL
+Chicago IL,Green Bay WI
+Washington DC,Hartford CT
+Chicago IL,Pensacola FL
+Fort Lauderdale FL,Worcester MA
+Grand Junction CO,Phoenix AZ
+Detroit MI,Newark NJ
+Kansas City MO,Washington DC
+Salt Lake City UT,Oakland CA
+Atlanta GA,Lafayette LA
+Kona HI,Los Angeles CA
+Minneapolis MN,Orlando FL
+Reno NV,Boise ID
+Orlando FL,Buffalo NY
+Las Vegas NV,Honolulu HI
+Atlantic City NJ,Atlanta GA
+Tampa FL,Las Vegas NV
+Charlotte NC,San Antonio TX
+Minneapolis MN,Idaho Falls ID
+Washington DC,Seattle WA
+Chicago IL,Hartford CT
+Los Angeles CA,Santa Fe NM
+Lexington KY,Newark NJ
+Baltimore MD,Albuquerque NM
+Los Angeles CA,Dallas/Fort Worth TX
+Denver CO,San Francisco CA
+New Bern/Morehead/Beaufort NC,Atlanta GA
+St. Louis MO,Tampa FL
+Seattle WA,Minneapolis MN
+Savannah GA,Chicago IL
+New York NY,Ponce PR
+Shreveport LA,Dallas/Fort Worth TX
+San Diego CA,Pittsburgh PA
+Albuquerque NM,Dallas TX
+Omaha NE,Los Angeles CA
+Boston MA,Nashville TN
+Kansas City MO,Fort Myers FL
+Miami FL,Jacksonville FL
+Chicago IL,Portland OR
+Cincinnati OH,Harrisburg PA
+Phoenix AZ,Memphis TN
+Portland OR,Long Beach CA
+Billings MT,Denver CO
+Charlotte NC,Wilmington NC
+Gulfport/Biloxi MS,Houston TX
+Orlando FL,Atlantic City NJ
+Atlanta GA,Trenton NJ
+Hilo HI,Los Angeles CA
+Dallas/Fort Worth TX,Gulfport/Biloxi MS
+Midland/Odessa TX,Austin TX
+Los Angeles CA,Oxnard/Ventura CA
+Portland ME,Boston MA
+Huntsville AL,Denver CO
+Burbank CA,Portland OR
+Fort Wayne IN,Minneapolis MN
+Dallas/Fort Worth TX,Oklahoma City OK
+Detroit MI,Santa Ana CA
+Newark NJ,Fayetteville AR
+Portland OR,Chicago IL
+Santa Ana CA,Detroit MI
+Toledo OH,Atlanta GA
+San Francisco CA,Dallas TX
+Huntsville AL,Newark NJ
+Santa Barbara CA,Salt Lake City UT
+Oakland CA,Long Beach CA
+Dallas/Fort Worth TX,Columbus OH
+Myrtle Beach SC,Atlantic City NJ
+Houston TX,Lexington KY
+Salt Lake City UT,Fargo ND
+Newark NJ,Hartford CT
+Greer SC,Detroit MI
+San Francisco CA,Cleveland OH
+Anchorage AK,Atlanta GA
+Fort Myers FL,Columbus OH
+Albuquerque NM,Baltimore MD
+Melbourne FL,Cincinnati OH
+Cincinnati OH,Newburgh/Poughkeepsie NY
+Houston TX,Kahului HI
+Flint MI,Orlando FL
+Chicago IL,Rochester MN
+Denver CO,Albuquerque NM
+Cleveland OH,Rochester NY
+Plattsburgh NY,Myrtle Beach SC
+Detroit MI,State College PA
+Jacksonville FL,Denver CO
+St. Louis MO,Cleveland OH
+Detroit MI,Akron OH
+Atlanta GA,Corpus Christi TX
+Dallas/Fort Worth TX,Los Angeles CA
+Orlando FL,Panama City FL
+Nashville TN,San Diego CA
+Los Angeles CA,Portland OR
+Peoria IL,Chicago IL
+Minneapolis MN,Missoula MT
+Atlanta GA,Fayetteville AR
+Phoenix AZ,Los Angeles CA
+San Diego CA,Milwaukee WI
+Charlotte Amalie VI,Houston TX
+Phoenix AZ,Little Rock AR
+Louisville KY,Birmingham AL
+Austin TX,Minneapolis MN
+Cleveland OH,Allentown/Bethlehem/Easton PA
+Roswell NM,Dallas/Fort Worth TX
+Atlanta GA,San Diego CA
+Las Vegas NV,Charlotte NC
+Los Angeles CA,Spokane WA
+Hartford CT,Detroit MI
+Minneapolis MN,Lansing MI
+Detroit MI,Bloomington/Normal IL
+Kahului HI,Houston TX
+New Orleans LA,Los Angeles CA
+Charlotte NC,Greensboro/High Point NC
+Dallas TX,Las Vegas NV
+Columbus OH,Tampa FL
+Charlotte NC,Miami FL
+Wichita KS,Atlanta GA
+Miami FL,Louisville KY
+Salt Lake City UT,Medford OR
+Portland OR,Seattle WA
+San Antonio TX,Harlingen/San Benito TX
+Lawton/Fort Sill OK,Dallas/Fort Worth TX
+Charleston/Dunbar WV,Chicago IL
+St. Louis MO,Grand Rapids MI
+Myrtle Beach SC,Cincinnati OH
+Pittsburgh PA,Los Angeles CA
+Sacramento CA,Dallas/Fort Worth TX
+Boston MA,Atlanta GA
+Chicago IL,Newburgh/Poughkeepsie NY
+Springfield MO,Salt Lake City UT
+Denver CO,Boise ID
+Houston TX,El Paso TX
+Chicago IL,San Juan PR
+Cincinnati OH,Detroit MI
+Philadelphia PA,Chicago IL
+Charlotte Amalie VI,Newark NJ
+Reno NV,Seattle WA
+Atlanta GA,Meridian MS
+King Salmon AK,Adak Island AK
+Memphis TN,Salt Lake City UT
+Minneapolis MN,Indianapolis IN
+Wilmington NC,Atlanta GA
+Oakland CA,Austin TX
+San Luis Obispo CA,San Francisco CA
+Washington DC,Savannah GA
+Washington DC,San Juan PR
+Baltimore MD,Denver CO
+San Francisco CA,Redding CA
+San Antonio TX,New Orleans LA
+Albuquerque NM,Houston TX
+Columbus OH,Baltimore MD
+Medford OR,Salt Lake City UT
+Greer SC,Orlando FL
+Cleveland OH,New York NY
+Denver CO,Fresno CA
+El Paso TX,Austin TX
+Knoxville TN,Atlanta GA
+Phoenix AZ,Santa Barbara CA
+Bozeman MT,Grand Junction CO
+Detroit MI,Denver CO
+Akron OH,New York NY
+Charleston SC,Baltimore MD
+Oakland CA,Kahului HI
+Dallas/Fort Worth TX,Huntsville AL
+Portland ME,Philadelphia PA
+New York NY,Kansas City MO
+Elko NV,Salt Lake City UT
+Fort Myers FL,New York NY
+Louisville KY,New York NY
+Orlando FL,Columbus OH
+San Antonio TX,Memphis TN
+Detroit MI,Appleton WI
+Grand Junction CO,Houston TX
+Syracuse NY,New York NY
+Dallas TX,San Jose CA
+Minneapolis MN,Cleveland OH
+Albany NY,Orlando FL
+Charlotte NC,Detroit MI
+Reno NV,Portland OR
+Orlando FL,Las Vegas NV
+Fayetteville AR,Los Angeles CA
+Columbia SC,Newark NJ
+Newark NJ,Aguadilla PR
+Dallas/Fort Worth TX,New York NY
+Denver CO,Williston ND
+Jackson/Vicksburg MS,Memphis TN
+Nome AK,Kotzebue AK
+Raleigh/Durham NC,Cleveland OH
+Dallas/Fort Worth TX,Meridian MS
+Dallas TX,Columbus OH
+Helena MT,Salt Lake City UT
+Chicago IL,Fargo ND
+Cleveland OH,Syracuse NY
+San Diego CA,Atlanta GA
+Denver CO,Akron OH
+Dallas/Fort Worth TX,Atlanta GA
+Traverse City MI,New York NY
+Atlanta GA,Lincoln NE
+Modesto CA,San Francisco CA
+Denver CO,Omaha NE
+Washington DC,Lexington KY
+Anchorage AK,Dallas/Fort Worth TX
+Atlanta GA,Tucson AZ
+Cincinnati OH,Jackson/Vicksburg MS
+Albuquerque NM,Phoenix AZ
+Miami FL,Phoenix AZ
+Chicago IL,Eagle CO
+Tampa FL,Islip NY
+Cincinnati OH,Tallahassee FL
+Cleveland OH,Charleston SC
+Syracuse NY,Charlotte NC
+Baltimore MD,Greer SC
+Dillingham AK,Anchorage AK
+Cleveland OH,Madison WI
+Kahului HI,Phoenix AZ
+Baton Rouge LA,Memphis TN
+Atlantic City NJ,Fort Myers FL
+San Diego CA,Nashville TN
+Boise ID,Phoenix AZ
+Raleigh/Durham NC,Trenton NJ
+Flint MI,Detroit MI
+Chicago IL,Omaha NE
+Detroit MI,Raleigh/Durham NC
+Charleston/Dunbar WV,Washington DC
+Pittsburgh PA,Newark NJ
+Louisville KY,St. Louis MO
+Las Vegas NV,Los Angeles CA
+Phoenix AZ,Monterey CA
+Chicago IL,Bozeman MT
+Newark NJ,South Bend IN
+Houston TX,Kansas City MO
+Newark NJ,Charlotte Amalie VI
+Los Angeles CA,Seattle WA
+Pensacola FL,Nashville TN
+Atlanta GA,Charlotte Amalie VI
+Dallas TX,San Antonio TX
+Jackson/Vicksburg MS,Dallas/Fort Worth TX
+Birmingham AL,New Orleans LA
+Kona HI,San Jose CA
+Boston MA,San Diego CA
+Birmingham AL,Memphis TN
+Fort Lauderdale FL,Salt Lake City UT
+Reno NV,Dallas/Fort Worth TX
+Detroit MI,Knoxville TN
+Portland ME,Newark NJ
+Akron OH,Detroit MI
+Islip NY,Baltimore MD
+Palm Springs CA,Las Vegas NV
+Cleveland OH,Columbus OH
+Cleveland OH,Louisville KY
+Austin TX,Tampa FL
+Tulsa OK,Atlanta GA
+Atlanta GA,Kinston NC
+Cincinnati OH,Atlantic City NJ
+Mobile AL,Houston TX
+Washington DC,Dallas TX
+Las Vegas NV,Fort Lauderdale FL
+Rochester NY,Newark NJ
+San Diego CA,St. Louis MO
+Chicago IL,Las Vegas NV
+Kansas City MO,Seattle WA
+Dallas/Fort Worth TX,Alexandria LA
+Bloomington/Normal IL,Atlanta GA
+Memphis TN,Valparaiso FL
+Philadelphia PA,Allentown/Bethlehem/Easton PA
+Greer SC,New York NY
+Nashville TN,Dallas/Fort Worth TX
+Cincinnati OH,Lexington KY
+Dallas/Fort Worth TX,Grand Rapids MI
+Panama City FL,Baltimore MD
+Chicago IL,Jackson/Vicksburg MS
+Detroit MI,Portland ME
+Lansing MI,Cincinnati OH
+Sacramento CA,Philadelphia PA
+Manchester NH,Orlando FL
+Charleston SC,Cincinnati OH
+Kansas City MO,Dallas TX
+Detroit MI,St. Louis MO
+Newark NJ,Birmingham AL
+Baltimore MD,Dallas TX
+Detroit MI,Louisville KY
+Chicago IL,Atlantic City NJ
+Nome AK,Anchorage AK
+Denver CO,Portland OR
+Dallas/Fort Worth TX,Cincinnati OH
+Seattle WA,Phoenix AZ
+Fort Lauderdale FL,Phoenix AZ
+Chicago IL,Sacramento CA
+Pittsburgh PA,Boston MA
+Norfolk VA,Jacksonville FL
+Tampa FL,White Plains NY
+Denver CO,Dallas/Fort Worth TX
+Portland OR,Spokane WA
+Phoenix AZ,New Orleans LA
+Dallas TX,New York NY
+Burlington VT,Chicago IL
+Montrose/Delta CO,Dallas/Fort Worth TX
+Orlando FL,Charlotte NC
+Charlotte NC,Austin TX
+San Diego CA,Dallas/Fort Worth TX
+New Orleans LA,Memphis TN
+St. Louis MO,Salt Lake City UT
+Rapid City SD,Chicago IL
+Pittsburgh PA,New Orleans LA
+Omaha NE,Minneapolis MN
+College Station/Bryan TX,Houston TX
+New York NY,Los Angeles CA
+Houston TX,Midland/Odessa TX
+Phoenix AZ,Durango CO
+Knoxville TN,Washington DC
+Los Angeles CA,Albuquerque NM
+Detroit MI,San Francisco CA
+Atlanta GA,Rochester NY
+Charlotte NC,Las Vegas NV
+Atlanta GA,Indianapolis IN
+Oakland CA,Albuquerque NM
+Fayetteville AR,Newark NJ
+Fairbanks AK,Salt Lake City UT
+St. Louis MO,Minneapolis MN
+Burbank CA,San Jose CA
+Williston ND,Minneapolis MN
+Hibbing MN,Minneapolis MN
+Memphis TN,Phoenix AZ
+Cleveland OH,Portland ME
+Ontario CA,Sacramento CA
+Fort Lauderdale FL,Cincinnati OH
+Cleveland OH,Cincinnati OH
+San Juan PR,Houston TX
+Washington DC,Chicago IL
+Los Angeles CA,Kansas City MO
+Eugene OR,San Francisco CA
+Kansas City MO,Minneapolis MN
+Minneapolis MN,Aberdeen SD
+New York NY,Philadelphia PA
+Richmond VA,Chicago IL
+Amarillo TX,Houston TX
+Anchorage AK,Cordova AK
+Austin TX,Phoenix AZ
+Omaha NE,Cincinnati OH
+Fort Lauderdale FL,Jacksonville FL
+Minneapolis MN,Houston TX
+Myrtle Beach SC,Philadelphia PA
+Long Beach CA,Fort Lauderdale FL
+Louisville KY,Detroit MI
+Boise ID,Portland OR
+Salt Lake City UT,Palm Springs CA
+Newark NJ,Fort Lauderdale FL
+Jacksonville FL,Houston TX
+Anchorage AK,Portland OR
+Seattle WA,Los Angeles CA
+Atlanta GA,Columbus MS
+Albuquerque NM,Cleveland OH
+Houston TX,Des Moines IA
+Los Angeles CA,San Francisco CA
+Phoenix AZ,Boston MA
+Cleveland OH,Richmond VA
+Tampa FL,Minneapolis MN
+Atlanta GA,Grand Rapids MI
+Las Vegas NV,New York NY
+San Jose CA,San Diego CA
+Grand Rapids MI,Chicago IL
+Honolulu HI,San Diego CA
+Memphis TN,Baltimore MD
+Laredo TX,Houston TX
+Charlottesville VA,New York NY
+Baltimore MD,West Palm Beach/Palm Beach FL
+Austin TX,Salt Lake City UT
+Fort Lauderdale FL,White Plains NY
+Portland OR,Albuquerque NM
+Oakland CA,Chicago IL
+Asheville NC,Chicago IL
+Fort Myers FL,Dallas/Fort Worth TX
+New York NY,San Jose CA
+Iron Mountain/Kingsfd MI,Rhinelander WI
+Houston TX,Chicago IL
+Tampa FL,Hartford CT
+Savannah GA,Washington DC
+Washington DC,Burlington VT
+New York NY,Columbia SC
+White Plains NY,Atlanta GA
+Bismarck/Mandan ND,Chicago IL
+Seattle WA,Burbank CA
+Chicago IL,Baltimore MD
+Duluth MN,Minneapolis MN
+Fayetteville AR,Cincinnati OH
+Ontario CA,Oakland CA
+Cleveland OH,Las Vegas NV
+Cincinnati OH,Champaign/Urbana IL
+Cedar Rapids/Iowa City IA,Detroit MI
+Honolulu HI,Washington DC
+Plattsburgh NY,Fort Lauderdale FL
+San Francisco CA,Kansas City MO
+Norfolk VA,Boston MA
+Indianapolis IN,Charlotte NC
+Austin TX,Los Angeles CA
+Atlanta GA,Traverse City MI
+Detroit MI,Austin TX
+Chicago IL,Ontario CA
+Seattle WA,Milwaukee WI
+Detroit MI,Milwaukee WI
+Salt Lake City UT,Los Angeles CA
+Columbus GA,Atlanta GA
+Oakland CA,Denver CO
+Providence RI,Newark NJ
+Shreveport LA,Cincinnati OH
+Jacksonville FL,Chicago IL
+Chicago IL,Oakland CA
+Buffalo NY,Cincinnati OH
+Baton Rouge LA,Dallas/Fort Worth TX
+Cleveland OH,Dayton OH
+Evansville IN,Dallas/Fort Worth TX
+Charlotte NC,Fort Lauderdale FL
+Sioux City IA,Chicago IL
+Minneapolis MN,Miami FL
+Baltimore MD,Houston TX
+Sioux Falls SD,Chicago IL
+Bismarck/Mandan ND,Denver CO
+Detroit MI,Los Angeles CA
+Rochester NY,Philadelphia PA
+Milwaukee WI,Dallas/Fort Worth TX
+Orlando FL,Washington DC
+Traverse City MI,Dallas/Fort Worth TX
+Hartford CT,Cleveland OH
+Dallas/Fort Worth TX,Roswell NM
+Dallas/Fort Worth TX,Tulsa OK
+Bethel AK,Anchorage AK
+Wichita KS,Dallas/Fort Worth TX
+Columbus OH,Memphis TN
+Miami FL,Cleveland OH
+Dallas TX,Charleston SC
+Syracuse NY,Lansing MI
+Memphis TN,Minneapolis MN
+San Francisco CA,Denver CO
+Flint MI,Las Vegas NV
+New York NY,Charlottesville VA
+San Francisco CA,Kona HI
+Charlotte NC,Pittsburgh PA
+Tucson AZ,San Diego CA
+New York NY,San Francisco CA
+Boston MA,Buffalo NY
+Houston TX,College Station/Bryan TX
+Burbank CA,Oakland CA
+Cincinnati OH,Cedar Rapids/Iowa City IA
+Salt Lake City UT,San Jose CA
+Seattle WA,Tampa FL
+Fort Lauderdale FL,Latrobe PA
+Newark NJ,Honolulu HI
+Houston TX,Savannah GA
+Denver CO,St. George UT
+Omaha NE,Phoenix AZ
+Islip NY,Las Vegas NV
+Greensboro/High Point NC,Atlanta GA
+Boston MA,Charlotte NC
+New York NY,Melbourne FL
+Philadelphia PA,Burlington VT
+Valdosta GA,Atlanta GA
+Denver CO,Montrose/Delta CO
+New Orleans LA,Cincinnati OH
+Buffalo NY,Philadelphia PA
+Fort Lauderdale FL,Myrtle Beach SC
+Bismarck/Mandan ND,Minneapolis MN
+Los Angeles CA,Kona HI
+Aspen CO,Dallas/Fort Worth TX
+Denver CO,Sacramento CA
+Jackson WY,Houston TX
+Seattle WA,Salt Lake City UT
+Orlando FL,San Antonio TX
+Las Vegas NV,San Jose CA
+Dallas/Fort Worth TX,Moline IL
+San Francisco CA,Lihue HI
+Fort Lauderdale FL,Baltimore MD
+Fairbanks AK,Anchorage AK
+Houston TX,West Palm Beach/Palm Beach FL
+Baltimore MD,Buffalo NY
+Charlotte NC,Columbus OH
+Pittsburgh PA,Cincinnati OH
+Allentown/Bethlehem/Easton PA,Atlanta GA
+Charlotte NC,Manchester NH
+Marthas Vineyard MA,New York NY
+Portland OR,San Francisco CA
+Boise ID,Salt Lake City UT
+Atlanta GA,Cedar Rapids/Iowa City IA
+Dallas/Fort Worth TX,Fargo ND
+San Jose CA,Houston TX
+Baltimore MD,Chicago IL
+Lexington KY,Dallas/Fort Worth TX
+Toledo OH,Dallas/Fort Worth TX
+Myrtle Beach SC,Detroit MI
+San Francisco CA,Albuquerque NM
+Salt Lake City UT,Portland OR
+Chicago IL,Providence RI
+Macon GA,Atlanta GA
+Laramie WY,Denver CO
+New York NY,Pittsburgh PA
+Las Vegas NV,Austin TX
+Midland/Odessa TX,Denver CO
+Cincinnati OH,Providence RI
+Cincinnati OH,Scranton/Wilkes-Barre PA
+Green Bay WI,Detroit MI
+Charlotte NC,New York NY
+Newark NJ,Fort Myers FL
+Charlotte Amalie VI,Fort Lauderdale FL
+Minneapolis MN,Detroit MI
+Salt Lake City UT,Missoula MT
+San Diego CA,Kona HI
+Detroit MI,Boston MA
+Kona HI,Oakland CA
+San Diego CA,Boise ID
+Louisville KY,Las Vegas NV
+Latrobe PA,Fort Lauderdale FL
+Memphis TN,Cincinnati OH
+Muskegon MI,Chicago IL
+Chicago IL,Latrobe PA
+Houston TX,Dallas TX
+San Francisco CA,Seattle WA
+Lubbock TX,Austin TX
+Oklahoma City OK,Seattle WA
+Albuquerque NM,Amarillo TX
+Dallas TX,Los Angeles CA
+Fort Lauderdale FL,Hartford CT
+Tampa FL,San Juan PR
+Fayetteville AR,Memphis TN
+Phoenix AZ,Nashville TN
+Amarillo TX,Dallas TX
+Providence RI,Dallas/Fort Worth TX
+St. Louis MO,Cincinnati OH
+Milwaukee WI,Newark NJ
+Dallas/Fort Worth TX,Jackson WY
+Portland OR,Kansas City MO
+Trenton NJ,Minneapolis MN
+Chicago IL,Columbus OH
+Houston TX,Fayetteville AR
+Dallas/Fort Worth TX,Richmond VA
+Fort Wayne IN,Chicago IL
+Fort Lauderdale FL,Minneapolis MN
+Hays KS,Denver CO
+Springfield MO,Cincinnati OH
+Denver CO,Madison WI
+Dallas/Fort Worth TX,Dayton OH
+Orlando FL,Aguadilla PR
+New Orleans LA,Newark NJ
+Miami FL,Minneapolis MN
+Cleveland OH,Dallas/Fort Worth TX
+El Paso TX,Houston TX
+Madison WI,Cleveland OH
+Buffalo NY,Las Vegas NV
+Pensacola FL,Atlanta GA
+Salt Lake City UT,Tampa FL
+Las Vegas NV,San Antonio TX
+Oakland CA,Spokane WA
+Portland OR,Houston TX
+Orlando FL,Harrisburg PA
+St. Louis MO,Baltimore MD
+Houston TX,Phoenix AZ
+Kalispell MT,Denver CO
+Huntsville AL,Orlando FL
+Dallas/Fort Worth TX,Jackson/Vicksburg MS
+Dallas/Fort Worth TX,Washington DC
+San Diego CA,El Centro CA
+Denver CO,Phoenix AZ
+Minneapolis MN,Jackson WY
+Memphis TN,Tampa FL
+Bend/Redmond OR,Salt Lake City UT
+Chicago IL,Sioux City IA
+Detroit MI,Elmira/Corning NY
+Fort Lauderdale FL,Detroit MI
+Sacramento CA,Denver CO
+Spokane WA,Las Vegas NV
+Miami FL,Salt Lake City UT
+Phoenix AZ,Omaha NE
+Atlanta GA,Sioux Falls SD
+St. Louis MO,New York NY
+New Orleans LA,Miami FL
+Bozeman MT,Chicago IL
+Chicago IL,South Bend IN
+Seattle WA,Orlando FL
+Burlington VT,Cleveland OH
+Cincinnati OH,San Antonio TX
+Hartford CT,Fort Myers FL
+Pasco/Kennewick/Richland WA,Minneapolis MN
+Cleveland OH,Milwaukee WI
+Miami FL,Austin TX
+Salt Lake City UT,St. Louis MO
+Las Vegas NV,Pittsburgh PA
+Chicago IL,Saginaw/Bay City/Midland MI
+Tampa FL,Phoenix AZ
+Miami FL,Cincinnati OH
+Atlanta GA,Florence SC
+Albuquerque NM,San Diego CA
+Chicago IL,Kalispell MT
+Ontario CA,Denver CO
+Austin TX,New York NY
+White Plains NY,West Palm Beach/Palm Beach FL
+San Diego CA,Kahului HI
+Memphis TN,Detroit MI
+Chicago IL,Dallas TX
+Manchester NH,Las Vegas NV
+Newark NJ,New Orleans LA
+Cleveland OH,St. Louis MO
+Omaha NE,Las Vegas NV
+Seattle WA,San Antonio TX
+New York NY,Bangor ME
+Orlando FL,Birmingham AL
+Indianapolis IN,New York NY
+Cincinnati OH,Jacksonville FL
+Springfield IL,Dallas/Fort Worth TX
+Lincoln NE,Denver CO
+Knoxville TN,Denver CO
+Baltimore MD,Detroit MI
+Santa Barbara CA,Los Angeles CA
+Cleveland OH,Fort Wayne IN
+Newark NJ,San Juan PR
+San Antonio TX,Cincinnati OH
+Minneapolis MN,Albany NY
+Austin TX,Santa Ana CA
+Minneapolis MN,Cincinnati OH
+Chicago IL,Salt Lake City UT
+Detroit MI,Tulsa OK
+Austin TX,Portland OR
+Las Vegas NV,Boise ID
+Atlanta GA,Madison WI
+Nashville TN,Manchester NH
+Cleveland OH,Raleigh/Durham NC
+Des Moines IA,Cincinnati OH
+West Palm Beach/Palm Beach FL,Cleveland OH
+Atlanta GA,Huntsville AL
+Salt Lake City UT,Raleigh/Durham NC
+Dallas/Fort Worth TX,Bloomington/Normal IL
+Carlsbad CA,Los Angeles CA
+Dallas TX,Panama City FL
+Yakutat AK,Juneau AK
+Denver CO,Anchorage AK
+Chicago IL,Rapid City SD
+Providence RI,Tampa FL
+New York NY,Newport News/Williamsburg VA
+Detroit MI,Orlando FL
+Los Angeles CA,Salt Lake City UT
+Minneapolis MN,Reno NV
+Colorado Springs CO,Minneapolis MN
+Cleveland OH,Charlotte NC
+Newark NJ,Omaha NE
+Baltimore MD,Cleveland OH
+San Diego CA,Seattle WA
+Charlotte NC,Trenton NJ
+Crescent City CA,Sacramento CA
+Washington DC,Salt Lake City UT
+Phoenix AZ,El Paso TX
+Chicago IL,Moline IL
+Cody WY,Salt Lake City UT
+Cleveland OH,Manchester NH
+Meridian MS,Atlanta GA
+Appleton WI,Minneapolis MN
+Dallas/Fort Worth TX,Fresno CA
+Atlanta GA,El Paso TX
+Kansas City MO,Tulsa OK
+Lexington KY,Cleveland OH
+El Paso TX,San Diego CA
+El Paso TX,Phoenix AZ
+Los Angeles CA,Fayetteville AR
+New York NY,Omaha NE
+Chicago IL,Allentown/Bethlehem/Easton PA
+Orlando FL,Miami FL
+Tampa FL,Salt Lake City UT
+Dallas/Fort Worth TX,Louisville KY
+Detroit MI,San Antonio TX
+San Antonio TX,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Providence RI
+Jacksonville FL,Tampa FL
+Minneapolis MN,Tucson AZ
+Boston MA,Greensboro/High Point NC
+Fort Lauderdale FL,Tampa FL
+Fort Myers FL,Washington DC
+Burbank CA,Las Vegas NV
+New York NY,Seattle WA
+Cincinnati OH,Greensboro/High Point NC
+Salt Lake City UT,Miami FL
+Devils Lake ND,Denver CO
+Houston TX,Charlotte Amalie VI
+West Palm Beach/Palm Beach FL,Detroit MI
+New York NY,Charleston SC
+Oklahoma City OK,San Francisco CA
+Savannah GA,Dallas/Fort Worth TX
+Detroit MI,Philadelphia PA
+Atlanta GA,Colorado Springs CO
+Dallas/Fort Worth TX,Pittsburgh PA
+Portland ME,Washington DC
+Kahului HI,Sacramento CA
+Buffalo NY,Detroit MI
+Denver CO,Midland/Odessa TX
+Detroit MI,Miami FL
+Boston MA,Oakland CA
+Anchorage AK,Deadhorse AK
+San Francisco CA,Memphis TN
+Salt Lake City UT,San Antonio TX
+New York NY,San Juan PR
+Orlando FL,Fort Lauderdale FL
+Orlando FL,Columbia SC
+Charlotte NC,Philadelphia PA
+Nashville TN,Birmingham AL
+Bozeman MT,San Francisco CA
+Detroit MI,Escanaba MI
+Cleveland OH,Newark NJ
+Newark NJ,Asheville NC
+Newark NJ,Burlington VT
+Beaumont/Port Arthur TX,Dallas/Fort Worth TX
+Gulfport/Biloxi MS,Tampa FL
+Monroe LA,Dallas/Fort Worth TX
+Newburgh/Poughkeepsie NY,Orlando FL
+Birmingham AL,Cincinnati OH
+Manchester NH,New York NY
+Charleston SC,Detroit MI
+Baltimore MD,Jacksonville FL
+Seattle WA,New York NY
+Washington DC,Memphis TN
+El Paso TX,Los Angeles CA
+Los Angeles CA,Santa Maria CA
+Cincinnati OH,Louisville KY
+Lubbock TX,Houston TX
+South Bend IN,Newark NJ
+Birmingham AL,Atlanta GA
+Fort Lauderdale FL,Albany NY
+Roanoke VA,Atlanta GA
+Jacksonville FL,Detroit MI
+Boston MA,Portland ME
+Fort Wayne IN,Atlanta GA
+San Diego CA,San Jose CA
+Salt Lake City UT,Orlando FL
+Cincinnati OH,Portland ME
+San Antonio TX,El Paso TX
+Orlando FL,Wichita KS
+Christiansted VI,Charlotte NC
+Montrose/Delta CO,Denver CO
+Denver CO,El Paso TX
+Phoenix AZ,Austin TX
+Dallas/Fort Worth TX,Oakland CA
+New York NY,Burlington VT
+Seattle WA,Santa Ana CA
+Dallas/Fort Worth TX,Fort Wayne IN
+Albuquerque NM,Tampa FL
+Fayetteville NC,Atlanta GA
+Philadelphia PA,Buffalo NY
+Boston MA,Milwaukee WI
+Albany NY,Washington DC
+Hartford CT,Tampa FL
+Lexington KY,Tampa FL
+Dallas/Fort Worth TX,Raleigh/Durham NC
+Cincinnati OH,Milwaukee WI
+White Plains NY,Fort Myers FL
+Denver CO,Houston TX
+Memphis TN,Jackson/Vicksburg MS
+San Diego CA,Albuquerque NM
+Austin TX,Orlando FL
+West Yellowstone MT,Salt Lake City UT
+Los Angeles CA,Carlsbad CA
+Las Vegas NV,Long Beach CA
+Champaign/Urbana IL,Chicago IL
+Ontario CA,Portland OR
+Oakland CA,Lihue HI
+Grand Rapids MI,Houston TX
+Kahului HI,Hilo HI
+Cincinnati OH,Rochester NY
+San Francisco CA,Minneapolis MN
+Knoxville TN,Newark NJ
+Chicago IL,Kalamazoo MI
+Rochester NY,Minneapolis MN
+Chicago IL,Kansas City MO
+Santa Ana CA,San Francisco CA
+Sacramento CA,Chicago IL
+Ontario CA,Las Vegas NV
+Jackson WY,Salt Lake City UT
+Atlanta GA,Gulfport/Biloxi MS
+Dallas/Fort Worth TX,Greensboro/High Point NC
+Eugene OR,Salt Lake City UT
+Corpus Christi TX,Atlanta GA
+Denver CO,Idaho Falls ID
+Cincinnati OH,Tampa FL
+Dallas/Fort Worth TX,Milwaukee WI
+Minneapolis MN,Hibbing MN
+Sitka AK,Seattle WA
+Portland ME,Baltimore MD
+St. Louis MO,Columbus OH
+Columbia SC,Dallas/Fort Worth TX
+Lubbock TX,Las Vegas NV
+Tampa FL,Buffalo NY
+Phoenix AZ,Spokane WA
+Kahului HI,Oakland CA
+St. Louis MO,Las Vegas NV
+Chicago IL,Montrose/Delta CO
+Sacramento CA,Arcata/Eureka CA
+San Diego CA,Sacramento CA
+Atlanta GA,Charleston SC
+Sacramento CA,San Francisco CA
+Detroit MI,Little Rock AR
+Albany NY,Chicago IL
+Columbus OH,Newark NJ
+Buffalo NY,Atlanta GA
+Lansing MI,Detroit MI
+Columbia MO,Chicago IL
+Santa Ana CA,Portland OR
+Santa Ana CA,Newark NJ
+Pittsburgh PA,Orlando FL
+Minneapolis MN,Phoenix AZ
+Detroit MI,Flint MI
+Indianapolis IN,Dallas TX
+Rapid City SD,Denver CO
+Boston MA,Washington DC
+Grand Rapids MI,Atlanta GA
+San Diego CA,Newark NJ
+Columbus OH,Denver CO
+Newark NJ,Des Moines IA
+Dayton OH,Chicago IL
+Myrtle Beach SC,Dallas/Fort Worth TX
+Toledo OH,Chicago IL
+Deadhorse AK,Anchorage AK
+Minneapolis MN,La Crosse WI
+Seattle WA,Palm Springs CA
+Anchorage AK,Minneapolis MN
+Greensboro/High Point NC,Chicago IL
+Myrtle Beach SC,Niagara Falls NY
+Fort Myers FL,St. Louis MO
+Kotzebue AK,Nome AK
+Nashville TN,Panama City FL
+Ontario CA,San Francisco CA
+Dallas/Fort Worth TX,St. Louis MO
+Boise ID,Los Angeles CA
+Pittsburgh PA,New York NY
+Nashville TN,Oakland CA
+Las Vegas NV,Amarillo TX
+Brunswick GA,Atlanta GA
+Atlantic City NJ,Boston MA
+Oklahoma City OK,Newark NJ
+Santa Ana CA,Denver CO
+Cincinnati OH,Traverse City MI
+Phoenix AZ,Atlanta GA
+Kotzebue AK,Anchorage AK
+Raleigh/Durham NC,Phoenix AZ
+Nashville TN,St. Louis MO
+Las Vegas NV,Albany NY
+Houston TX,Little Rock AR
+Fresno CA,Denver CO
+Seattle WA,Indianapolis IN
+Kahului HI,San Diego CA
+Kansas City MO,Chicago IL
+Milwaukee WI,Houston TX
+Reno NV,Salt Lake City UT
+Minneapolis MN,Grand Rapids MI
+Orlando FL,Indianapolis IN
+Sioux Falls SD,Denver CO
+Fort Lauderdale FL,Providence RI
+Atlanta GA,Cincinnati OH
+Bangor ME,Newark NJ
+Boise ID,Oakland CA
+Burlington VT,Detroit MI
+Las Vegas NV,Washington DC
+Bozeman MT,Denver CO
+Cincinnati OH,Pittsburgh PA
+Cleveland OH,Providence RI
+Cincinnati OH,Cleveland OH
+Atlanta GA,Christiansted VI
+Manchester NH,Philadelphia PA
+Salt Lake City UT,Elko NV
+Fort Myers FL,Atlantic City NJ
+Las Vegas NV,Dallas/Fort Worth TX
+Seattle WA,Portland OR
+Denver CO,Great Falls MT
+Houston TX,Salt Lake City UT
+Kansas City MO,Sacramento CA
+Cleveland OH,Washington DC
+Hartford CT,Charlotte NC
+Scranton/Wilkes-Barre PA,Newark NJ
+Dallas TX,Washington DC
+Grand Island NE,Dallas/Fort Worth TX
+Honolulu HI,Guam TT
+Denver CO,Seattle WA
+Los Angeles CA,Bend/Redmond OR
+San Francisco CA,Portland OR
+Phoenix AZ,Chicago IL
+San Jose CA,Minneapolis MN
+San Antonio TX,Seattle WA
+New York NY,Albuquerque NM
+Cincinnati OH,Roanoke VA
+Trenton NJ,Orlando FL
+Savannah GA,Atlanta GA
+Miami FL,Christiansted VI
+Chicago IL,Toledo OH
+Peoria IL,Dallas/Fort Worth TX
+Chico CA,San Francisco CA
+Cincinnati OH,Columbia SC
+Newark NJ,Boston MA
+Pasco/Kennewick/Richland WA,Salt Lake City UT
+Detroit MI,Omaha NE
+Baltimore MD,Jackson/Vicksburg MS
+Orlando FL,Trenton NJ
+Chicago IL,Springfield IL
+Minneapolis MN,Los Angeles CA
+Nashville TN,Columbus OH
+Springfield IL,Chicago IL
+San Antonio TX,Atlanta GA
+Chicago IL,Wichita KS
+Pittsburgh PA,Miami FL
+Atlanta GA,State College PA
+Miami FL,Pensacola FL
+Salt Lake City UT,New York NY
+Nashville TN,Detroit MI
+Denver CO,Medford OR
+Kansas City MO,Atlanta GA
+San Jose CA,Austin TX
+Wichita KS,Minneapolis MN
+Sarasota/Bradenton FL,Cincinnati OH
+Bismarck/Mandan ND,Dallas/Fort Worth TX
+Baltimore MD,Phoenix AZ
+Atlanta GA,Honolulu HI
+Albany NY,Denver CO
+Dallas/Fort Worth TX,Columbia SC
+Houston TX,Mission/McAllen/Edinburg TX
+San Diego CA,San Francisco CA
+West Palm Beach/Palm Beach FL,Chicago IL
+New Orleans LA,New York NY
+Birmingham AL,Nashville TN
+Boston MA,Fort Myers FL
+St. Louis MO,Charlotte NC
+San Antonio TX,Colorado Springs CO
+Seattle WA,Las Vegas NV
+Detroit MI,Norfolk VA
+Philadelphia PA,Salt Lake City UT
+Visalia CA,Fresno CA
+Palm Springs CA,Los Angeles CA
+Salt Lake City UT,Santa Ana CA
+Newark NJ,Knoxville TN
+Salt Lake City UT,Bakersfield CA
+Denver CO,Fayetteville AR
+Phoenix AZ,Boise ID
+Nashville TN,Boston MA
+Las Vegas NV,Newark NJ
+Chicago IL,West Palm Beach/Palm Beach FL
+Grand Rapids MI,Dallas/Fort Worth TX
+Little Rock AR,Phoenix AZ
+Newark NJ,Kansas City MO
+Ontario CA,Chicago IL
+Hyannis MA,New York NY
+Salt Lake City UT,Austin TX
+San Antonio TX,Los Angeles CA
+New Orleans LA,Dallas/Fort Worth TX
+Myrtle Beach SC,Atlanta GA
+Houston TX,Montgomery AL
+Bemidji MN,Minneapolis MN
+Colorado Springs CO,Salt Lake City UT
+Hartford CT,Phoenix AZ
+Louisville KY,Miami FL
+Boston MA,Richmond VA
+Des Moines IA,Atlanta GA
+Idaho Falls ID,Minneapolis MN
+Philadelphia PA,Phoenix AZ
+Nashville TN,Raleigh/Durham NC
+Fort Lauderdale FL,Newburgh/Poughkeepsie NY
+New Orleans LA,Austin TX
+Denver CO,Tampa FL
+San Juan PR,Charlotte Amalie VI
+New York NY,Long Beach CA
+Cincinnati OH,Ashland WV
+San Jose CA,New York NY
+Fresno CA,Palm Springs CA
+Washington DC,Minneapolis MN
+Nashville TN,Washington DC
+Fort Myers FL,Pittsburgh PA
+Cincinnati OH,Sarasota/Bradenton FL
+Boise ID,Houston TX
+Asheville NC,Newark NJ
+Oklahoma City OK,Dallas/Fort Worth TX
+Miami FL,Orlando FL
+Chicago IL,Denver CO
+Eugene OR,Portland OR
+Las Vegas NV,Manchester NH
+Deadhorse AK,Barrow AK
+Denver CO,Missoula MT
+Atlanta GA,Albany NY
+San Diego CA,Lihue HI
+Kansas City MO,New Orleans LA
+Jackson/Vicksburg MS,Houston TX
+St. Louis MO,Portland OR
+New York NY,Madison WI
+Philadelphia PA,San Juan PR
+Atlanta GA,Washington DC
+Raleigh/Durham NC,Tampa FL
+Boise ID,Reno NV
+Juneau AK,Seattle WA
+Fresno CA,Salt Lake City UT
+Bend/Redmond OR,San Francisco CA
+Dallas/Fort Worth TX,Colorado Springs CO
+Orlando FL,Philadelphia PA
+Tulsa OK,Dallas/Fort Worth TX
+Kansas City MO,Oklahoma City OK
+Houston TX,Montrose/Delta CO
+New York NY,Marthas Vineyard MA
+Washington DC,Phoenix AZ
+Orlando FL,Greensboro/High Point NC
+Atlanta GA,Bristol/Johnson City/Kingsport TN
+Indianapolis IN,Las Vegas NV
+Orlando FL,Islip NY
+Detroit MI,Fort Lauderdale FL
+Phoenix AZ,Dallas/Fort Worth TX
+Cincinnati OH,Orlando FL
+Atlanta GA,Baton Rouge LA
+Islip NY,West Palm Beach/Palm Beach FL
+San Francisco CA,Palm Springs CA
+Las Vegas NV,Tucson AZ
+New York NY,Honolulu HI
+Reno NV,Houston TX
+Buffalo NY,Washington DC
+Phoenix AZ,Tulsa OK
+Cincinnati OH,St. Louis MO
+Sacramento CA,Ontario CA
+New York NY,Indianapolis IN
+Charlottesville VA,Cincinnati OH
+Dallas/Fort Worth TX,Tallahassee FL
+Aguadilla PR,Fort Lauderdale FL
+Fresno CA,San Francisco CA
+West Palm Beach/Palm Beach FL,Houston TX
+Fayetteville AR,New York NY
+New Orleans LA,San Antonio TX
+Allentown/Bethlehem/Easton PA,Chicago IL
+Minneapolis MN,Charlotte NC
+Bend/Redmond OR,Portland OR
+Durango CO,Phoenix AZ
+Orlando FL,Manchester NH
+Savannah GA,Houston TX
+Detroit MI,Charleston SC
+Norfolk VA,Cincinnati OH
+Knoxville TN,Dallas/Fort Worth TX
+Los Angeles CA,El Paso TX
+Phoenix AZ,Oklahoma City OK
+Providence RI,Phoenix AZ
+Knoxville TN,Chicago IL
+Cleveland OH,Philadelphia PA
+Burbank CA,New York NY
+Madison WI,Denver CO
+Atlanta GA,Jackson WY
+Denver CO,Jacksonville FL
+Sacramento CA,Seattle WA
+Phoenix AZ,San Jose CA
+Nashville TN,Providence RI
+Syracuse NY,Philadelphia PA
+Houston TX,Memphis TN
+Amarillo TX,Las Vegas NV
+Albuquerque NM,Charlotte NC
+Kansas City MO,Houston TX
+Atlanta GA,Albuquerque NM
+Salt Lake City UT,Cody WY
+Hartford CT,Pittsburgh PA
+Boston MA,Fort Lauderdale FL
+St. Louis MO,San Diego CA
+Dallas/Fort Worth TX,Charlotte NC
+Denver CO,Spokane WA
+Corpus Christi TX,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Aspen CO
+Atlanta GA,Alexandria LA
+Meridian MS,Dallas/Fort Worth TX
+Cincinnati OH,Charlotte NC
+Albany NY,Atlanta GA
+Jackson WY,Los Angeles CA
+Kansas City MO,Nashville TN
+Sacramento CA,Kansas City MO
+Minneapolis MN,International Falls MN
+Miami FL,Indianapolis IN
+Fort Wayne IN,Dallas/Fort Worth TX
+Milwaukee WI,Phoenix AZ
+Pittsburgh PA,Philadelphia PA
+Denver CO,Salt Lake City UT
+Manchester NH,Nashville TN
+Greensboro/High Point NC,Newark NJ
+Key West FL,Miami FL
+New Orleans LA,Philadelphia PA
+Chicago IL,Fairbanks AK
+Ketchikan AK,Wrangell AK
+Charlotte NC,Buffalo NY
+Los Angeles CA,Houston TX
+Bakersfield CA,Los Angeles CA
+Philadelphia PA,Jacksonville FL
+Jackson WY,Minneapolis MN
+Cincinnati OH,Charlottesville VA
+Minneapolis MN,Minot ND
+Long Beach CA,Boston MA
+Miami FL,Key West FL
+Fort Myers FL,Philadelphia PA
+Boston MA,Tampa FL
+Juneau AK,Ketchikan AK
+Daytona Beach FL,Cincinnati OH
+Denver CO,Casper WY
+Houston TX,Omaha NE
+Atlanta GA,Seattle WA
+Las Vegas NV,Birmingham AL
+Atlanta GA,Hickory NC
+Cedar Rapids/Iowa City IA,Denver CO
+Raleigh/Durham NC,Salt Lake City UT
+Waco TX,Dallas/Fort Worth TX
+Charlotte NC,Harrisburg PA
+Chicago IL,Mosinee WI
+Greensboro/High Point NC,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Killeen TX
+Houston TX,Minneapolis MN
+Grand Rapids MI,Cleveland OH
+Las Vegas NV,San Diego CA
+Dallas TX,Birmingham AL
+San Francisco CA,Bend/Redmond OR
+Juneau AK,Anchorage AK
+Orlando FL,Pittsburgh PA
+Nashville TN,Las Vegas NV
+Pellston MI,Detroit MI
+Sacramento CA,Washington DC
+Detroit MI,Memphis TN
+Atlanta GA,Nashville TN
+Lihue HI,Los Angeles CA
+Baltimore MD,Sarasota/Bradenton FL
+Anchorage AK,Honolulu HI
+Washington DC,White Plains NY
+Cincinnati OH,Savannah GA
+Richmond VA,Minneapolis MN
+Baltimore MD,San Juan PR
+Milwaukee WI,Seattle WA
+Traverse City MI,Atlanta GA
+Grand Forks ND,Minneapolis MN
+Dallas TX,San Diego CA
+St. Louis MO,Orlando FL
+Dayton OH,Denver CO
+Dayton OH,Atlanta GA
+Charleston SC,Charlotte NC
+Salt Lake City UT,Las Vegas NV
+Portland OR,Detroit MI
+Roanoke VA,Cincinnati OH
+Minneapolis MN,Austin TX
+Syracuse NY,Orlando FL
+Fort Myers FL,Charlotte NC
+San Antonio TX,Nashville TN
+Tupelo MS,Atlanta GA
+Boston MA,Pittsburgh PA
+Newark NJ,Nashville TN
+Charlotte NC,Boston MA
+Atlanta GA,Killeen TX
+Naples FL,Atlanta GA
+Phoenix AZ,Kahului HI
+Detroit MI,Indianapolis IN
+West Palm Beach/Palm Beach FL,Tampa FL
+Manhattan/Ft. Riley KS,Chicago IL
+Charlotte Amalie VI,Washington DC
+Denver CO,Burbank CA
+Myrtle Beach SC,Pittsburgh PA
+Austin TX,Las Vegas NV
+Akron OH,Boston MA
+Cincinnati OH,San Diego CA
+Houston TX,Monroe LA
+Houston TX,Shreveport LA
+Birmingham AL,Colorado Springs CO
+Lihue HI,Phoenix AZ
+Valparaiso FL,Houston TX
+Cleveland OH,San Antonio TX
+Louisville KY,Cincinnati OH
+Buffalo NY,Charlotte NC
+Louisville KY,Orlando FL
+Tulsa OK,Newark NJ
+Boston MA,Philadelphia PA
+Phoenix AZ,San Francisco CA
+Kodiak AK,Anchorage AK
+San Jose CA,Los Angeles CA
+Seattle WA,San Diego CA
+Savannah GA,Newark NJ
+Dallas/Fort Worth TX,Grand Junction CO
+Manhattan/Ft. Riley KS,Dallas/Fort Worth TX
+Philadelphia PA,Sacramento CA
+San Francisco CA,Ontario CA
+Denver CO,Springfield MO
+Charlotte NC,Fort Myers FL
+Memphis TN,Charlotte NC
+San Jose CA,Salt Lake City UT
+Cincinnati OH,Los Angeles CA
+West Palm Beach/Palm Beach FL,Islip NY
+St. Louis MO,Austin TX
+Chicago IL,Minneapolis MN
+Charlotte NC,Christiansted VI
+Fort Lauderdale FL,Columbus OH
+Chicago IL,White Plains NY
+Newark NJ,Myrtle Beach SC
+Baltimore MD,Islip NY
+San Jose CA,Burbank CA
+Minneapolis MN,Richmond VA
+San Antonio TX,Newark NJ
+Anchorage AK,Houston TX
+Fort Lauderdale FL,Buffalo NY
+Pittsburgh PA,Fort Lauderdale FL
+Detroit MI,Burlington VT
+Portland ME,Chicago IL
+San Diego CA,Kansas City MO
+Dallas TX,Milwaukee WI
+Minneapolis MN,Dayton OH
+Chicago IL,Columbia MO
+Nashville TN,Fort Lauderdale FL
+Minneapolis MN,Billings MT
+Baton Rouge LA,Houston TX
+Dallas TX,Fort Lauderdale FL
+Tulsa OK,Grand Junction CO
+Norfolk VA,Miami FL
+Houston TX,Portland OR
+Cincinnati OH,Las Vegas NV
+Fayetteville AR,Dallas/Fort Worth TX
+Minneapolis MN,Kalispell MT
+Newark NJ,Huntsville AL
+New York NY,Greer SC
+Rapid City SD,Colorado Springs CO
+Newark NJ,Madison WI
+Jacksonville FL,Baltimore MD
+Albuquerque NM,Las Vegas NV
+Dallas/Fort Worth TX,Cedar Rapids/Iowa City IA
+Washington DC,Jackson/Vicksburg MS
+Norfolk VA,New York NY
+Philadelphia PA,Houston TX
+Dallas/Fort Worth TX,Joplin MO
+Crescent City CA,Arcata/Eureka CA
+Raleigh/Durham NC,Cincinnati OH
+Newark NJ,Memphis TN
+Oakland CA,Dallas/Fort Worth TX
+Denver CO,Chicago IL
+Orlando FL,Nashville TN
+Indianapolis IN,Cincinnati OH
+Tucson AZ,Santa Ana CA
+Greensboro/High Point NC,Denver CO
+Boston MA,Las Vegas NV
+Tampa FL,Lexington KY
+Myrtle Beach SC,Charlotte NC
+Phoenix AZ,Honolulu HI
+Sarasota/Bradenton FL,New York NY
+Houston TX,Valparaiso FL
+Pittsburgh PA,Seattle WA
+Manchester NH,Atlanta GA
+San Jose CA,Las Vegas NV
+San Francisco CA,Phoenix AZ
+Oakland CA,Washington DC
+Asheville NC,Houston TX
+Orlando FL,Dayton OH
+Idaho Falls ID,Salt Lake City UT
+Columbia MO,Dallas/Fort Worth TX
+Akron OH,Cincinnati OH
+Phoenix AZ,Grand Junction CO
+Akron OH,Orlando FL
+San Antonio TX,San Francisco CA
+Los Angeles CA,Cleveland OH
+Dallas TX,Nashville TN
+Salt Lake City UT,Twin Falls ID
+Philadelphia PA,Providence RI
+Newark NJ,Oklahoma City OK
+Omaha NE,Orlando FL
+Tampa FL,Detroit MI
+Raleigh/Durham NC,St. Louis MO
+Peoria IL,Houston TX
+Chicago IL,Reno NV
+Orlando FL,Austin TX
+Long Beach CA,San Francisco CA
+Flint MI,Atlanta GA
+Minneapolis MN,Jacksonville FL
+Kalamazoo MI,Cincinnati OH
+Cleveland OH,Orlando FL
+Dallas/Fort Worth TX,Laredo TX
+Norfolk VA,Detroit MI
+Fort Lauderdale FL,Charlotte NC
+San Juan PR,Baltimore MD
+Newburgh/Poughkeepsie NY,Cincinnati OH
+Houston TX,San Juan PR
+Charleston SC,Cleveland OH
+Kansas City MO,Dallas/Fort Worth TX
+Baltimore MD,Salt Lake City UT
+Detroit MI,Seattle WA
+Washington DC,Detroit MI
+Austin TX,San Diego CA
+Nashville TN,San Antonio TX
+Detroit MI,Trenton NJ
+Denver CO,Kahului HI
+Fort Lauderdale FL,Las Vegas NV
+Columbus OH,Cleveland OH
+Seattle WA,Austin TX
+San Diego CA,Washington DC
+Boston MA,San Jose CA
+Fort Lauderdale FL,Houston TX
+Newark NJ,Anchorage AK
+Jacksonville FL,Las Vegas NV
+Milwaukee WI,Minneapolis MN
+Flint MI,Cincinnati OH
+Houston TX,Jacksonville FL
+Fort Smith AR,Dallas/Fort Worth TX
+Detroit MI,Madison WI
+Miami FL,Richmond VA
+San Francisco CA,Arcata/Eureka CA
+Tucson AZ,Dallas/Fort Worth TX
+Fort Lauderdale FL,Atlantic City NJ
+Philadelphia PA,Oakland CA
+Missoula MT,Atlanta GA
+Oakland CA,Santa Ana CA
+San Luis Obispo CA,Phoenix AZ
+Kona HI,San Diego CA
+Dallas TX,Atlanta GA
+Dallas/Fort Worth TX,Traverse City MI
+Panama City FL,Houston TX
+Albuquerque NM,New York NY
+Portland OR,Sacramento CA
+Medford OR,Portland OR
+Washington DC,Jacksonville FL
+Atlanta GA,Los Angeles CA
+Nashville TN,Philadelphia PA
+Lihue HI,San Diego CA
+Cincinnati OH,Columbus OH
+Memphis TN,Las Vegas NV
+Omaha NE,Detroit MI
+Detroit MI,Pellston MI
+Tucson AZ,Atlanta GA
+New York NY,Memphis TN
+Houston TX,Reno NV
+Atlanta GA,Albany GA
+Evansville IN,Chicago IL
+San Francisco CA,Missoula MT
+Minneapolis MN,Buffalo NY
+Madison WI,Salt Lake City UT
+Green Bay WI,Cincinnati OH
+Kinston NC,Atlanta GA
+Midland/Odessa TX,El Paso TX
+New York NY,Myrtle Beach SC
+Dallas/Fort Worth TX,Fort Smith AR
+Chicago IL,Des Moines IA
+Milwaukee WI,Chicago IL
+Lake Charles LA,Dallas/Fort Worth TX
+Champaign/Urbana IL,Dallas/Fort Worth TX
+San Angelo TX,Dallas/Fort Worth TX
+Greensboro/High Point NC,Washington DC
+Santa Maria CA,Los Angeles CA
+Atlantic City NJ,Myrtle Beach SC
+Cincinnati OH,Islip NY
+Latrobe PA,Myrtle Beach SC
+Salt Lake City UT,Kalispell MT
+Phoenix AZ,Lihue HI
+San Diego CA,Dallas TX
+Los Angeles CA,Tampa FL
+Detroit MI,Birmingham AL
+Providence RI,Chicago IL
+Chicago IL,Scranton/Wilkes-Barre PA
+Nashville TN,New York NY
+Cincinnati OH,Knoxville TN
+Las Vegas NV,Oklahoma City OK
+Charlotte NC,Atlanta GA
+Cincinnati OH,Indianapolis IN
+Richmond VA,Tampa FL
+Philadelphia PA,Tampa FL
+Greer SC,Cincinnati OH
+Honolulu HI,San Jose CA
+Seattle WA,Charlotte NC
+Los Angeles CA,Bozeman MT
+Newark NJ,Charleston SC
+Dallas TX,Oklahoma City OK
+New Orleans LA,Seattle WA
+Wichita KS,Dallas TX
+Hartford CT,Raleigh/Durham NC
+Baltimore MD,Providence RI
+New York NY,Denver CO
+New York NY,Charlotte Amalie VI
+Orlando FL,Richmond VA
+Boston MA,Columbus OH
+Portland OR,Minneapolis MN
+Chicago IL,Islip NY
+Chicago IL,Detroit MI
+Hickory NC,Atlanta GA
+Newark NJ,Greer SC
+Houston TX,Pensacola FL
+Memphis TN,Houston TX
+Dallas/Fort Worth TX,Philadelphia PA
+Chattanooga TN,Chicago IL
+New York NY,Atlanta GA
+Cincinnati OH,Grand Rapids MI
+Boston MA,New Orleans LA
+Richmond VA,Detroit MI
+Atlanta GA,Newark NJ
+Denver CO,Minneapolis MN
+Denver CO,Des Moines IA
+Portland OR,Bozeman MT
+Minneapolis MN,Saginaw/Bay City/Midland MI
+Dallas/Fort Worth TX,San Jose CA
+Santa Ana CA,Houston TX
+St. Louis MO,Miami FL
+Oklahoma City OK,Atlanta GA
+Raleigh/Durham NC,Austin TX
+Denver CO,Santa Fe NM
+Eagle CO,Houston TX
+Salt Lake City UT,Monterey CA
+Houston TX,Williston ND
+Orlando FL,Moline IL
+Houston TX,Detroit MI
+Tulsa OK,Chicago IL
+Washington DC,Tampa FL
+Portland OR,Medford OR
+Charlotte NC,Indianapolis IN
+Oakland CA,Boise ID
+Madison WI,Minneapolis MN
+Phoenix AZ,Denver CO
+Panama City FL,Dallas TX
+New York NY,West Palm Beach/Palm Beach FL
+Houston TX,Palm Springs CA
+Cincinnati OH,Raleigh/Durham NC
+Cincinnati OH,Melbourne FL
+Baltimore MD,Oakland CA
+Scranton/Wilkes-Barre PA,Atlanta GA
+Miami FL,Detroit MI
+Providence RI,Minneapolis MN
+Greer SC,Atlanta GA
+Salt Lake City UT,Charlotte NC
+New York NY,Aguadilla PR
+Louisville KY,Atlanta GA
+Fort Myers FL,Atlanta GA
+Cincinnati OH,Boston MA
+Charlotte NC,Raleigh/Durham NC
+Miami FL,San Antonio TX
+Norfolk VA,Orlando FL
+Las Vegas NV,Tulsa OK
+Los Angeles CA,San Juan PR
+Rochester NY,Baltimore MD
+Phoenix AZ,Newark NJ
+Pensacola FL,Houston TX
+Indianapolis IN,Minneapolis MN
+Oklahoma City OK,St. Louis MO
+Grand Rapids MI,Baltimore MD
+Oakland CA,Atlanta GA
+Dallas/Fort Worth TX,San Angelo TX
+Newark NJ,Baltimore MD
+Dallas TX,New Orleans LA
+Miami FL,Los Angeles CA
+New York NY,Dallas TX
+San Juan PR,Hartford CT
+Atlanta GA,Tulsa OK
+Brainerd MN,Minneapolis MN
+Chicago IL,Waterloo IA
+Cincinnati OH,Albany NY
+La Crosse WI,Minneapolis MN
+Wichita KS,Denver CO
+Memphis TN,Cleveland OH
+Syracuse NY,Atlanta GA
+Oxnard/Ventura CA,Los Angeles CA
+Orlando FL,Boston MA
+Denver CO,Bend/Redmond OR
+Bloomington/Normal IL,Chicago IL
+Kansas City MO,Newark NJ
+Austin TX,Miami FL
+Salt Lake City UT,Indianapolis IN
+Santa Ana CA,Dallas TX
+Huntsville AL,Washington DC
+Atlanta GA,Memphis TN
+Rochester NY,Cleveland OH
+Elmira/Corning NY,Detroit MI
+Salt Lake City UT,Sun Valley/Hailey/Ketchum ID
+New Orleans LA,San Francisco CA
+Charlotte NC,Albany NY
+Minneapolis MN,Dickinson ND
+Detroit MI,Chicago IL
+Cincinnati OH,Dayton OH
+Phoenix AZ,Kansas City MO
+Cincinnati OH,Moline IL
+Buffalo NY,Fort Lauderdale FL
+Little Rock AR,Detroit MI
+Cleveland OH,Fort Lauderdale FL
+Wichita KS,Houston TX
+Charlotte NC,Washington DC
+Boston MA,Atlantic City NJ
+Memphis TN,Columbus OH
+Denver CO,Shreveport LA
+Denver CO,Cleveland OH
+Sacramento CA,Fresno CA
+Dallas TX,Santa Ana CA
+Los Angeles CA,Phoenix AZ
+San Diego CA,Chicago IL
+Boston MA,Los Angeles CA
+Dallas/Fort Worth TX,Fort Myers FL
+Las Vegas NV,Boston MA
+Hartford CT,Cincinnati OH
+West Palm Beach/Palm Beach FL,Hartford CT
+Montrose/Delta CO,Chicago IL
+New Orleans LA,Fort Lauderdale FL
+St. Louis MO,Los Angeles CA
+Phoenix AZ,Fort Lauderdale FL
+Dallas/Fort Worth TX,Honolulu HI
+Medford OR,San Francisco CA
+Las Vegas NV,Milwaukee WI
+Anchorage AK,Fairbanks AK
+Los Angeles CA,Minneapolis MN
+Washington DC,Sacramento CA
+Mission/McAllen/Edinburg TX,Dallas/Fort Worth TX
+Melbourne FL,New York NY
+Las Vegas NV,New Orleans LA
+San Francisco CA,Bozeman MT
+Nashville TN,Miami FL
+Minneapolis MN,San Diego CA
+Columbia SC,Houston TX
+Charlotte NC,Nashville TN
+Myrtle Beach SC,Plattsburgh NY
+Cleveland OH,Indianapolis IN
+Miami FL,New York NY
+Chattanooga TN,Atlanta GA
+New Orleans LA,Birmingham AL
+Seattle WA,Miami FL
+San Francisco CA,Anchorage AK
+Orlando FL,Louisville KY
+Long Beach CA,Dallas/Fort Worth TX
+Orlando FL,Milwaukee WI
+Columbia SC,Chicago IL
+Seattle WA,San Jose CA
+White Plains NY,Chicago IL
+Atlanta GA,Boise ID
+Memphis TN,New York NY
+Cleveland OH,Fort Myers FL
+Des Moines IA,Newark NJ
+Detroit MI,Washington DC
+Sacramento CA,Kahului HI
+Huntsville AL,Atlanta GA
+Myrtle Beach SC,Fort Lauderdale FL
+San Antonio TX,Philadelphia PA
+Rapid City SD,Dallas/Fort Worth TX
+Dallas TX,Lubbock TX
+Houston TX,Tampa FL
+New York NY,Chicago IL
+Los Angeles CA,Ontario CA
+Spokane WA,Boise ID
+Jamestown ND,Denver CO
+Salt Lake City UT,Eugene OR
+Anchorage AK,Denver CO
+Orlando FL,St. Louis MO
+Cincinnati OH,Richmond VA
+Cincinnati OH,State College PA
+Ponce PR,New York NY
+Redding CA,San Francisco CA
+Butte MT,Salt Lake City UT
+Chicago IL,Lexington KY
+Dallas/Fort Worth TX,Beaumont/Port Arthur TX
+Columbus OH,Dallas TX
+Atlanta GA,Dallas/Fort Worth TX
+Atlanta GA,Oklahoma City OK
+Nashville TN,Pittsburgh PA
+Atlanta GA,Lewisburg WV
+Orlando FL,Bloomington/Normal IL
+Greer SC,Washington DC
+Newark NJ,Little Rock AR
+Cedar Rapids/Iowa City IA,Minneapolis MN
+Indianapolis IN,Tampa FL
+Los Angeles CA,Baltimore MD
+Tulsa OK,Kansas City MO
+Baltimore MD,Portland OR
+Charlotte NC,Cincinnati OH
+Chicago IL,Harrisburg PA
+Cincinnati OH,Santa Ana CA
+Newark NJ,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Birmingham AL
+Atlanta GA,Syracuse NY
+Minneapolis MN,Tampa FL
+Las Vegas NV,Nashville TN
+Newark NJ,Tulsa OK
+Dayton OH,Dallas/Fort Worth TX
+Tucson AZ,Los Angeles CA
+Louisville KY,Washington DC
+Pittsburgh PA,Washington DC
+Las Vegas NV,Atlanta GA
+Atlanta GA,Pittsburgh PA
+Boston MA,St. Louis MO
+Houston TX,Sacramento CA
+Columbus OH,Detroit MI
+Miami FL,Las Vegas NV
+Honolulu HI,Los Angeles CA
+Santa Fe NM,Los Angeles CA
+Salt Lake City UT,Pocatello ID
+Dallas/Fort Worth TX,Indianapolis IN
+White Plains NY,Washington DC
+Denver CO,Bismarck/Mandan ND
+Myrtle Beach SC,Washington DC
+Minneapolis MN,Rochester NY
+Atlanta GA,San Jose CA
+Chicago IL,Binghamton NY
+Tulsa OK,Denver CO
+Memphis TN,San Antonio TX
+Charleston SC,New York NY
+Birmingham AL,Newark NJ
+Chicago IL,Savannah GA
+Atlanta GA,Akron OH
+Atlanta GA,Lynchburg VA
+Fort Lauderdale FL,Niagara Falls NY
+Milwaukee WI,Cleveland OH
+Houston TX,Eagle CO
+Salt Lake City UT,Lewiston ID
+South Bend IN,Detroit MI
+Kansas City MO,Baltimore MD
+Washington DC,Charleston/Dunbar WV
+San Francisco CA,Salt Lake City UT
+Raleigh/Durham NC,New York NY
+Reno NV,Phoenix AZ
+Portland OR,Phoenix AZ
+Orlando FL,Cincinnati OH
+Jacksonville/Camp Lejeune NC,Atlanta GA
+Fort Lauderdale FL,Lexington KY
+Birmingham AL,Dallas/Fort Worth TX
+Minneapolis MN,Bemidji MN
+Detroit MI,Nashville TN
+San Francisco CA,Baltimore MD
+Fort Myers FL,Trenton NJ
+Anchorage AK,King Salmon AK
+Orlando FL,Atlanta GA
+Kalamazoo MI,Detroit MI
+Atlanta GA,Philadelphia PA
+Las Vegas NV,Fresno CA
+Providence RI,Cleveland OH
+Washington DC,Newburgh/Poughkeepsie NY
+Portland OR,Burbank CA
+San Juan PR,Cleveland OH
+Salt Lake City UT,San Diego CA
+Lexington KY,Houston TX
+Tampa FL,Houston TX
+Albany NY,Newark NJ
+Lynchburg VA,Atlanta GA
+Wichita KS,Chicago IL
+Ontario CA,Phoenix AZ
+Dallas/Fort Worth TX,Texarkana AR
+Honolulu HI,New York NY
+Tampa FL,Providence RI
+San Francisco CA,Santa Maria CA
+Boise ID,San Diego CA
+Fort Lauderdale FL,New York NY
+Anchorage AK,Seattle WA
+Sacramento CA,Dallas TX
+Philadelphia PA,Detroit MI
+Raleigh/Durham NC,Boston MA
+St. Louis MO,San Antonio TX
+Portland OR,Ontario CA
+Kalispell MT,Chicago IL
+Fort Myers FL,Indianapolis IN
+Little Rock AR,Las Vegas NV
+Baltimore MD,Tampa FL
+Waterloo IA,Chicago IL
+Minneapolis MN,Traverse City MI
+Chicago IL,Champaign/Urbana IL
+Austin TX,San Jose CA
+Orlando FL,Ponce PR
+Dallas/Fort Worth TX,Fort Lauderdale FL
+Chicago IL,Cleveland OH
+Kahului HI,Portland OR
+Raleigh/Durham NC,Detroit MI
+Nashville TN,Charlotte NC
+Dubuque IA,Chicago IL
+West Palm Beach/Palm Beach FL,White Plains NY
+San Diego CA,Denver CO
+Los Angeles CA,Yuma AZ
+Little Rock AR,Houston TX
+Oakland CA,New Orleans LA
+Honolulu HI,Las Vegas NV
+San Francisco CA,Burbank CA
+Billings MT,Chicago IL
+Ontario CA,Minneapolis MN
+Chicago IL,Bismarck/Mandan ND
+Bozeman MT,Newark NJ
+Trenton NJ,Detroit MI
+Tampa FL,Atlantic City NJ
+Detroit MI,New Orleans LA
+Phoenix AZ,Seattle WA
+New York NY,Fayetteville AR
+Oakland CA,Boston MA
+San Diego CA,El Paso TX
+Huntsville AL,Chicago IL
+Newark NJ,Norfolk VA
+Los Angeles CA,Omaha NE
+Santa Barbara CA,Phoenix AZ
+Washington DC,Portland OR
+Lexington KY,Chicago IL
+New York NY,Nashville TN
+Boston MA,New York NY
+Dothan AL,Atlanta GA
+Omaha NE,New York NY
+State College PA,Atlanta GA
+Charlotte NC,New Orleans LA
+Las Vegas NV,Louisville KY
+Des Moines IA,Dallas/Fort Worth TX
+Chicago IL,Buffalo NY
+Orlando FL,Knoxville TN
+Newark NJ,Bangor ME
+Rochester MN,Cleveland OH
+Cincinnati OH,New Orleans LA
+Orlando FL,Huntsville AL
+Charleston SC,Houston TX
+Atlanta GA,Norfolk VA
+Syracuse NY,Cincinnati OH
+Orlando FL,New Orleans LA
+Columbus OH,Houston TX
+Fort Smith AR,Atlanta GA
+Orlando FL,Raleigh/Durham NC
+Albuquerque NM,Oakland CA
+Hartford CT,Las Vegas NV
+Fort Lauderdale FL,Tallahassee FL
+Fort Lauderdale FL,Cleveland OH
+Raleigh/Durham NC,Los Angeles CA
+Portland OR,Salt Lake City UT
+Cincinnati OH,Bristol/Johnson City/Kingsport TN
+Phoenix AZ,Albuquerque NM
+Boston MA,Raleigh/Durham NC
+Indianapolis IN,Salt Lake City UT
+Miami FL,Columbus OH
+Dallas/Fort Worth TX,Orlando FL
+Denver CO,Pasco/Kennewick/Richland WA
+Sioux Falls SD,Atlanta GA
+Dallas/Fort Worth TX,Garden City KS
+Portland OR,Anchorage AK
+Nashville TN,Orlando FL
+Dayton OH,Newark NJ
+Monroe LA,Houston TX
+Austin TX,Charlotte NC
+Philadelphia PA,Portland OR
+Erie PA,Chicago IL
+Reno NV,Minneapolis MN
+Madison WI,Detroit MI
+Tucson AZ,Denver CO
+Atlanta GA,Bozeman MT
+Fresno CA,Los Angeles CA
+Durango CO,Denver CO
+Tucson AZ,Houston TX
+Lexington KY,Orlando FL
+Honolulu HI,Dallas/Fort Worth TX
+New Orleans LA,Tampa FL
+Cincinnati OH,Oklahoma City OK
+Chicago IL,Richmond VA
+Gustavus AK,Juneau AK
+Detroit MI,Cleveland OH
+Cincinnati OH,Nashville TN
+Boston MA,Marthas Vineyard MA
+San Antonio TX,Dallas TX
+Phoenix AZ,Palm Springs CA
+Tampa FL,Richmond VA
+Oakland CA,Phoenix AZ
+Jacksonville FL,Philadelphia PA
+Dallas/Fort Worth TX,Midland/Odessa TX
+Dallas/Fort Worth TX,Mission/McAllen/Edinburg TX
+Memphis TN,Milwaukee WI
+Peoria IL,Detroit MI
+Traverse City MI,Minneapolis MN
+Chicago IL,San Jose CA
+San Jose CA,Washington DC
+Newark NJ,Savannah GA
+Austin TX,El Paso TX
+St. Louis MO,Nashville TN
+San Francisco CA,North Bend/Coos Bay OR
+Sacramento CA,Salt Lake City UT
+Kalispell MT,Salt Lake City UT
+Long Beach CA,Anchorage AK
+Cleveland OH,San Juan PR
+Aspen CO,Houston TX
+Baltimore MD,San Antonio TX
+Sacramento CA,Minneapolis MN
+Green Bay WI,Chicago IL
+Honolulu HI,Seattle WA
+Tampa FL,San Antonio TX
+Houston TX,Wichita KS
+New York NY,Lexington KY
+Charlotte NC,Denver CO
+Houston TX,Fort Myers FL
+Memphis TN,Miami FL
+Ontario CA,Nashville TN
+Las Vegas NV,Portland OR
+Seattle WA,Dallas/Fort Worth TX
+Salt Lake City UT,Colorado Springs CO
+Philadelphia PA,Las Vegas NV
+Memphis TN,Louisville KY
+Flagstaff AZ,Phoenix AZ
+Portland OR,New York NY
+Denver CO,Kalispell MT
+Chicago IL,San Diego CA
+Denver CO,Orlando FL
+Salt Lake City UT,El Paso TX
+Denver CO,St. Louis MO
+Los Angeles CA,Las Vegas NV
+Cleveland OH,Seattle WA
+Milwaukee WI,New York NY
+San Francisco CA,Medford OR
+Seattle WA,Long Beach CA
+Detroit MI,Myrtle Beach SC
+San Francisco CA,Crescent City CA
+Fort Myers FL,Minneapolis MN
+Newark NJ,Bozeman MT
+Chicago IL,Atlanta GA
+Orlando FL,Chicago IL
+Ashland WV,Cincinnati OH
+Newport News/Williamsburg VA,Cincinnati OH
+Denver CO,Bakersfield CA
+Ontario CA,San Jose CA
+Oakland CA,Burbank CA
+Charlottesville VA,Atlanta GA
+Montgomery AL,Atlanta GA
+Charleston/Dunbar WV,Houston TX
+Portland OR,St. Louis MO
+Pittsburgh PA,Myrtle Beach SC
+Houston TX,Richmond VA
+Miami FL,Seattle WA
+Houston TX,Charlotte NC
+Denver CO,Dayton OH
+Minneapolis MN,Newark NJ
+Los Angeles CA,Pittsburgh PA
+Jamestown ND,Devils Lake ND
+Philadelphia PA,Washington DC
+Tampa FL,Pittsburgh PA
+Philadelphia PA,Orlando FL
+Portland OR,Las Vegas NV
+Seattle WA,Omaha NE
+Tucson AZ,San Francisco CA
+Washington DC,Oakland CA
+Portland OR,Charlotte NC
+Oklahoma City OK,Minneapolis MN
+Orlando FL,San Juan PR
+Atlanta GA,Gainesville FL
+Indianapolis IN,Fort Myers FL
+Charlotte NC,Norfolk VA
+Salt Lake City UT,Omaha NE
+St. Louis MO,Oklahoma City OK
+Dallas/Fort Worth TX,Minneapolis MN
+Phoenix AZ,Hartford CT
+San Francisco CA,San Diego CA
+Atlanta GA,Kansas City MO
+Memphis TN,Birmingham AL
+Newark NJ,Providence RI
+Chicago IL,Nashville TN
+Denver CO,New York NY
+Chicago IL,Cedar Rapids/Iowa City IA
+Cleveland OH,White Plains NY
+Bozeman MT,Salt Lake City UT
+Memphis TN,Raleigh/Durham NC
+Austin TX,Dallas/Fort Worth TX
+Akron OH,Chicago IL
+Dayton OH,Minneapolis MN
+Atlanta GA,Pensacola FL
+Miami FL,Newark NJ
+Atlanta GA,Hartford CT
+Kalispell MT,Phoenix AZ
+Atlanta GA,Little Rock AR
+Portland ME,Detroit MI
+Dallas/Fort Worth TX,Monroe LA
+Tulsa OK,Dallas TX
+Baltimore MD,Raleigh/Durham NC
+Indianapolis IN,Atlanta GA
+Chicago IL,Fort Myers FL
+Indianapolis IN,Dallas/Fort Worth TX
+Seattle WA,Boise ID
+Denver CO,Santa Ana CA
+Jackson WY,Denver CO
+Minneapolis MN,Raleigh/Durham NC
+College Station/Bryan TX,Dallas/Fort Worth TX
+Philadelphia PA,Pittsburgh PA
+Daytona Beach FL,Atlanta GA
+Atlanta GA,Lexington KY
+Fayetteville AR,Houston TX
+Raleigh/Durham NC,Memphis TN
+Evansville IN,Detroit MI
+Sarasota/Bradenton FL,Chicago IL
+Iron Mountain/Kingsfd MI,Minneapolis MN
+Dallas TX,Midland/Odessa TX
+Fayetteville AR,Denver CO
+Salt Lake City UT,Grand Junction CO
+Greer SC,Newark NJ
+Aspen CO,Chicago IL
+Miami FL,St. Louis MO
+Bozeman MT,Minneapolis MN
+New York NY,Oakland CA
+Charleston SC,Boston MA
+Washington DC,Providence RI
+Minneapolis MN,Fort Lauderdale FL
+Cody WY,Denver CO
+Hattiesburg/Laurel MS,Dallas/Fort Worth TX
+Huntsville AL,Tampa FL
+Huntsville AL,Houston TX
+Philadelphia PA,Portland ME
+Minneapolis MN,San Francisco CA
+Las Vegas NV,Hartford CT
+Hilo HI,Honolulu HI
+Philadelphia PA,St. Louis MO
+Baltimore MD,Indianapolis IN
+Cincinnati OH,Atlanta GA
+Killeen TX,Houston TX
+Austin TX,Long Beach CA
+Chicago IL,Charlotte NC
+Islip NY,Atlanta GA
+Dallas/Fort Worth TX,Des Moines IA
+Orlando FL,Syracuse NY
+New York NY,Bozeman MT
+Detroit MI,Peoria IL
+Salt Lake City UT,Seattle WA
+Dallas/Fort Worth TX,Omaha NE
+Santa Barbara CA,San Francisco CA
+Tampa FL,Rochester NY
+Memphis TN,Washington DC
+Minneapolis MN,Norfolk VA
+Cincinnati OH,Huntsville AL
+Providence RI,Orlando FL
+Rapid City SD,Salt Lake City UT
+Panama City FL,Cincinnati OH
+Philadelphia PA,Columbus OH
+San Francisco CA,Los Angeles CA
+Charleston SC,Philadelphia PA
+Boston MA,Burlington VT
+Orlando FL,Dallas/Fort Worth TX
+Jacksonville FL,Miami FL
+Charlotte NC,Newark NJ
+Jacksonville FL,Indianapolis IN
+Washington DC,Pittsburgh PA
+Colorado Springs CO,Los Angeles CA
+Raleigh/Durham NC,Philadelphia PA
+St. Louis MO,Atlanta GA
+Detroit MI,Anchorage AK
+Los Angeles CA,Charlotte NC
+St. Louis MO,Omaha NE
+El Paso TX,Lubbock TX
+Milwaukee WI,Orlando FL
+Norfolk VA,Newark NJ
+Newark NJ,Lexington KY
+Philadelphia PA,Manchester NH
+Baltimore MD,Louisville KY
+Tampa FL,Louisville KY
+Montgomery AL,Dallas/Fort Worth TX
+Spokane WA,Seattle WA
+Rochester NY,Tampa FL
+Denver CO,Milwaukee WI
+Fort Myers FL,White Plains NY
+Salt Lake City UT,Spokane WA
+New Orleans LA,Denver CO
+Key West FL,Atlanta GA
+Baltimore MD,St. Louis MO
+Salt Lake City UT,Atlanta GA
+Atlanta GA,Jacksonville/Camp Lejeune NC
+San Francisco CA,Jackson WY
+Philadelphia PA,New York NY
+San Jose CA,Seattle WA
+Chicago IL,Dallas/Fort Worth TX
+Minneapolis MN,Santa Ana CA
+Raleigh/Durham NC,Fort Lauderdale FL
+Jacksonville FL,Boston MA
+San Francisco CA,Tucson AZ
+Mobile AL,Cincinnati OH
+Great Falls MT,Salt Lake City UT
+Pittsburgh PA,West Palm Beach/Palm Beach FL
+Los Angeles CA,Monterey CA
+Burlington VT,Boston MA
+Atlanta GA,Flint MI
+New York NY,Pensacola FL
+Texarkana AR,Dallas/Fort Worth TX
+Harrisburg PA,Charlotte NC
+Atlanta GA,Rapid City SD
+Detroit MI,Jacksonville FL
+Albany NY,Minneapolis MN
+Denver CO,San Antonio TX
+Manchester NH,Chicago IL
+Louisville KY,Chicago IL
+Las Vegas NV,Palm Springs CA
+Fort Lauderdale FL,Boston MA
+Miami FL,Birmingham AL
+Akron OH,Washington DC
+Fort Lauderdale FL,Raleigh/Durham NC
+Kona HI,Honolulu HI
+Washington DC,Las Vegas NV
+Pittsburgh PA,Denver CO
+Norfolk VA,Chicago IL
+Washington DC,Rochester NY
+Memphis TN,Orlando FL
+Austin TX,Midland/Odessa TX
+Pittsburgh PA,Tampa FL
+Birmingham AL,Dallas TX
+Seattle WA,Spokane WA
+Cleveland OH,Minneapolis MN
+Los Angeles CA,Oakland CA
+Syracuse NY,Chicago IL
+Washington DC,Charlotte NC
+Louisville KY,Newark NJ
+Detroit MI,Reno NV
+Spokane WA,Chicago IL
+Midland/Odessa TX,Houston TX
+Milwaukee WI,St. Louis MO
+Jacksonville FL,Birmingham AL
+Pittsburgh PA,Houston TX
+Baltimore MD,Portland ME
+Denver CO,Louisville KY
+New Orleans LA,Jacksonville FL
+Atlanta GA,South Bend IN
+St. George UT,Salt Lake City UT
+New Orleans LA,Houston TX
+Memphis TN,St. Louis MO
+Cincinnati OH,Fayetteville AR
+Grand Rapids MI,New York NY
+New York NY,Savannah GA
+Bristol/Johnson City/Kingsport TN,Cincinnati OH
+Sacramento CA,Burbank CA
+Detroit MI,Baltimore MD
+Newark NJ,Jacksonville FL
+Chicago IL,Syracuse NY
+Lake Charles LA,Houston TX
+San Francisco CA,Monterey CA
+Tampa FL,Washington DC
+San Francisco CA,Detroit MI
+Albuquerque NM,Orlando FL
+Washington DC,Manchester NH
+Detroit MI,Chattanooga TN
+Chicago IL,Hancock/Houghton MI
+Charleston SC,Washington DC
+Syracuse NY,Newark NJ
+Moline IL,Orlando FL
+Cleveland OH,Phoenix AZ
+Columbia SC,New York NY
+Chicago IL,Tucson AZ
+Memphis TN,Indianapolis IN
+San Juan PR,Los Angeles CA
+Houston TX,Tucson AZ
+Salt Lake City UT,Madison WI
+Savannah GA,Detroit MI
+Birmingham AL,Baltimore MD
+San Jose CA,Lihue HI
+Birmingham AL,Denver CO
+Houston TX,Columbus OH
+Charlotte NC,Sacramento CA
+Los Angeles CA,Orlando FL
+Santa Ana CA,Los Angeles CA
+Houston TX,Grand Rapids MI
+Nashville TN,Seattle WA
+International Falls MN,Hibbing MN
+Akron OH,Atlanta GA
+Baltimore MD,Manchester NH
+Los Angeles CA,San Diego CA
+Little Rock AR,St. Louis MO
+Santa Ana CA,San Jose CA
+Seattle WA,Washington DC
+Portland ME,Cincinnati OH
+New Orleans LA,Chicago IL
+Chicago IL,Oklahoma City OK
+Kansas City MO,Portland OR
+Orlando FL,Houston TX
+Boston MA,Charleston SC
+Gillette WY,Salt Lake City UT
+Baltimore MD,Las Vegas NV
+Charlotte NC,Syracuse NY
+Lihue HI,San Francisco CA
+West Palm Beach/Palm Beach FL,Cincinnati OH
+Fort Lauderdale FL,Indianapolis IN
+Savannah GA,Cincinnati OH
+Kahului HI,San Jose CA
+Baltimore MD,Columbus OH
+Detroit MI,Sault Ste. Marie MI
+Grand Rapids MI,Orlando FL
+Buffalo NY,Baltimore MD
+Philadelphia PA,San Antonio TX
+Dallas TX,Memphis TN
+Cleveland OH,Chicago IL
+Dallas TX,Portland OR
+Atlanta GA,Ontario CA
+Philadelphia PA,Richmond VA
+Phoenix AZ,Portland OR
+Jacksonville FL,New York NY
+Hartford CT,Philadelphia PA
+Pittsburgh PA,Chicago IL
+Las Vegas NV,Memphis TN
+Las Vegas NV,Des Moines IA
+Dallas/Fort Worth TX,Burbank CA
+Kahului HI,Honolulu HI
+Palm Springs CA,Denver CO
+St. Louis MO,Fort Myers FL
+San Antonio TX,Cleveland OH
+Atlanta GA,Rochester MN
+Houston TX,Las Vegas NV
+Evansville IN,Cincinnati OH
+St. Louis MO,Tulsa OK
+Houston TX,Greensboro/High Point NC
+Fort Lauderdale FL,Orlando FL
+Salt Lake City UT,Great Falls MT
+Milwaukee WI,Boston MA
+Houston TX,Hayden CO
+Orlando FL,Akron OH
+Baton Rouge LA,Cincinnati OH
+Dallas/Fort Worth TX,College Station/Bryan TX
+Manchester NH,Cleveland OH
+Lafayette LA,Birmingham AL
+Washington DC,Portland ME
+Salt Lake City UT,Honolulu HI
+Atlanta GA,Baltimore MD
+Houston TX,Oakland CA
+Phoenix AZ,Dallas TX
+Orlando FL,Greer SC
+Des Moines IA,Denver CO
+Las Vegas NV,Norfolk VA
+Denver CO,Raleigh/Durham NC
+Bakersfield CA,San Francisco CA
+Wichita KS,Las Vegas NV
+Norfolk VA,Dallas/Fort Worth TX
+Houston TX,Jackson WY
+Houston TX,Panama City FL
+Lincoln NE,Atlanta GA
+Dallas/Fort Worth TX,Fayetteville AR
+Boston MA,San Juan PR
+Baltimore MD,Pittsburgh PA
+Denver CO,Knoxville TN
+Green Bay WI,Atlanta GA
+Washington DC,Columbus OH
+Denver CO,Charlotte NC
+Burbank CA,Atlanta GA
+Washington DC,San Antonio TX
+Baltimore MD,Birmingham AL
+Kalispell MT,Minneapolis MN
+Nashville TN,Minneapolis MN
+Trenton NJ,Chicago IL
+Orlando FL,Omaha NE
+New Orleans LA,Phoenix AZ
+Miami FL,Denver CO
+Bend/Redmond OR,Los Angeles CA
+Las Vegas NV,Flint MI
+Panama City FL,Orlando FL
+Asheville NC,Cincinnati OH
+Minneapolis MN,Lincoln NE
+Fort Lauderdale FL,St. Louis MO
+Anchorage AK,Las Vegas NV
+Trenton NJ,Atlanta GA
+Columbus OH,Los Angeles CA
+Boston MA,Bangor ME
+Los Angeles CA,Aspen CO
+Myrtle Beach SC,Latrobe PA
+Arcata/Eureka CA,San Francisco CA
+Flint MI,Chicago IL
+Pittsburgh PA,Phoenix AZ
+Houston TX,Dayton OH
+Fayetteville AR,Chicago IL
+Chicago IL,Rochester NY
+Raleigh/Durham NC,Denver CO
+Austin TX,Washington DC
+Dallas/Fort Worth TX,Salt Lake City UT
+Sioux Falls SD,Minneapolis MN
+Lexington KY,New York NY
+Dallas/Fort Worth TX,Kansas City MO
+Boston MA,Long Beach CA
+Dallas/Fort Worth TX,Springfield MO
+Santa Ana CA,Austin TX
+Dallas/Fort Worth TX,Hartford CT
+Fort Lauderdale FL,Charlotte Amalie VI
+Minneapolis MN,Flint MI
+Atlanta GA,San Francisco CA
+Atlanta GA,Cleveland OH
+Cincinnati OH,New Haven CT
+San Juan PR,Tampa FL
+Salt Lake City UT,Albuquerque NM
+Hobbs NM,Houston TX
+Richmond VA,New York NY
+Baltimore MD,New York NY
+Miami FL,Chicago IL
+Washington DC,New York NY
+Denver CO,Aspen CO
+Portland OR,San Diego CA
+Oakland CA,Reno NV
+Miami FL,Pittsburgh PA
+San Juan PR,Charlotte NC
+Atlanta GA,White Plains NY
+Nantucket MA,Boston MA
+Minneapolis MN,New Orleans LA
+Dallas/Fort Worth TX,Kahului HI
+Chicago IL,Huntsville AL
+Columbus OH,Charlotte NC
+Salt Lake City UT,Washington DC
+Charlotte NC,Chicago IL
+Sacramento CA,Phoenix AZ
+Fort Lauderdale FL,Philadelphia PA
+White Plains NY,Cincinnati OH
+Cincinnati OH,Dallas/Fort Worth TX
+San Diego CA,Minneapolis MN
+Akron OH,Denver CO
+Dallas/Fort Worth TX,El Paso TX
+Missoula MT,San Francisco CA
+Minneapolis MN,Helena MT
+New Orleans LA,Dallas TX
+San Antonio TX,Denver CO
+San Antonio TX,Baltimore MD
+Salt Lake City UT,Gillette WY
+San Francisco CA,Reno NV
+Cincinnati OH,Tulsa OK
+Anchorage AK,Adak Island AK
+New York NY,Tampa FL
+Chicago IL,Greensboro/High Point NC
+West Palm Beach/Palm Beach FL,Boston MA
+Burlington VT,New York NY
+Valparaiso FL,Cincinnati OH
+Chicago IL,Colorado Springs CO
+Fort Lauderdale FL,Trenton NJ
+Denver CO,Boston MA
+Dallas/Fort Worth TX,Waco TX
+Newark NJ,Portland OR
+Rapid City SD,Minneapolis MN
+St. Louis MO,Dallas/Fort Worth TX
+Christiansted VI,Miami FL
+Cincinnati OH,Burlington VT
+Brownsville TX,Houston TX
+Jacksonville FL,Fort Lauderdale FL
+Philadelphia PA,Charlotte NC
+Tampa FL,Charlotte NC
+Greer SC,Chicago IL
+Kansas City MO,Charlotte NC
+Albuquerque NM,St. Louis MO
+Detroit MI,Hartford CT
+Baltimore MD,Austin TX
+Chicago IL,Traverse City MI
+Houston TX,New York NY
+Lewisburg WV,Atlanta GA
+Seattle WA,Kahului HI
+Minneapolis MN,St. Louis MO
+Minneapolis MN,Boston MA
+Washington DC,Albany NY
+San Jose CA,Atlanta GA
+Detroit MI,Greer SC
+Dallas/Fort Worth TX,Lawton/Fort Sill OK
+Orlando FL,Newark NJ
+Chicago IL,Pittsburgh PA
+Dallas TX,Little Rock AR
+Salt Lake City UT,Nashville TN
+Santa Ana CA,Atlanta GA
+Rochester NY,Charlotte NC
+Cedar Rapids/Iowa City IA,Atlanta GA
+Garden City KS,Dallas/Fort Worth TX
+Long Beach CA,Sacramento CA
+Atlantic City NJ,Tampa FL
+Baltimore MD,Dayton OH
+Las Vegas NV,Little Rock AR
+Columbus OH,Nashville TN
+Chattanooga TN,Detroit MI
+New York NY,Ontario CA
+Baltimore MD,Fort Lauderdale FL
+New York NY,Cleveland OH
+Anchorage AK,Detroit MI
+Detroit MI,Houston TX
+Salt Lake City UT,Long Beach CA
+Alexandria LA,Atlanta GA
+Dallas/Fort Worth TX,Rapid City SD
+Jackson WY,San Francisco CA
+Eugene OR,Los Angeles CA
+Detroit MI,Tampa FL
+Dallas/Fort Worth TX,Evansville IN
+Denver CO,Wichita KS
+Tampa FL,Milwaukee WI
+Jacksonville FL,New Orleans LA
+Sarasota/Bradenton FL,Newark NJ
+Las Vegas NV,Dallas TX
+Memphis TN,Philadelphia PA
+Minneapolis MN,Louisville KY
+Reno NV,San Diego CA
+Chicago IL,Grand Rapids MI
+Washington DC,Fort Myers FL
+Myrtle Beach SC,Baltimore MD
+Charlotte NC,West Palm Beach/Palm Beach FL
+Las Vegas NV,Omaha NE
+Tampa FL,St. Louis MO
+Tampa FL,Columbia SC
+Minneapolis MN,Milwaukee WI
+Philadelphia PA,Fort Myers FL
+Philadelphia PA,Raleigh/Durham NC
+Ketchikan AK,Seattle WA
+Los Angeles CA,San Jose CA
+Lansing MI,Minneapolis MN
+Newark NJ,Charlotte NC
+Newark NJ,Tampa FL
+Minneapolis MN,Washington DC
+Reno NV,Los Angeles CA
+Tucson AZ,Albuquerque NM
+Cleveland OH,Burlington VT
+Miami FL,Dallas/Fort Worth TX
+Indianapolis IN,Los Angeles CA
+Los Angeles CA,Milwaukee WI
+Kona HI,Seattle WA
+Fort Wayne IN,Cincinnati OH
+Houston TX,Jackson/Vicksburg MS
+Baltimore MD,Panama City FL
+White Plains NY,Detroit MI
+Houston TX,Pittsburgh PA
+New York NY,Baltimore MD
+Denver CO,Miami FL
+Indianapolis IN,Washington DC
+Charlotte NC,Memphis TN
+Louisville KY,Denver CO
+Juneau AK,Yakutat AK
+Minneapolis MN,Fort Myers FL
+Salt Lake City UT,Boston MA
+Dallas/Fort Worth TX,Anchorage AK
+Des Moines IA,Minneapolis MN
+Chicago IL,Cincinnati OH
+Nashville TN,Phoenix AZ
+Oklahoma City OK,Dallas TX
+Las Vegas NV,Buffalo NY
+Dallas/Fort Worth TX,Toledo OH
+New York NY,Las Vegas NV
+Las Vegas NV,San Francisco CA
+Dayton OH,Cincinnati OH
+Chicago IL,Akron OH
+Nashville TN,Chicago IL
+Barrow AK,Deadhorse AK
+Newark NJ,Santa Ana CA
+Cincinnati OH,Philadelphia PA
+New York NY,San Antonio TX
+Salt Lake City UT,West Yellowstone MT
+Honolulu HI,San Francisco CA
+Chicago IL,Jackson WY
+Montgomery AL,Cincinnati OH
+Charlotte NC,Charleston SC
+Monterey CA,Fresno CA
+Phoenix AZ,Bakersfield CA
+Tampa FL,Los Angeles CA
+Sun Valley/Hailey/Ketchum ID,Salt Lake City UT
+New York NY,Sacramento CA
+Minneapolis MN,Oklahoma City OK
+Las Vegas NV,Chicago IL
+San Jose CA,Denver CO
+Philadelphia PA,Albany NY
+Portland OR,Austin TX
+Pittsburgh PA,San Juan PR
+Atlanta GA,Fayetteville NC
+Burbank CA,Sacramento CA
+San Francisco CA,Washington DC
+Fargo ND,Atlanta GA
+Tampa FL,Grand Rapids MI
+New York NY,Orlando FL
+San Antonio TX,Chicago IL
+Portland OR,Reno NV
+Salt Lake City UT,Santa Barbara CA
+Salt Lake City UT,St. George UT
+Chicago IL,Albany NY
+Seattle WA,Newark NJ
+Salt Lake City UT,New Orleans LA
+Austin TX,New Orleans LA
+Tampa FL,Newark NJ
+Fort Lauderdale FL,Milwaukee WI
+Washington DC,Orlando FL
+Atlanta GA,Myrtle Beach SC
+Los Angeles CA,Detroit MI
+Chicago IL,Duluth MN
+Chicago IL,Newark NJ
+Denver CO,Jackson WY
+San Diego CA,Phoenix AZ
+Atlanta GA,Springfield MO
+Longview TX,Dallas/Fort Worth TX
+Detroit MI,Green Bay WI
+Louisville KY,Dallas/Fort Worth TX
+Salt Lake City UT,Philadelphia PA
+Charlotte NC,Seattle WA
+Las Vegas NV,Denver CO
+Melbourne FL,Atlanta GA
+Dallas TX,Denver CO
+Cedar Rapids/Iowa City IA,Dallas/Fort Worth TX
+Portland OR,Oakland CA
+Aguadilla PR,New York NY
+Dallas/Fort Worth TX,Tyler TX
+Austin TX,Harlingen/San Benito TX
+Nashville TN,Memphis TN
+Myrtle Beach SC,Newark NJ
+Fort Myers FL,Kansas City MO
+Dallas TX,Sacramento CA
+Ketchikan AK,Sitka AK
+Yakutat AK,Cordova AK
+Detroit MI,Evansville IN
+Jacksonville FL,Charlotte NC
+Detroit MI,Providence RI
+Christiansted VI,Atlanta GA
+New York NY,Columbus OH
+San Antonio TX,Minneapolis MN
+Miami FL,Atlanta GA
+Cincinnati OH,Evansville IN
+Los Angeles CA,San Luis Obispo CA
+Cincinnati OH,Bangor ME
+San Francisco CA,Pittsburgh PA
+Omaha NE,St. Louis MO
+Los Angeles CA,Reno NV
+Greer SC,Dallas/Fort Worth TX
+Newburgh/Poughkeepsie NY,Chicago IL
+Miami FL,Charlotte Amalie VI
+San Juan PR,New York NY
+Columbus OH,Dallas/Fort Worth TX
+Albuquerque NM,Midland/Odessa TX
+St. Louis MO,Boston MA
+Albany NY,Baltimore MD
+Phoenix AZ,Anchorage AK
+Harlingen/San Benito TX,Austin TX
+Detroit MI,San Juan PR
+St. Louis MO,Raleigh/Durham NC
+Richmond VA,Orlando FL
+Columbia SC,Cincinnati OH
+Oklahoma City OK,Kansas City MO
+Syracuse NY,Cleveland OH
+Ontario CA,Seattle WA
+Tulsa OK,Minneapolis MN
+Miami FL,Nashville TN
+Cincinnati OH,Seattle WA
+Cincinnati OH,Wilmington NC
+Cleveland OH,Tampa FL
+Harrisburg PA,Cleveland OH
+Boston MA,Chicago IL
+Atlanta GA,Monroe LA
+Phoenix AZ,Minneapolis MN
+Washington DC,Miami FL
+Tampa FL,Raleigh/Durham NC
+Anchorage AK,Juneau AK
+Kansas City MO,Cleveland OH
+Birmingham AL,Chicago IL
+Tampa FL,Boston MA
+Minneapolis MN,Rapid City SD
+Tulsa OK,Salt Lake City UT
+Salt Lake City UT,Anchorage AK
+Allentown/Bethlehem/Easton PA,Cleveland OH
+Philadelphia PA,Miami FL
+Pocatello ID,Salt Lake City UT
+Dayton OH,Houston TX
+Cedar Rapids/Iowa City IA,Cincinnati OH
+Chicago IL,Charlottesville VA
+Atlanta GA,Greer SC
+Louisville KY,Memphis TN
+Albany NY,Cincinnati OH
+San Francisco CA,Eugene OR
+Orlando FL,Dallas TX
+Atlanta GA,Minneapolis MN
+Phoenix AZ,Salt Lake City UT
+Medford OR,Eugene OR
+Sacramento CA,Portland OR
+Adak Island AK,Anchorage AK
+Honolulu HI,Denver CO
+Minneapolis MN,Sioux Falls SD
+Boston MA,Phoenix AZ
+Washington DC,Nantucket MA
+Tucson AZ,Seattle WA
+Honolulu HI,Pago Pago TT
+Chicago IL,State College PA
+Tampa FL,Indianapolis IN
+Indianapolis IN,Chicago IL
+Indianapolis IN,Fort Lauderdale FL
+Barrow AK,Anchorage AK
+Atlanta GA,Allentown/Bethlehem/Easton PA
+Chicago IL,Raleigh/Durham NC
+Phoenix AZ,Sacramento CA
+Colorado Springs CO,Cincinnati OH
+Newark NJ,Orlando FL
+Fresno CA,Colorado Springs CO
+Charlotte NC,Kansas City MO
+Newark NJ,Phoenix AZ
+Honolulu HI,Lihue HI
+Cleveland OH,Greer SC
+Dallas/Fort Worth TX,Memphis TN
+Tampa FL,Knoxville TN
+Memphis TN,Little Rock AR
+Salt Lake City UT,Idaho Falls ID
+Minneapolis MN,Tulsa OK
+Oklahoma City OK,Houston TX
+Manchester NH,Tampa FL
+Salt Lake City UT,Sacramento CA
+Denver CO,Philadelphia PA
+Fort Myers FL,Memphis TN
+Chicago IL,St. Louis MO
+Knoxville TN,Tampa FL
+Kansas City MO,Indianapolis IN
+Baltimore MD,Rochester NY
+Chicago IL,Santa Ana CA
+Baltimore MD,Charlotte NC
+Bakersfield CA,Salt Lake City UT
+Las Vegas NV,Sacramento CA
+San Francisco CA,New York NY
+Boise ID,Atlanta GA
+Dallas/Fort Worth TX,Valparaiso FL
+Chicago IL,Boise ID
+Charlotte NC,Dallas/Fort Worth TX
+Chicago IL,San Francisco CA
+Pittsburgh PA,Hartford CT
+Minneapolis MN,Kansas City MO
+Sun Valley/Hailey/Ketchum ID,San Francisco CA
+New York NY,Houston TX
+Palm Springs CA,San Francisco CA
+Houston TX,Indianapolis IN
+Detroit MI,Atlantic City NJ
+Dayton OH,Baltimore MD
+Denver CO,Albany NY
+Mission/McAllen/Edinburg TX,Houston TX
+Atlanta GA,West Palm Beach/Palm Beach FL
+San Juan PR,Pittsburgh PA
+Oakland CA,Kona HI
+St. Louis MO,Washington DC
+Cleveland OH,Memphis TN
+South Bend IN,Atlanta GA
+Des Moines IA,Chicago IL
+Rochester MN,Dallas/Fort Worth TX
+Houston TX,Bakersfield CA
+Saginaw/Bay City/Midland MI,Chicago IL
+Norfolk VA,Atlanta GA
+Kansas City MO,Miami FL
+New York NY,Salt Lake City UT
+Houston TX,San Antonio TX
+Chicago IL,La Crosse WI
+Austin TX,Newark NJ
+San Angelo TX,Houston TX
+Philadelphia PA,San Diego CA
+Spokane WA,Denver CO
+San Diego CA,Baltimore MD
+Orlando FL,San Francisco CA
+Trenton NJ,Fort Lauderdale FL
+Lihue HI,San Jose CA
+Beaumont/Port Arthur TX,Houston TX
+Knoxville TN,Cincinnati OH
+Ontario CA,Dallas/Fort Worth TX
+Columbus OH,Atlanta GA
+Chicago IL,Billings MT
+Atlanta GA,Denver CO
+Cleveland OH,Myrtle Beach SC
+Saginaw/Bay City/Midland MI,Minneapolis MN
+Detroit MI,Charlotte NC
+Chicago IL,Roanoke VA
+Denver CO,Cincinnati OH
+Philadelphia PA,Memphis TN
+Orlando FL,Cleveland OH
+Salt Lake City UT,Cedar City UT
+San Francisco CA,Las Vegas NV
+Minneapolis MN,Honolulu HI
+Denver CO,Oakland CA
+Newburgh/Poughkeepsie NY,Washington DC
+Los Angeles CA,Miami FL
+Austin TX,Lubbock TX
+Dallas TX,Kansas City MO
+Charleston SC,Atlanta GA
+Chicago IL,Columbia SC
+Islip NY,Cincinnati OH
+Petersburg AK,Juneau AK
+Long Beach CA,Portland OR
+Charlotte NC,Portland OR
+Rochester NY,New York NY
+Idaho Falls ID,Denver CO
+Detroit MI,Portland OR
+Newark NJ,Sarasota/Bradenton FL
+Duluth MN,Chicago IL
+Dallas/Fort Worth TX,Chattanooga TN
+Dallas/Fort Worth TX,Sacramento CA
+Indianapolis IN,San Francisco CA
+Denver CO,Fargo ND
+Chicago IL,Bloomington/Normal IL
+Seattle WA,New Orleans LA
+Atlanta GA,Chicago IL
+Cincinnati OH,Appleton WI
+Sarasota/Bradenton FL,Atlanta GA
+West Palm Beach/Palm Beach FL,Charlotte NC
+Salt Lake City UT,Newark NJ
+Houston TX,Beaumont/Port Arthur TX
+Kansas City MO,Orlando FL
+Atlanta GA,Brunswick GA
+Charleston SC,Nashville TN
+Dallas/Fort Worth TX,Peoria IL
+Reno NV,Detroit MI
+Denver CO,Amarillo TX
+Chicago IL,Austin TX
+Wilmington NC,Cincinnati OH
+Dallas/Fort Worth TX,Greer SC
+Atlanta GA,Kalispell MT
+San Francisco CA,Orlando FL
+Newark NJ,Houston TX
+St. Louis MO,Panama City FL
+Salt Lake City UT,Houston TX
+Cleveland OH,Detroit MI
+Buffalo NY,Newark NJ
+Gainesville FL,Miami FL
+Denver CO,Austin TX
+Houston TX,Birmingham AL
+Anchorage AK,Phoenix AZ
+Harrisburg PA,Orlando FL
+St. Louis MO,Santa Ana CA
+Trenton NJ,St. Augustine FL
+Salt Lake City UT,Memphis TN
+Denver CO,North Bend/Coos Bay OR
+Tampa FL,Cincinnati OH
+Jackson/Vicksburg MS,Cincinnati OH
+Austin TX,Raleigh/Durham NC
+Cleveland OH,Norfolk VA
+Atlanta GA,Buffalo NY
+Memphis TN,Omaha NE
+Baltimore MD,San Diego CA
+Dallas/Fort Worth TX,Grand Island NE
+Oakland CA,Portland OR
+Baltimore MD,Orlando FL
+Lexington KY,Cincinnati OH
+Minneapolis MN,Appleton WI
+Rochester NY,Detroit MI
+Santa Ana CA,Cincinnati OH
+Austin TX,Boston MA
+Honolulu HI,Chicago IL
+Moline IL,Cincinnati OH
+Detroit MI,Bozeman MT
+Boston MA,West Palm Beach/Palm Beach FL
+Denver CO,Honolulu HI
+Oakland CA,San Diego CA
+Columbus OH,Cincinnati OH
+Tulsa OK,Phoenix AZ
+Dallas/Fort Worth TX,Montgomery AL
+Appleton WI,Detroit MI
+Ontario CA,New York NY
+Houston TX,Washington DC
+Atlanta GA,Des Moines IA
+Honolulu HI,Phoenix AZ
+Detroit MI,Columbus OH
+Boston MA,Denver CO
+Chicago IL,Los Angeles CA
+Oakland CA,Kansas City MO
+Newark NJ,Rochester NY
+Las Vegas NV,Kansas City MO
+Seattle WA,Atlanta GA
+Latrobe PA,Las Vegas NV
+Phoenix AZ,Ontario CA
+Minneapolis MN,South Bend IN
+Rapid City SD,Houston TX
+Orlando FL,Denver CO
+Columbia SC,Tampa FL
+Fort Lauderdale FL,San Juan PR
+Houston TX,Lafayette LA
+Tampa FL,Flint MI
+Boston MA,Jacksonville FL
+Cincinnati OH,Houston TX
+New Orleans LA,Baltimore MD
+San Jose CA,Dallas TX
+Dallas/Fort Worth TX,Ontario CA
+Reno NV,New York NY
+Minneapolis MN,Rhinelander WI
+Peoria IL,Atlanta GA
+Minneapolis MN,San Jose CA
+Cincinnati OH,Charleston SC
+Los Angeles CA,Columbus OH
+Austin TX,Baltimore MD
+Atlanta GA,Harrisburg PA
+Sarasota/Bradenton FL,Baltimore MD
+Seattle WA,Anchorage AK
+Lubbock TX,Dallas/Fort Worth TX
+Providence RI,Philadelphia PA
+Houston TX,Miami FL
+Indianapolis IN,Philadelphia PA
+Washington DC,San Diego CA
+Newark NJ,Indianapolis IN
+Philadelphia PA,Charlotte Amalie VI
+Salt Lake City UT,Boise ID
+Los Angeles CA,San Antonio TX
+Charlotte NC,Albuquerque NM
+Eau Claire WI,Chicago IL
+Minneapolis MN,Cedar Rapids/Iowa City IA
+El Centro CA,San Diego CA
+Dallas/Fort Worth TX,Little Rock AR
+Richmond VA,Miami FL
+Chicago IL,Dubuque IA
+New York NY,Austin TX
+Alexandria LA,Dallas/Fort Worth TX
+Tampa FL,Albany NY
+Sitka AK,Ketchikan AK
+Dallas/Fort Worth TX,Reno NV
+Las Vegas NV,Seattle WA
+Seattle WA,Sacramento CA
+Albany NY,Cleveland OH
+Minneapolis MN,Brainerd MN
+Salt Lake City UT,Dallas/Fort Worth TX
+Santa Ana CA,Dallas/Fort Worth TX
+Cincinnati OH,Albuquerque NM
+Chicago IL,Dayton OH
+Dayton OH,Cleveland OH
+Dallas/Fort Worth TX,Detroit MI
+San Francisco CA,San Antonio TX
+Asheville NC,Atlanta GA
+Trenton NJ,Fort Myers FL
+Cleveland OH,Baltimore MD
+Denver CO,Las Vegas NV
+Norfolk VA,Baltimore MD
+Newark NJ,Cleveland OH
+New York NY,Miami FL
+Houston TX,Orlando FL
+San Diego CA,Austin TX
+Newark NJ,Traverse City MI
+El Paso TX,Dallas/Fort Worth TX
+White Plains NY,Tampa FL
+Boston MA,Seattle WA
+Hartford CT,Washington DC
+Cincinnati OH,Des Moines IA
+Traverse City MI,Marquette MI
+Albuquerque NM,Lubbock TX
+Atlanta GA,Dallas TX
+Seattle WA,Santa Barbara CA
+Cincinnati OH,Panama City FL
+Minneapolis MN,Manchester NH
+Marquette MI,Traverse City MI
+New Orleans LA,Minneapolis MN
+Charlotte Amalie VI,New York NY
+Washington DC,Buffalo NY
+Fort Myers FL,Detroit MI
+Salt Lake City UT,Tulsa OK
+Memphis TN,New Orleans LA
+Chicago IL,Knoxville TN
+Fresno CA,Dallas/Fort Worth TX
+San Francisco CA,Bakersfield CA
+Nashville TN,Salt Lake City UT
+Tampa FL,New Orleans LA
+Rochester MN,Atlanta GA
+Los Angeles CA,Hilo HI
+San Francisco CA,San Luis Obispo CA
+Springfield MO,Memphis TN
+Indianapolis IN,Denver CO
+St. Louis MO,New Orleans LA
+Dallas/Fort Worth TX,Abilene TX
+Fort Lauderdale FL,Richmond VA
+Reno NV,Las Vegas NV
+Fort Lauderdale FL,Atlanta GA
+Missoula MT,Denver CO
+Los Angeles CA,Bakersfield CA
+Atlanta GA,Shreveport LA
+Las Vegas NV,Albuquerque NM
+Buffalo NY,Dallas/Fort Worth TX
+Cincinnati OH,Fort Wayne IN
+Tampa FL,Memphis TN
+Chicago IL,Boston MA
+Charlotte NC,San Francisco CA
+Christiansted VI,San Juan PR
+New Orleans LA,Las Vegas NV
+Denver CO,Moline IL
+Pittsburgh PA,Minneapolis MN
+Greensboro/High Point NC,Cincinnati OH
+Los Angeles CA,New York NY
+West Palm Beach/Palm Beach FL,New York NY
+Minneapolis MN,Des Moines IA
+Hartford CT,Fort Lauderdale FL
+Cincinnati OH,San Francisco CA
+Fort Myers FL,Baltimore MD
+Pensacola FL,Tampa FL
+Omaha NE,Atlanta GA
+San Jose CA,Chicago IL
+Orlando FL,Seattle WA
+Detroit MI,Lansing MI
+Albany NY,Grand Rapids MI
+Cincinnati OH,Fort Lauderdale FL
+Missoula MT,Chicago IL
+Bangor ME,Cincinnati OH
+Denver CO,Reno NV
+Fort Lauderdale FL,Nashville TN
+Traverse City MI,Detroit MI
+Philadelphia PA,Rochester NY
+San Juan PR,Fort Lauderdale FL
+Indianapolis IN,Miami FL
+Albuquerque NM,El Paso TX
+Seattle WA,Boston MA
+Cincinnati OH,Honolulu HI
+Richmond VA,Charlotte NC
+Tucson AZ,Chicago IL
+Detroit MI,Las Vegas NV
+San Diego CA,Salt Lake City UT
+Indianapolis IN,Seattle WA
+Cincinnati OH,Madison WI
+Phoenix AZ,Burbank CA
+Chicago IL,Aspen CO
+Memphis TN,Nashville TN
+Seattle WA,Nashville TN
+Newburgh/Poughkeepsie NY,Fort Lauderdale FL
+Dallas/Fort Worth TX,San Juan PR
+West Palm Beach/Palm Beach FL,Philadelphia PA
+Dallas/Fort Worth TX,Myrtle Beach SC
+Spokane WA,Phoenix AZ
+Orlando FL,Lexington KY
+Palm Springs CA,Dallas/Fort Worth TX
+Madison WI,New York NY
+Phoenix AZ,Baltimore MD
+Orlando FL,Albuquerque NM
+Fayetteville AR,Minneapolis MN
+Minneapolis MN,Pittsburgh PA
+Denver CO,Billings MT
+Oakland CA,Houston TX
+Providence RI,Cincinnati OH
+Minneapolis MN,Fort Wayne IN
+Chicago IL,Norfolk VA
+Salt Lake City UT,Fresno CA
+Reno NV,Oakland CA
+Minneapolis MN,Fairbanks AK
+Fort Lauderdale FL,Aguadilla PR
+Salt Lake City UT,Oklahoma City OK
+Savannah GA,Charlotte NC
+Dallas/Fort Worth TX,Norfolk VA
+Allentown/Bethlehem/Easton PA,Cincinnati OH
+Ontario CA,Los Angeles CA
+Austin TX,Atlanta GA
+Anchorage AK,Salt Lake City UT
+Nashville TN,Tampa FL
+Green Bay WI,Dallas/Fort Worth TX
+Tampa FL,Norfolk VA
+Tampa FL,Dayton OH
+San Francisco CA,Charlotte NC
+Dallas/Fort Worth TX,Newark NJ
+Baltimore MD,Miami FL
+Chicago IL,Portland ME
+Anchorage AK,Nome AK
+Detroit MI,Alpena MI
+Cincinnati OH,Manchester NH
+Fort Lauderdale FL,New Orleans LA
+Denver CO,Los Angeles CA
+Houston TX,Tallahassee FL
+Seattle WA,Oklahoma City OK
+Memphis TN,Atlanta GA
+Milwaukee WI,Cincinnati OH
+Minneapolis MN,Philadelphia PA
+San Jose CA,Honolulu HI
+Little Rock AR,Memphis TN
+Oklahoma City OK,Denver CO
+Washington DC,Charlotte Amalie VI
+Seattle WA,Fresno CA
+Fort Lauderdale FL,Memphis TN
+Seattle WA,Colorado Springs CO
+Los Angeles CA,Austin TX
+Cincinnati OH,Shreveport LA
+Houston TX,Brownsville TX
+Houston TX,Laredo TX
+Burbank CA,Dallas/Fort Worth TX
+Milwaukee WI,Tampa FL
+San Juan PR,Detroit MI
+Tulsa OK,Las Vegas NV
+Pittsburgh PA,Baltimore MD
+Orlando FL,Kansas City MO
+Roanoke VA,Chicago IL
+Dallas TX,San Francisco CA
+Houston TX,Corpus Christi TX
+Denver CO,Detroit MI
+Philadelphia PA,Indianapolis IN
+Miami FL,Hartford CT
+Lihue HI,Honolulu HI
+Traverse City MI,Newark NJ
+Denver CO,Columbus OH
+Milwaukee WI,Las Vegas NV
+Cincinnati OH,Birmingham AL
+Los Angeles CA,Fort Lauderdale FL
+San Diego CA,Portland OR
+Chicago IL,Milwaukee WI
+Erie PA,Cincinnati OH
+Washington DC,Indianapolis IN
+Melbourne FL,Washington DC
+Chicago IL,Louisville KY
+Detroit MI,New York NY
+Austin TX,Nashville TN
+Monroe LA,Atlanta GA
+South Bend IN,Cincinnati OH
+Houston TX,San Diego CA
+Cincinnati OH,Baton Rouge LA
+Palm Springs CA,Portland OR
+Fort Myers FL,Newark NJ
+Santa Barbara CA,San Jose CA
+Raleigh/Durham NC,Washington DC
+Green Bay WI,Marquette MI
+Pittsburgh PA,Las Vegas NV
+New York NY,Portland OR
+Honolulu HI,Kahului HI
+Dallas/Fort Worth TX,Manhattan/Ft. Riley KS
+Marthas Vineyard MA,Boston MA
+Raleigh/Durham NC,Minneapolis MN
+Seattle WA,Baltimore MD
+Miami FL,Washington DC
+Honolulu HI,Newark NJ
+Atlanta GA,Omaha NE
+Honolulu HI,Portland OR
+Denver CO,Cedar Rapids/Iowa City IA
+Nashville TN,Newark NJ
+San Diego CA,Oakland CA
+Chicago IL,San Antonio TX
+Nashville TN,Islip NY
+Oakland CA,Ontario CA
+Columbus OH,Las Vegas NV
+Detroit MI,Kansas City MO
+Gunnison CO,Denver CO
+Las Vegas NV,Tampa FL
+Santa Ana CA,Las Vegas NV
+Philadelphia PA,Charleston SC
+Buffalo NY,Tampa FL
+Chicago IL,Manhattan/Ft. Riley KS
+Spokane WA,Minneapolis MN
+Austin TX,St. Louis MO
+Atlanta GA,San Juan PR
+New York NY,Grand Rapids MI
+Fresno CA,Las Vegas NV
+Denver CO,Atlanta GA
+Omaha NE,Denver CO
+Cleveland OH,Islip NY
+Atlanta GA,Burlington VT
+Albuquerque NM,Tucson AZ
+Charlotte NC,Salt Lake City UT
+Casper WY,Salt Lake City UT
+Elmira/Corning NY,Chicago IL
+Greensboro/High Point NC,Tampa FL
+Sacramento CA,Houston TX
+Albuquerque NM,Los Angeles CA
+Fort Lauderdale FL,Chicago IL
+Midland/Odessa TX,Dallas TX
+Knoxville TN,Houston TX
+Monterey CA,Denver CO
+Baltimore MD,Atlanta GA
+Springfield MO,Dallas/Fort Worth TX
+Cincinnati OH,West Palm Beach/Palm Beach FL
+Akron OH,Fort Lauderdale FL
+Dallas/Fort Worth TX,Rochester MN
+Wilmington NC,Charlotte NC
+San Francisco CA,Miami FL
+Cincinnati OH,Fort Myers FL
+Atlanta GA,Valdosta GA
+Las Vegas NV,El Paso TX
+Houston TX,Honolulu HI
+Springfield MO,Atlanta GA
+New York NY,Minneapolis MN
+El Paso TX,Chicago IL
+Charlotte NC,Charlotte Amalie VI
+Oakland CA,Dallas TX
+Miami FL,Philadelphia PA
+Pensacola FL,Cincinnati OH
+Dallas TX,Oakland CA
+Minneapolis MN,Seattle WA
+St. Louis MO,Denver CO
+Williston ND,Denver CO
+Seattle WA,Dallas TX
+Nashville TN,Ontario CA
+Baltimore MD,Fort Myers FL
+Chicago IL,Orlando FL
+Lexington KY,Atlanta GA
+Manchester NH,Minneapolis MN
+Kansas City MO,Phoenix AZ
+Little Rock AR,Dallas/Fort Worth TX
+Sacramento CA,Charlotte NC
+Shreveport LA,Denver CO
+San Francisco CA,Boston MA
+New York NY,Detroit MI
+Raleigh/Durham NC,Chicago IL
+Salt Lake City UT,Little Rock AR
+St. George UT,Denver CO
+Paducah KY,Chicago IL
+Atlanta GA,Scranton/Wilkes-Barre PA
+Raleigh/Durham NC,Nashville TN
+Kona HI,San Francisco CA
+Las Vegas NV,Reno NV
+Orlando FL,Norfolk VA
+Salt Lake City UT,Kansas City MO
+Newport News/Williamsburg VA,Orlando FL
+Eagle CO,Dallas/Fort Worth TX
+Detroit MI,Saginaw/Bay City/Midland MI
+Atlanta GA,Reno NV
+Chicago IL,Charlotte Amalie VI
+Baltimore MD,Dallas/Fort Worth TX
+Kahului HI,Chicago IL
+Cincinnati OH,Charleston/Dunbar WV
+Rhinelander WI,Minneapolis MN
+Panama City FL,St. Louis MO
+Philadelphia PA,Cincinnati OH
+Fargo ND,Denver CO
+Amarillo TX,Denver CO
+Sacramento CA,Las Vegas NV
+Seattle WA,St. Louis MO
+Portland OR,San Jose CA
+Portland ME,Cleveland OH
+Las Vegas NV,Midland/Odessa TX
+Newark NJ,Austin TX
+Grand Rapids MI,Detroit MI
+Burbank CA,Denver CO
+Washington DC,Honolulu HI
+Indianapolis IN,Orlando FL
+Dallas/Fort Worth TX,Wichita Falls TX
+Anchorage AK,Kotzebue AK
+Kansas City MO,Los Angeles CA
+Fort Lauderdale FL,Seattle WA
+Atlanta GA,Detroit MI
+Chicago IL,Flint MI
+San Jose CA,Boston MA
+Pago Pago TT,Honolulu HI
+Houston TX,Alexandria LA
+Atlanta GA,Asheville NC
+Moline IL,Atlanta GA
+St. Augustine FL,Trenton NJ
+Little Rock AR,Cincinnati OH
+Salt Lake City UT,Bozeman MT
+Minneapolis MN,Nashville TN
+Cincinnati OH,Denver CO
+Denver CO,Nashville TN
+Boston MA,Akron OH
+Denver CO,Grand Junction CO
+Nashville TN,Cleveland OH
+West Palm Beach/Palm Beach FL,Dallas/Fort Worth TX
+Dallas/Fort Worth TX,Eagle CO
+Dallas/Fort Worth TX,Santa Fe NM
+New Orleans LA,Salt Lake City UT
+Chicago IL,New York NY
+Dallas/Fort Worth TX,Pensacola FL
+Atlanta GA,New Bern/Morehead/Beaufort NC
+Austin TX,Dallas TX
+Medford OR,Grand Junction CO
+Wrangell AK,Petersburg AK
+Tucson AZ,Salt Lake City UT
+Cincinnati OH,Peoria IL
+Atlantic City NJ,Cincinnati OH
+Cincinnati OH,Erie PA
+Tulsa OK,Detroit MI
+Phoenix AZ,Detroit MI
+Nashville TN,Hartford CT
+Orlando FL,Latrobe PA
+San Antonio TX,Phoenix AZ
+San Francisco CA,Durango CO
+Philadelphia PA,Austin TX
+Louisville KY,Minneapolis MN
+State College PA,Detroit MI
+Newark NJ,Minneapolis MN
+Fargo ND,Chicago IL
+Las Vegas NV,Houston TX
+Hartford CT,Dallas/Fort Worth TX
+Las Vegas NV,Jacksonville FL
+Cleveland OH,Lexington KY
+Santa Fe NM,Dallas/Fort Worth TX
+Chicago IL,Lansing MI
+Los Angeles CA,Inyokern CA
+Valparaiso FL,Dallas/Fort Worth TX
+Raleigh/Durham NC,Atlanta GA
+Milwaukee WI,Detroit MI
+Columbus OH,Boston MA
+Detroit MI,Allentown/Bethlehem/Easton PA
+Traverse City MI,Chicago IL
+Fairbanks AK,Seattle WA
+Birmingham AL,Phoenix AZ
+Newark NJ,Grand Rapids MI
+Dallas TX,Albuquerque NM
+Flint MI,Minneapolis MN
+Dallas/Fort Worth TX,Champaign/Urbana IL
+Jacksonville FL,Dallas/Fort Worth TX
+Lihue HI,Seattle WA
+Lubbock TX,Denver CO
+Memphis TN,Los Angeles CA
+Fort Lauderdale FL,Long Beach CA
+Milwaukee WI,Atlanta GA
+Chicago IL,Memphis TN
+King Salmon AK,Anchorage AK
+Norfolk VA,Minneapolis MN
+Santa Ana CA,Oakland CA
+Houston TX,Nashville TN
+Montrose/Delta CO,Houston TX
+Chicago IL,Indianapolis IN
+Indianapolis IN,Kansas City MO
+Dallas/Fort Worth TX,Tampa FL
+Great Falls MT,Denver CO
+San Diego CA,Los Angeles CA
+Amarillo TX,Albuquerque NM
+Green Bay WI,Minneapolis MN
+Orlando FL,Hartford CT
+Minneapolis MN,Chicago IL
+San Francisco CA,Sun Valley/Hailey/Ketchum ID
+Fayetteville AR,Salt Lake City UT
+Atlanta GA,Newport News/Williamsburg VA
+Chicago IL,Tulsa OK
+Boise ID,Seattle WA
+Phoenix AZ,Reno NV
+Aberdeen SD,Minneapolis MN
+Miami FL,New Orleans LA
+St. Louis MO,Louisville KY
+Portland ME,New York NY
+Dallas TX,Seattle WA
+Denver CO,Oklahoma City OK
+Allentown/Bethlehem/Easton PA,Charlotte NC
+Newark NJ,Cincinnati OH
+Fort Wayne IN,Detroit MI
+Portland OR,Honolulu HI
+Palm Springs CA,Houston TX
+Miami FL,San Juan PR
+Las Vegas NV,Spokane WA
+San Juan PR,Boston MA
+Columbia SC,Atlanta GA
+Dallas/Fort Worth TX,Savannah GA
+Tampa FL,Nashville TN
+Philadelphia PA,Atlanta GA
+Dallas/Fort Worth TX,Baltimore MD
+Orlando FL,Minneapolis MN
+Columbus OH,Fort Lauderdale FL
+Denver CO,Minot ND
+Cincinnati OH,Mobile AL
+Memphis TN,Gulfport/Biloxi MS
+Orlando FL,White Plains NY
+Houston TX,Tulsa OK
+Memphis TN,Seattle WA
+Lexington KY,Detroit MI
+Phoenix AZ,Tucson AZ
+Hartford CT,Houston TX
+Minneapolis MN,Trenton NJ
+Columbus OH,Philadelphia PA
+Indianapolis IN,Memphis TN
+St. Louis MO,Milwaukee WI
+Saginaw/Bay City/Midland MI,Detroit MI
+Escanaba MI,Detroit MI
+Hartford CT,West Palm Beach/Palm Beach FL
+Chicago IL,Marquette MI
+Hartford CT,Denver CO
+Chicago IL,Honolulu HI
+San Jose CA,Kona HI
+Albuquerque NM,Dallas/Fort Worth TX
+Chicago IL,Little Rock AR
+Cincinnati OH,Washington DC
+Burbank CA,San Francisco CA
+Fort Myers FL,Chicago IL
+Cincinnati OH,Syracuse NY
+Baltimore MD,Charleston SC
+Miami FL,Boston MA
+Scranton/Wilkes-Barre PA,Chicago IL
+Cincinnati OH,Baltimore MD
+Tampa FL,Atlanta GA
+Phoenix AZ,Cincinnati OH
+Albuquerque NM,Chicago IL
+Seattle WA,Kansas City MO
+Harrisburg PA,Cincinnati OH
+Tulsa OK,Cincinnati OH
+San Francisco CA,Fort Lauderdale FL
+Laredo TX,Dallas/Fort Worth TX
+San Diego CA,Tucson AZ
+Boston MA,Savannah GA
+Kahului HI,Lihue HI
+Boston MA,Baltimore MD
+San Juan PR,Philadelphia PA
+Newport News/Williamsburg VA,New York NY
+Houston TX,New Orleans LA
+Tampa FL,Miami FL
+White Plains NY,Cleveland OH
+El Paso TX,Atlanta GA
+Seattle WA,Ontario CA
+El Paso TX,Albuquerque NM
+Nashville TN,Jacksonville FL
+Fort Lauderdale FL,Los Angeles CA
+Cody WY,Chicago IL
+Cleveland OH,San Francisco CA
+Providence RI,Detroit MI
+Dallas/Fort Worth TX,Chicago IL
+Phoenix AZ,Tampa FL
+Dallas/Fort Worth TX,Lexington KY
+Cordova AK,Anchorage AK
+Los Angeles CA,Santa Barbara CA
+Seattle WA,Memphis TN
+Boston MA,Cleveland OH
+Chicago IL,Fort Lauderdale FL
+Cincinnati OH,Sioux Falls SD
+Kahului HI,Los Angeles CA
+Denver CO,Eugene OR
+Oakland CA,Baltimore MD
+Salt Lake City UT,Rapid City SD
+Baltimore MD,Seattle WA
+Atlanta GA,Montgomery AL
+San Francisco CA,Chico CA
+Oklahoma City OK,Chicago IL
+Cincinnati OH,Colorado Springs CO
+Atlanta GA,Sarasota/Bradenton FL
+Santa Barbara CA,Seattle WA
+Los Angeles CA,Honolulu HI
+New York NY,Reno NV
+Minneapolis MN,Great Falls MT
+Minneapolis MN,Madison WI
+Cincinnati OH,Kansas City MO
+Las Vegas NV,Detroit MI
+Orlando FL,Memphis TN
+Latrobe PA,Orlando FL
+Denver CO,Gunnison CO
+New York NY,Cincinnati OH
+Bakersfield CA,Phoenix AZ
+Las Vegas NV,Oakland CA
+Houston TX,Lubbock TX
+Anchorage AK,Dillingham AK
+Aspen CO,Denver CO
+Fort Lauderdale FL,Dallas/Fort Worth TX
+Lexington KY,Washington DC
+Greer SC,Houston TX
+Wilmington NC,New York NY
+Chattanooga TN,Cincinnati OH
+Augusta GA,Atlanta GA
+Newark NJ,Nantucket MA
+Huntsville AL,Cincinnati OH
+Salt Lake City UT,Helena MT
+Dallas/Fort Worth TX,Longview TX
+Columbus OH,Washington DC
+Little Rock AR,Chicago IL
+Atlanta GA,Tallahassee FL
+Oklahoma City OK,Las Vegas NV
+West Palm Beach/Palm Beach FL,Atlanta GA
+Minneapolis MN,Albuquerque NM
+Albany NY,Charlotte NC
+Cleveland OH,Kansas City MO
+Detroit MI,Des Moines IA
+St. Louis MO,Little Rock AR
+Dallas/Fort Worth TX,Albuquerque NM
+Houston TX,Grand Junction CO
+Las Vegas NV,Cleveland OH
+Salt Lake City UT,Baltimore MD
+Palm Springs CA,Salt Lake City UT
+Salt Lake City UT,Fort Lauderdale FL
+Atlantic City NJ,Orlando FL
+Albuquerque NM,Seattle WA
+Kahului HI,Seattle WA
+Birmingham AL,Jacksonville FL
+Reno NV,San Jose CA
+Portland OR,Philadelphia PA
+San Diego CA,Detroit MI
+Manchester NH,Newark NJ
+Dallas TX,Chicago IL
+Philadelphia PA,Nashville TN
+Boston MA,Houston TX
+Dallas TX,El Paso TX
+Myrtle Beach SC,Charleston/Dunbar WV
+Boston MA,Myrtle Beach SC
+Minneapolis MN,Anchorage AK
+Boise ID,San Francisco CA
+Little Rock AR,Atlanta GA
+Rhinelander WI,Iron Mountain/Kingsfd MI
+Minneapolis MN,Sacramento CA
+Lubbock TX,Albuquerque NM
+Dallas/Fort Worth TX,Portland OR
+Washington DC,Cincinnati OH
+Denver CO,Colorado Springs CO
+Chicago IL,Appleton WI
+Gillette WY,Denver CO
+Denver CO,Pittsburgh PA
+Atlanta GA,Savannah GA
+Portland OR,Eugene OR
+San Juan PR,Orlando FL
+Houston TX,Amarillo TX
+Nantucket MA,Washington DC
+Atlanta GA,Valparaiso FL
+West Palm Beach/Palm Beach FL,Pittsburgh PA
+Charleston/Dunbar WV,Myrtle Beach SC
+Baltimore MD,Grand Rapids MI
+Minneapolis MN,Denver CO
+Birmingham AL,Tampa FL
+Houston TX,Fort Lauderdale FL
+Charlotte NC,Houston TX
+San Francisco CA,Indianapolis IN
+Newark NJ,Salt Lake City UT
+Jackson/Vicksburg MS,Atlanta GA
+Detroit MI,Kalamazoo MI
+Scranton/Wilkes-Barre PA,Detroit MI
+Los Angeles CA,Oklahoma City OK
+Memphis TN,Springfield MO
+Newark NJ,Buffalo NY
+Yuma AZ,Phoenix AZ
+Newark NJ,Miami FL
+Fairbanks AK,Barrow AK
+Jacksonville FL,Cincinnati OH
+Charlotte Amalie VI,Charlotte NC
+Atlanta GA,Phoenix AZ
+Hayden CO,Houston TX
+Albuquerque NM,Atlanta GA
+Cincinnati OH,Kalamazoo MI
+Detroit MI,Cincinnati OH
+Richmond VA,Fort Lauderdale FL
+Burlington VT,Cincinnati OH
+San Antonio TX,Salt Lake City UT
+Rochester NY,Orlando FL
+Richmond VA,Philadelphia PA
+Kalamazoo MI,Chicago IL
+Buffalo NY,Phoenix AZ
+Washington DC,Fort Lauderdale FL
+Philadelphia PA,Seattle WA
+Palm Springs CA,Seattle WA
+Kansas City MO,Salt Lake City UT
+Greensboro/High Point NC,Houston TX
+Atlanta GA,Macon GA
+Dallas/Fort Worth TX,Palm Springs CA
+Salt Lake City UT,San Francisco CA
+Oklahoma City OK,Detroit MI
+Memphis TN,Dallas/Fort Worth TX
+Phoenix AZ,San Diego CA
+Baltimore MD,Albany NY
+Palm Springs CA,Phoenix AZ
+Minneapolis MN,Spokane WA
+Denver CO,Hays KS
+Sacramento CA,New York NY
+Dallas/Fort Worth TX,San Francisco CA
+Houston TX,Cincinnati OH
+Dallas TX,Houston TX
+Spokane WA,Salt Lake City UT
+Albany NY,Tampa FL
+Tampa FL,New York NY
+New Orleans LA,Kansas City MO
+Tyler TX,Dallas/Fort Worth TX
+Honolulu HI,Minneapolis MN
+Fort Lauderdale FL,Newark NJ
+Newark NJ,San Antonio TX
+Cincinnati OH,South Bend IN
+Nashville TN,Pensacola FL
+Phoenix AZ,Buffalo NY
+Omaha NE,Chicago IL
+Milwaukee WI,Los Angeles CA
+Minneapolis MN,Grand Forks ND
+Seattle WA,Philadelphia PA
+Jackson WY,Chicago IL
+Tallahassee FL,Miami FL
+Kansas City MO,San Diego CA
+Long Beach CA,Austin TX
+Dallas TX,Tampa FL
+Tucson AZ,Minneapolis MN
+Cleveland OH,Harrisburg PA
+Cleveland OH,Albuquerque NM
+Kahului HI,Denver CO
+Dallas/Fort Worth TX,Green Bay WI
+Reno NV,Atlanta GA
+St. Louis MO,Memphis TN
+Dallas/Fort Worth TX,Baton Rouge LA
+Burlington VT,Atlanta GA
+Raleigh/Durham NC,Houston TX
+Providence RI,Nashville TN
+Wichita Falls TX,Dallas/Fort Worth TX
+Dallas TX,Wichita KS
+Fort Lauderdale FL,Austin TX
+Cincinnati OH,Chicago IL
+San Diego CA,Las Vegas NV
+Houston TX,Harlingen/San Benito TX
+Boston MA,Newark NJ
+Tucson AZ,Phoenix AZ
+Boston MA,Dallas/Fort Worth TX
+San Francisco CA,Philadelphia PA
+Cleveland OH,Denver CO
+Cleveland OH,West Palm Beach/Palm Beach FL
+Providence RI,Atlanta GA
+Grand Rapids MI,Tampa FL
+Islip NY,Orlando FL
+Long Beach CA,New York NY
+Trenton NJ,Raleigh/Durham NC
+Newark NJ,San Diego CA
+Niagara Falls NY,Myrtle Beach SC
+Cincinnati OH,Portland OR
+Gulfport/Biloxi MS,Fort Lauderdale FL
+Columbus OH,St. Louis MO
+Tampa FL,Huntsville AL
+Tallahassee FL,Orlando FL
+Santa Ana CA,St. Louis MO
+San Diego CA,Cincinnati OH
+Nashville TN,Baltimore MD
+Harlingen/San Benito TX,San Antonio TX
+Rock Springs WY,Denver CO
+Houston TX,Philadelphia PA
+Houston TX,Gulfport/Biloxi MS
+Washington DC,Birmingham AL
+Washington DC,New Orleans LA
+St. Louis MO,Dallas TX
+Hartford CT,Chicago IL
+Denver CO,Santa Barbara CA
+Miami FL,Raleigh/Durham NC
+Nashville TN,Charleston SC
+Omaha NE,Newark NJ
+Dallas/Fort Worth TX,Madison WI
+Grand Junction CO,Denver CO
+Baltimore MD,Nashville TN
+Albuquerque NM,Denver CO
+St. Louis MO,Newark NJ
+Columbus OH,New York NY
+Monterey CA,San Francisco CA
+Columbia SC,Washington DC
+Oakland CA,Las Vegas NV
+Detroit MI,South Bend IN
+Houston TX,Charleston SC
+Fort Lauderdale FL,Akron OH
+Detroit MI,Scranton/Wilkes-Barre PA
+Atlanta GA,Burbank CA
+Austin TX,Philadelphia PA
+Tampa FL,Austin TX
+Islip NY,Fort Lauderdale FL
+Newark NJ,San Jose CA
+Greensboro/High Point NC,Detroit MI
+Charleston SC,Chicago IL
+Tampa FL,Columbus OH
+San Jose CA,Santa Ana CA
+Newport News/Williamsburg VA,Boston MA
+Marquette MI,Chicago IL
+Omaha NE,Memphis TN
+San Diego CA,Reno NV
+Sacramento CA,Crescent City CA
+Dallas/Fort Worth TX,Denver CO
+Fargo ND,Dallas/Fort Worth TX
+Seattle WA,Pittsburgh PA
+Juneau AK,Sitka AK
+Cincinnati OH,Springfield MO
+Jacksonville FL,Washington DC
+Norfolk VA,Philadelphia PA
+Denver CO,San Jose CA
+Washington DC,Nashville TN
+Atlanta GA,Jacksonville FL
+Denver CO,Greensboro/High Point NC
+Salt Lake City UT,Ontario CA
+Meridian MS,Hattiesburg/Laurel MS
+Chicago IL,Philadelphia PA
+Anchorage AK,Los Angeles CA
+San Diego CA,Houston TX
+Cincinnati OH,Green Bay WI
+Denver CO,Tulsa OK
+Lafayette LA,Atlanta GA
+Sacramento CA,Los Angeles CA
+State College PA,Chicago IL
+Phoenix AZ,Kona HI
+Dallas/Fort Worth TX,Long Beach CA
+Charleston SC,Newark NJ
+Newark NJ,Daytona Beach FL
+Oakland CA,New York NY
+Kona HI,Denver CO
+Washington DC,Knoxville TN
+Hartford CT,Atlanta GA
+Dayton OH,Tampa FL
+Eagle CO,Chicago IL
+Charlotte Amalie VI,Miami FL
+Dallas/Fort Worth TX,Jacksonville FL
+Hartford CT,Nashville TN
+Chicago IL,Miami FL
+Dallas/Fort Worth TX,Seattle WA
+Midland/Odessa TX,Las Vegas NV
+Los Angeles CA,Eugene OR
+Kahului HI,San Francisco CA
+San Antonio TX,Tampa FL
+Portland OR,Dallas/Fort Worth TX
+Philadelphia PA,New Orleans LA
+Springfield MO,Chicago IL
+El Paso TX,Denver CO
+Devils Lake ND,Jamestown ND
+Providence RI,Washington DC
+Gulfport/Biloxi MS,Dallas/Fort Worth TX
+Detroit MI,West Palm Beach/Palm Beach FL
+Baltimore MD,Cincinnati OH
+Burlington VT,Washington DC
+Missoula MT,Minneapolis MN
+Memphis TN,Chicago IL
+San Juan PR,Miami FL
+Moline IL,Dallas/Fort Worth TX
+Memphis TN,Casper WY
+Valparaiso FL,Atlanta GA
+Fort Myers FL,Denver CO
+Los Angeles CA,Philadelphia PA
+Raleigh/Durham NC,Dallas/Fort Worth TX
+Miami FL,Tulsa OK
+Birmingham AL,Houston TX
+Toledo OH,Cincinnati OH
+Santa Maria CA,San Francisco CA
+Jackson WY,Atlanta GA
+Sun Valley/Hailey/Ketchum ID,Denver CO
+Tallahassee FL,New York NY
+Charlotte NC,Pensacola FL
+Denver CO,Lubbock TX
+Appleton WI,Atlanta GA
+Bloomington/Normal IL,Detroit MI
+Atlanta GA,Oakland CA
+Tampa FL,Albuquerque NM
+Columbus OH,Fort Myers FL
+Denver CO,Durango CO
+Memphis TN,San Francisco CA
+Philadelphia PA,Los Angeles CA
+Greer SC,Baltimore MD
+Atlanta GA,Augusta GA
+Cincinnati OH,Newport News/Williamsburg VA
+Greensboro/High Point NC,Charlotte NC
+Jackson/Vicksburg MS,Orlando FL
+Sacramento CA,Santa Ana CA
+Lihue HI,Kahului HI
+Portland OR,Boise ID
+Alexandria LA,Houston TX
+Austin TX,San Francisco CA
+Boston MA,Minneapolis MN
+Grand Rapids MI,Cincinnati OH
+Jacksonville FL,Nashville TN
+Washington DC,Atlanta GA
+Charleston/Dunbar WV,Cincinnati OH
+Austin TX,Chicago IL
+Washington DC,Syracuse NY
+Dallas/Fort Worth TX,Springfield IL
+Atlantic City NJ,Detroit MI
+Atlanta GA,Mobile AL
+Louisville KY,Phoenix AZ
+San Francisco CA,Milwaukee WI
+Buffalo NY,Chicago IL
+Los Angeles CA,Atlanta GA
+Los Angeles CA,Jackson WY
+Raleigh/Durham NC,Hartford CT
+Boise ID,Denver CO
+Dallas TX,Baltimore MD
+Denver CO,Jamestown ND
+Bozeman MT,Portland OR
+Denver CO,Gillette WY
+Baltimore MD,Newark NJ
+Seattle WA,Albuquerque NM
+Dallas/Fort Worth TX,Phoenix AZ
+Jackson WY,Dallas/Fort Worth TX
+San Diego CA,Cleveland OH
+Cedar City UT,Salt Lake City UT
+Austin TX,Fort Lauderdale FL
+Corpus Christi TX,Houston TX
+New Orleans LA,Oakland CA
+Philadelphia PA,Syracuse NY
+Burbank CA,Seattle WA
+Atlanta GA,Islip NY
+Shreveport LA,Houston TX
+Denver CO,San Diego CA
+Oklahoma City OK,Phoenix AZ
+New York NY,Sarasota/Bradenton FL
+Bozeman MT,New York NY
+Fargo ND,Rapid City SD
+Phoenix AZ,Oakland CA
+Santa Barbara CA,Dallas/Fort Worth TX
+Los Angeles CA,Tucson AZ
+Little Rock AR,Newark NJ
+Atlanta GA,Providence RI
+Los Angeles CA,Colorado Springs CO
+Honolulu HI,Anchorage AK
+Washington DC,Louisville KY
+Dallas/Fort Worth TX,West Palm Beach/Palm Beach FL
+Chicago IL,Spokane WA
+Minneapolis MN,Ontario CA
+Minot ND,Denver CO
+Tampa FL,Dallas/Fort Worth TX
+Charlotte NC,Jacksonville FL
+Moline IL,Chicago IL
+Bloomington/Normal IL,Orlando FL
+Milwaukee WI,Washington DC
+Washington DC,Dallas/Fort Worth TX
+Rochester NY,Cincinnati OH
+Grand Rapids MI,St. Louis MO
+Washington DC,Columbia SC
+Washington DC,Greensboro/High Point NC
+Seattle WA,Lihue HI
+Houston TX,Columbia SC
+Harrisburg PA,Detroit MI
+San Juan PR,Atlanta GA
+Long Beach CA,Salt Lake City UT
+Twin Falls ID,Salt Lake City UT
+Seattle WA,Chicago IL
+Lafayette LA,Dallas/Fort Worth TX
+Milwaukee WI,New Orleans LA
+Helena MT,Denver CO
+Gulfport/Biloxi MS,Atlanta GA
+Houston TX,Killeen TX
+Omaha NE,Seattle WA
+Cleveland OH,Houston TX
+Chicago IL,Manchester NH
+Bozeman MT,Detroit MI
+Atlanta GA,Anchorage AK
+El Paso TX,Dallas TX
+Atlanta GA,Salt Lake City UT
+Pittsburgh PA,Detroit MI
+Bangor ME,Detroit MI
+Los Angeles CA,Raleigh/Durham NC
+Jacksonville FL,Newark NJ
+Salt Lake City UT,Minneapolis MN
+Newark NJ,Columbus OH
+Los Angeles CA,Indianapolis IN
+Seattle WA,Pasco/Kennewick/Richland WA
+Panama City FL,Nashville TN
+Nashville TN,Dallas TX
+Fort Myers FL,Hartford CT
+Greensboro/High Point NC,New York NY
+Phoenix AZ,Providence RI
+Washington DC,Charleston SC
+Memphis TN,Fayetteville AR
+Jacksonville FL,Norfolk VA
+Panama City FL,Atlanta GA
+Abilene TX,Dallas/Fort Worth TX
+Myrtle Beach SC,Chicago IL
+New Orleans LA,Detroit MI
+Richmond VA,Cincinnati OH
+Milwaukee WI,San Diego CA
+Buffalo NY,Minneapolis MN
+Providence RI,Charlotte NC
+Fort Lauderdale FL,Denver CO
+Philadelphia PA,Fort Lauderdale FL
+Miami FL,Houston TX
+Seattle WA,Honolulu HI
+Baltimore MD,New Orleans LA
+Manchester NH,Baltimore MD
+Newark NJ,Scranton/Wilkes-Barre PA
+Newark NJ,Los Angeles CA
+Indianapolis IN,Newark NJ
+Nashville TN,Kansas City MO
+Denver CO,Lafayette LA
+Raleigh/Durham NC,Newark NJ
+Dallas/Fort Worth TX,Shreveport LA
+Seattle WA,Fort Lauderdale FL
+Cincinnati OH,Daytona Beach FL
+Dayton OH,New York NY
+Fort Myers FL,Houston TX
+Chicago IL,Fort Wayne IN
+Tulsa OK,Houston TX
+Allentown/Bethlehem/Easton PA,Detroit MI
+San Diego CA,San Antonio TX
+Denver CO,Rock Springs WY
+Detroit MI,Lexington KY
+Denver CO,Sun Valley/Hailey/Ketchum ID
+Chicago IL,New Orleans LA
+Daytona Beach FL,Newark NJ
+Detroit MI,Salt Lake City UT
+Boston MA,Norfolk VA
+San Francisco CA,Oklahoma City OK
+Omaha NE,Dallas/Fort Worth TX
+St. Louis MO,Seattle WA
+Los Angeles CA,Boston MA
+Houston TX,Boise ID
+Honolulu HI,Salt Lake City UT
+San Francisco CA,Austin TX
+Boston MA,Kansas City MO
+Atlanta GA,Wichita KS
+Kona HI,Kahului HI
+Raleigh/Durham NC,Baltimore MD
+Orlando FL,Phoenix AZ
+Chicago IL,El Paso TX
+New York NY,Rochester NY
+Chicago IL,Burlington VT
+Chicago IL,Eau Claire WI
+Fort Lauderdale FL,Gulfport/Biloxi MS
+Miami FL,Norfolk VA
+Houston TX,Santa Ana CA
+Miami FL,Kansas City MO
+Long Beach CA,Oakland CA
+Santa Barbara CA,Denver CO
+Washington DC,Raleigh/Durham NC
+Washington DC,Melbourne FL
+Albuquerque NM,San Francisco CA
+Oklahoma City OK,Baltimore MD
+Denver CO,New Orleans LA
+Kansas City MO,Tampa FL
+New York NY,Charlotte NC
+San Jose CA,Kahului HI
+Ontario CA,Atlanta GA
+Cincinnati OH,Binghamton NY
+Pensacola FL,New York NY
+Greer SC,Cleveland OH
+Cincinnati OH,Valparaiso FL
+New York NY,Tallahassee FL
+Adak Island AK,King Salmon AK
+Washington DC,St. Louis MO
+Gulfport/Biloxi MS,Memphis TN
+Las Vegas NV,Wichita KS
+Washington DC,Boston MA
+Miami FL,Memphis TN
+Minneapolis MN,Colorado Springs CO
+Minneapolis MN,Boise ID
+Columbus OH,Miami FL
+Colorado Springs CO,Atlanta GA
+Knoxville TN,Detroit MI
+Nantucket MA,Newark NJ
+Denver CO,Birmingham AL
+Chicago IL,Birmingham AL
+Savannah GA,Boston MA
+Bakersfield CA,Denver CO
+Louisville KY,Baltimore MD
+Dallas/Fort Worth TX,Bismarck/Mandan ND
+Minneapolis MN,Fayetteville AR
+Hartford CT,San Juan PR
+St. Louis MO,Fort Lauderdale FL
+Minneapolis MN,Pasco/Kennewick/Richland WA
+Kona HI,Chicago IL
+Albany GA,Atlanta GA
+Eagle CO,Denver CO
+Knoxville TN,Orlando FL
+Indianapolis IN,New Orleans LA
+Houston TX,Knoxville TN
+Kansas City MO,St. Louis MO
+Denver CO,Cody WY
+Kansas City MO,Milwaukee WI
+Seattle WA,San Francisco CA
+Tampa FL,Philadelphia PA
+Phoenix AZ,Kalispell MT
+El Paso TX,Midland/Odessa TX
+Milwaukee WI,Charlotte NC
+Tampa FL,Trenton NJ
+Los Angeles CA,St. Louis MO
+Salt Lake City UT,Denver CO
+Hilo HI,Kahului HI
+Springfield MO,Denver CO
+Dallas TX,Phoenix AZ
+Portland OR,Los Angeles CA
+Atlanta GA,Houston TX
+Cleveland OH,Hartford CT
+Memphis TN,Newark NJ
+Dallas/Fort Worth TX,Mobile AL
+Fort Lauderdale FL,Washington DC
+Norfolk VA,Houston TX
+Champaign/Urbana IL,Cincinnati OH
+Billings MT,Salt Lake City UT
+Richmond VA,Dallas/Fort Worth TX
+Houston TX,Raleigh/Durham NC
+Denver CO,Washington DC
+Memphis TN,Denver CO
+Tampa FL,Akron OH
+Amarillo TX,Dallas/Fort Worth TX
+Portland OR,Washington DC
+Phoenix AZ,Charlotte NC
+International Falls MN,Minneapolis MN
+Billings MT,Minneapolis MN
+Dallas/Fort Worth TX,Houston TX
+San Francisco CA,St. Louis MO
+Minneapolis MN,Dallas/Fort Worth TX
+Philadelphia PA,Boston MA
+Portland OR,Boston MA
+Las Vegas NV,Anchorage AK
+Phoenix AZ,Houston TX
+Houston TX,Colorado Springs CO
+Washington DC,Huntsville AL
+San Jose CA,Santa Barbara CA
+Las Vegas NV,Salt Lake City UT
+Orlando FL,Worcester MA
+St. Louis MO,Chicago IL
+San Antonio TX,Houston TX
+Long Beach CA,Las Vegas NV
+Appleton WI,Cincinnati OH
+Houston TX,Dallas/Fort Worth TX
+Charlotte NC,Cleveland OH
+Baltimore MD,Philadelphia PA
+Atlanta GA,Daytona Beach FL
+Cincinnati OH,Pensacola FL
+Las Vegas NV,Minneapolis MN
+Louisville KY,Houston TX
+Fort Lauderdale FL,Pittsburgh PA
+Atlanta GA,Atlantic City NJ
+Honolulu HI,Houston TX
+Hartford CT,Newark NJ
+Atlanta GA,Peoria IL
+Chicago IL,Trenton NJ
+Jackson/Vicksburg MS,Washington DC
+Atlanta GA,Sacramento CA
+Chicago IL,Madison WI
+San Diego CA,New York NY
+Phoenix AZ,Las Vegas NV
+Cleveland OH,Buffalo NY
+Santa Fe NM,Denver CO
+Sitka AK,Juneau AK
+Tampa FL,Seattle WA
+Chicago IL,Charleston SC
+Miami FL,Gainesville FL
+St. Louis MO,Philadelphia PA
+Charlotte NC,Minneapolis MN
+Phoenix AZ,Yuma AZ
+Boston MA,Newport News/Williamsburg VA
+Chicago IL,Cody WY
+Fort Lauderdale FL,Kansas City MO
+New York NY,Burbank CA
+Salt Lake City UT,Kahului HI
+Grand Junction CO,Dallas/Fort Worth TX
+Cincinnati OH,Little Rock AR
+Boston MA,Salt Lake City UT
+Houston TX,Gunnison CO
+Phoenix AZ,Cleveland OH
+Denver CO,Grand Rapids MI
+Memphis TN,Baton Rouge LA
+Los Angeles CA,Cincinnati OH
+Houston TX,Atlanta GA
+Seattle WA,Ketchikan AK
+New York NY,Hyannis MA
+Minneapolis MN,Syracuse NY
+San Juan PR,Washington DC
+Cincinnati OH,Greer SC
+Detroit MI,Buffalo NY
+Denver CO,Tucson AZ
+Tampa FL,Manchester NH
+Atlanta GA,Chattanooga TN
+Ketchikan AK,Juneau AK
+New York NY,San Diego CA
+Charlotte NC,Sarasota/Bradenton FL
+Chicago IL,Washington DC
+St. Louis MO,Birmingham AL
+Portland OR,Santa Ana CA
+Cincinnati OH,White Plains NY
+Charlotte NC,Hartford CT
+Atlanta GA,Tampa FL
+Portland OR,Santa Barbara CA
+San Diego CA,Charlotte NC
+San Francisco CA,Atlanta GA
+Richmond VA,Atlanta GA
+Chicago IL,Albuquerque NM
+El Paso TX,Colorado Springs CO
+New Orleans LA,Cleveland OH
+Cincinnati OH,Minneapolis MN
+Memphis TN,Fort Lauderdale FL
+Lubbock TX,Dallas TX
+Minneapolis MN,Duluth MN
+Atlanta GA,Portland OR
+Denver CO,Monterey CA
+Houston TX,Louisville KY
+Chicago IL,Seattle WA
+Washington DC,San Jose CA
+Salt Lake City UT,Chicago IL
+Sioux Falls SD,Cincinnati OH
+Baltimore MD,Los Angeles CA
+Los Angeles CA,Washington DC
+Houston TX,Milwaukee WI
+Manchester NH,Detroit MI
+Las Vegas NV,Latrobe PA
+Salt Lake City UT,Fairbanks AK
+Bangor ME,New York NY
+San Juan PR,Christiansted VI
+Denver CO,Fort Myers FL
+Miami FL,Baltimore MD
+Atlanta GA,Key West FL
+Houston TX,San Jose CA
+Las Vegas NV,Baltimore MD
+Lansing MI,Chicago IL
+Orlando FL,Newport News/Williamsburg VA
+Des Moines IA,Houston TX
+Washington DC,Austin TX
+Atlanta GA,Green Bay WI
+Washington DC,Milwaukee WI
+San Francisco CA,Raleigh/Durham NC
+Washington DC,Akron OH
+Cincinnati OH,Myrtle Beach SC
+Kalispell MT,Pocatello ID
+San Francisco CA,New Orleans LA
+Madison WI,Cincinnati OH
+Birmingham AL,Las Vegas NV
+Houston TX,St. Louis MO
+Charlotte NC,Phoenix AZ
+Albuquerque NM,Newark NJ
+Oklahoma City OK,Salt Lake City UT
+Tampa FL,Birmingham AL
+New York NY,Phoenix AZ
+Syracuse NY,Minneapolis MN
+Atlanta GA,Dothan AL
+Salt Lake City UT,Pasco/Kennewick/Richland WA
+Kansas City MO,Detroit MI
+Minneapolis MN,Atlanta GA
+Washington DC,Philadelphia PA
+Boise ID,Spokane WA
+Las Vegas NV,Ontario CA
+Salt Lake City UT,Fayetteville AR
+Spokane WA,Portland OR
+Washington DC,Los Angeles CA
+Islip NY,Nashville TN
+Rochester MN,Chicago IL
+Mosinee WI,Chicago IL
+St. Louis MO,Kansas City MO
+Buffalo NY,Cleveland OH
+Knoxville TN,New York NY
+Fairbanks AK,Chicago IL
+St. Louis MO,San Francisco CA
+San Antonio TX,Detroit MI
+Albany NY,Las Vegas NV
+Fort Myers FL,Cleveland OH
+Louisville KY,Cleveland OH
+Newark NJ,Albany NY
+Charlotte NC,Myrtle Beach SC
+Denver CO,Sioux Falls SD
+Salt Lake City UT,Springfield MO
+Cincinnati OH,Montgomery AL
+Detroit MI,Phoenix AZ
+Alpena MI,Detroit MI
+Cincinnati OH,Akron OH
+Aguadilla PR,Orlando FL
+Lubbock TX,El Paso TX
+West Palm Beach/Palm Beach FL,Washington DC
+Memphis TN,Kansas City MO
+Jacksonville FL,Atlanta GA
+Phoenix AZ,Columbus OH
+Atlanta GA,Jackson/Vicksburg MS
+Columbus MS,Atlanta GA
+Denver CO,Indianapolis IN
+Dallas/Fort Worth TX,Cleveland OH
+Chicago IL,Lincoln NE
+Boston MA,Sacramento CA
+Portland OR,Atlanta GA
+San Diego CA,Miami FL
+Baltimore MD,Memphis TN
+San Luis Obispo CA,Los Angeles CA
+San Francisco CA,Colorado Springs CO
+Newark NJ,Detroit MI
+Baltimore MD,Boston MA
+Hartford CT,Minneapolis MN
+Los Angeles CA,New Orleans LA
+Charlotte NC,San Juan PR
+Phoenix AZ,San Antonio TX
+Burlington VT,Newark NJ
+Baltimore MD,Oklahoma City OK
+Dayton OH,Detroit MI
+Columbia SC,Orlando FL
+Houston TX,Lake Charles LA
+Houston TX,Aspen CO
+Sault Ste. Marie MI,Detroit MI
+Kansas City MO,New York NY
+Atlanta GA,Las Vegas NV
+San Francisco CA,Santa Barbara CA
+Nashville TN,Denver CO
+Salt Lake City UT,Butte MT
+White Plains NY,Orlando FL
+Atlanta GA,Tupelo MS
+Miami FL,San Francisco CA
+New York NY,Nantucket MA
+Cincinnati OH,Norfolk VA
+Inyokern CA,Los Angeles CA
+Pensacola FL,Charlotte NC
+Kansas City MO,Providence RI
+Savannah GA,New York NY
+Gainesville FL,Atlanta GA
+Pensacola FL,Miami FL
+Salt Lake City UT,Bend/Redmond OR
+Durango CO,Dallas/Fort Worth TX
+Las Vegas NV,Burbank CA
+Portland OR,Cincinnati OH
+Nashville TN,Houston TX
+Detroit MI,Minneapolis MN
+Charlotte NC,Savannah GA
+El Centro CA,Palm Springs CA
+Boston MA,Portland OR
+Atlanta GA,Columbus GA
+Orlando FL,Flint MI
+Knoxville TN,Cleveland OH
+Philadelphia PA,Norfolk VA
+Tallahassee FL,Cincinnati OH
+Detroit MI,White Plains NY
+Minneapolis MN,Memphis TN
+New York NY,Buffalo NY
+St. Louis MO,Albuquerque NM
+San Diego CA,Orlando FL
+Sacramento CA,San Diego CA
+Chicago IL,Sioux Falls SD
+Atlanta GA,Missoula MT
+San Jose CA,Dallas/Fort Worth TX
+Salt Lake City UT,Casper WY
+Birmingham AL,Detroit MI
+La Crosse WI,Chicago IL
+Fort Lauderdale FL,Plattsburgh NY
+New York NY,Jacksonville FL
+Newark NJ,Portland ME
+Oakland CA,Salt Lake City UT
+Anchorage AK,Kodiak AK
+Atlanta GA,Toledo OH
+Cincinnati OH,Newark NJ
+Wichita KS,Orlando FL
+Milwaukee WI,Fort Lauderdale FL
+Los Angeles CA,Nashville TN
+Memphis TN,Fort Myers FL
+San Jose CA,Newark NJ
+Spokane WA,Rapid City SD
+Atlanta GA,Fargo ND
+Chicago IL,Fayetteville AR
+Burlington VT,Philadelphia PA
+Philadelphia PA,Dallas/Fort Worth TX
+Colorado Springs CO,Dallas/Fort Worth TX
+Tampa FL,Gulfport/Biloxi MS
+Cincinnati OH,Omaha NE
+Houston TX,Austin TX
+Houston TX,Huntsville AL
+Philadelphia PA,Newark NJ
+Chicago IL,Elmira/Corning NY
+Cincinnati OH,Flint MI
+Seattle WA,Kona HI
+Seattle WA,Denver CO
+Bakersfield CA,Houston TX
+Cincinnati OH,Memphis TN
+Las Vegas NV,Phoenix AZ
+Flint MI,Baltimore MD
+Atlanta GA,Charleston/Dunbar WV
+Houston TX,Los Angeles CA
+Austin TX,Denver CO
+Phoenix AZ,New York NY
+Detroit MI,Harrisburg PA
+Wrangell AK,Ketchikan AK
+Great Falls MT,Minneapolis MN
+Boise ID,Chicago IL
+Indianapolis IN,Boston MA
+Seattle WA,Fairbanks AK
+Las Vegas NV,Islip NY
+Portland ME,Charlotte NC
+Hartford CT,Baltimore MD
+Barrow AK,Fairbanks AK
+Detroit MI,San Diego CA
+Orlando FL,Salt Lake City UT
+Charlotte NC,Baltimore MD
+Austin TX,Seattle WA
+Kansas City MO,Las Vegas NV
+San Antonio TX,Las Vegas NV
+Detroit MI,Binghamton NY
+Cincinnati OH,Asheville NC
+Baltimore MD,Milwaukee WI
+Kansas City MO,Oakland CA
+New York NY,Traverse City MI
+Tampa FL,Fort Lauderdale FL
+Providence RI,Fort Lauderdale FL
+Albany NY,Detroit MI
+Charlottesville VA,Chicago IL
+Boston MA,San Francisco CA
+Houston TX,Oklahoma City OK
+Kansas City MO,Cincinnati OH
+Tampa FL,Greensboro/High Point NC
+Arcata/Eureka CA,Sacramento CA
+Honolulu HI,Sacramento CA
+Des Moines IA,Detroit MI
+Detroit MI,Savannah GA
+Cincinnati OH,Hartford CT
+Newark NJ,Las Vegas NV
+Houston TX,Boston MA
+Baltimore MD,Norfolk VA
+Los Angeles CA,Santa Ana CA
+Newark NJ,Richmond VA
+San Francisco CA,Santa Ana CA
+Columbus OH,Orlando FL
+Islip NY,Chicago IL
+Raleigh/Durham NC,San Francisco CA
+Dallas/Fort Worth TX,Montrose/Delta CO
+Missoula MT,Salt Lake City UT
+Orlando FL,Baltimore MD
+Newark NJ,Dayton OH
+Fort Lauderdale FL,San Francisco CA
+Lexington KY,Fort Lauderdale FL
+Atlanta GA,Evansville IN
+Myrtle Beach SC,Cleveland OH
+Richmond VA,Boston MA
+Denver CO,Fort Lauderdale FL
+San Francisco CA,Cincinnati OH
+Honolulu HI,Kona HI
+Kahului HI,Dallas/Fort Worth TX
+Minneapolis MN,Omaha NE
